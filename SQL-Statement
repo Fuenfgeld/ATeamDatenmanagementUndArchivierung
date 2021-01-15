@@ -1,0 +1,10 @@
+create table tb_careplans (
+Id varchar (256) default NULL,
+START varchar (256) DEFAULT NULL,
+STOP date (10) DEFAULT NULL,
+PATIENT varchar (256) PRIMARY key not NULL,
+ENCOUNTER varchar (256) default NULL,
+CODE varchar (256) default NULL,
+DESCRIPTION VARCHAR (256) DEFAULT NULL,
+REASONCODE varchar (256) DEFAULT NULL,
+REASONDESCRIPTION VARCHAR (256) DEFAULT NULL);
