@@ -80,18 +80,19 @@ CREATE TABLE tb_organizations
 
 CREATE TABLE tb_providers 
   ( 
-     id             NVARCHAR(256), 
-     organization   NVARCHAR(256) DEFAULT NULL, 
-     name           NVARCHAR(256) DEFAULT NULL, 
-     gender         CHAR(1) DEFAULT NULL, 
-     speciality     NVARCHAR(256) DEFAULT NULL, 
-     address        NVARCHAR(256) DEFAULT NULL, 
-     city           NVARCHAR(256) DEFAULT NULL, 
-     state          NVARCHAR(256) DEFAULT NULL, 
-     zip            NVARCHAR(256) DEFAULT NULL, 
-     lat            NUMERIC(8, 6) DEFAULT NULL, 
-     lon            NUMERIC(8, 6) DEFAULT NULL, 
-     utilization    INT DEFAULT NULL, 
+     id                NVARCHAR(256), 
+     organization_id   NVARCHAR(256),
+     organization_dso  NVARCHAR(256),
+     name              NVARCHAR(256) DEFAULT NULL, 
+     gender            CHAR(1) DEFAULT NULL, 
+     speciality        NVARCHAR(256) DEFAULT NULL, 
+     address           NVARCHAR(256) DEFAULT NULL, 
+     city              NVARCHAR(256) DEFAULT NULL, 
+     state             NVARCHAR(256) DEFAULT NULL, 
+     zip               NVARCHAR(256) DEFAULT NULL, 
+     lat               NUMERIC(8, 6) DEFAULT NULL, 
+     lon               NUMERIC(8, 6) DEFAULT NULL, 
+     utilization       INT DEFAULT NULL, 
      dataset_origin NVARCHAR(256), 
      PRIMARY KEY (id, dataset_origin) 
   ); 
