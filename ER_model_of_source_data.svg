@@ -1,1 +1,1183 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1604px" viewBox="-0.5 -0.5 1604 1922" content="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" onclick="(function(svg){var src=window.event.target||window.event.srcElement;while (src!=null&amp;&amp;src.nodeName.toLowerCase()!='a'){src=src.parentNode;}if(src==null){if(svg.wnd!=null&amp;&amp;!svg.wnd.closed){svg.wnd.focus();}else{var r=function(evt){if(evt.data=='ready'&amp;&amp;evt.source==svg.wnd){svg.wnd.postMessage(decodeURIComponent(svg.getAttribute('content')),'*');window.removeEventListener('message',r);}};window.addEventListener('message',r);svg.wnd=window.open('https://cdn-latest.visual-paradigm.com/diagrams/?client=1&amp;edit=_blank');}}})(this);" style="cursor:pointer;max-width:100%;max-height:1922px;"><defs><style type="text/css">ul { margin-top: 0px; margin-bottom: 10px; }&#xa;ol { margin-top: 0px; margin-bottom: 10px; }&#xa;.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 { margin-bottom: .5rem; font-weight: 500; line-height: 1.2; }&#xa;h1, h2, h3, h4, h5, h6 { margin-top: 0; margin-bottom: .5rem; }&#xa;.h1, h1 { font-size: 2.5rem; }&#xa;h2 { font-size: 1.5em; font-weight: bold; }&#xa;h3 { font-size: 1.17em; font-weight: bold; }&#xa;.h4, h4 { font-size: 1.5rem; }&#xa;.h5, h5 { font-size: 1.25rem; }&#xa;.h6, h6 { font-size: 1rem; }&#xa;p { margin-top: 0; margin-bottom: 1rem; }&#xa;ul { margin-top: 0px; margin-bottom: 10px; }&#xa;ol { margin-top: 0px; margin-bottom: 10px; }&#xa;.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 { margin-bottom: .5rem; font-weight: 500; line-height: 1.2; }&#xa;h1, h2, h3, h4, h5, h6 { margin-top: 0; margin-bottom: .5rem; }&#xa;.h1, h1 { font-size: 2.5rem; }&#xa;h2 { font-size: 1.5em; font-weight: bold; }&#xa;h3 { font-size: 1.17em; font-weight: bold; }&#xa;.h4, h4 { font-size: 1.5rem; }&#xa;.h5, h5 { font-size: 1.25rem; }&#xa;.h6, h6 { font-size: 1rem; }&#xa;p { margin-top: 0; margin-bottom: 1rem; }&#xa;ul { margin-top: 0px; margin-bottom: 10px; }&#xa;ol { margin-top: 0px; margin-bottom: 10px; }&#xa;.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 { margin-bottom: .5rem; font-weight: 500; line-height: 1.2; }&#xa;h1, h2, h3, h4, h5, h6 { margin-top: 0; margin-bottom: .5rem; }&#xa;.h1, h1 { font-size: 2.5rem; }&#xa;h2 { font-size: 1.5em; font-weight: bold; }&#xa;h3 { font-size: 1.17em; font-weight: bold; }&#xa;.h4, h4 { font-size: 1.5rem; }&#xa;.h5, h5 { font-size: 1.25rem; }&#xa;.h6, h6 { font-size: 1rem; }&#xa;p { margin-top: 0; margin-bottom: 1rem; }&#xa;</style></defs><g><rect x="0" y="0" width="240" height="181.51" rx="10" ry="10" fill="#f5b67a" stroke="#000000" pointer-events="all"/><rect x="0" y="0" width="240" height="181.51" rx="10" ry="10" fill="none" stroke="#000000" pointer-events="all"/><path d="M 0 15 L 240 15" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/><g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="12px"><text x="119.5" y="10.5">careplans</text></g><rect x="0" y="20" width="240" height="16" fill="none" stroke="none" pointer-events="all"/><g fill="#000000" font-family="Helvetica" font-weight="bold" font-size="12px"><text x="6.5" y="32.5">Id : varchar(256)</text></g><rect x="0" y="36" width="240" height="16" fill="none" stroke="none" pointer-events="all"/><g fill="#000000" font-family="Helvetica" font-size="12px"><text x="6.5" y="48.5">START : date</text></g><rect x="0" y="52" width="240" height="16" fill="none" stroke="none" pointer-events="all"/><g fill="#000000" font-family="Helvetica" font-size="12px"><text x="6.5" y="64.5">STOP: date</text></g><rect x="0" y="68" width="240" height="16" fill="none" stroke="none" pointer-events="all"/><g fill="#000000" font-family="Helvetica" font-style="italic" font-size="12px"><text x="6.5" y="80.5">PATIENT : varchar(256)</text></g><rect x="0" y="84" width="240" height="16" fill="none" stroke="none" pointer-events="all"/><g fill="#000000" font-family="Helvetica" font-style="italic" font-size="12px"><text x="6.5" y="96.5">ENCOUNTER : varchar(256)</text></g><rect x="0" y="100" width="240" height="16" fill="none" stroke="none" pointer-events="all"/><g fill="#000000" font-family="Helvetica" font-size="12px"><text x="6.5" y="112.5">CODE : varchar(256)</text></g><rect x="0" y="116" width="240" height="16" fill="none" stroke="none" pointer-events="all"/><g fill="#000000" font-family="Helvetica" font-size="12px"><text x="6.5" y="128.5">DESCRIPTION : varchar(256)</text></g><rect x="0" y="132" width="240" height="16" fill="none" stroke="none" pointer-events="all"/><g fill="#000000" font-family="Helvetica" font-size="12px"><text x="6.5" y="144.5">REASONCODE : varchar(256)</text></g><rect x="0" y="148" width="240" height="16" fill="none" stroke="none" pointer-events="all"/><g fill="#000000" font-family="Helvetica" font-size="12px"><text x="6.5" y="160.5">REASONDESCRIPTION : varchar(256)</text></g><rect x="0" y="164" width="240" height="16" fill="none" stroke="none" pointer-events="all"/><g fill="#000000" font-family="Helvetica" font-weight="bold" font-size="12px"><text x="6.5" y="176.5">DATASET_ORIGIN : varchar(256)</text></g><rect x="1363" y="230" width="195" height="213.51" rx="10" ry="10" fill="#91ead2" stroke="#64b19c" pointer-events="all"/><rect x="1363" y="230" width="195" height="213.51" rx="10" ry="10" fill="none" stroke="#64b19c" pointer-events="all"/><path d="M 1363 245 L 1558 245" fill="none" stroke="#64b19c" stroke-miterlimit="10" pointer-events="all"/><g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="12px"><text x="1460" y="240.5">organization</text></g><rect x="1363" y="250" width="195" height="16" fill="none" stroke="none" pointer-events="all"/><g fill="#000000" font-family="Helvetica" font-weight="bold" font-size="12px"><text x="1369.5" y="262.5">Id : varchar(256)</text></g><rect x="1363" y="266" width="195" height="16" fill="none" stroke="none" pointer-events="all"/><g fill="#000000" font-family="Helvetica" font-size="12px"><text x="1369.5" y="278.5">NAME : varchar(256)</text></g><rect x="1363" y="282" width="195" height="16" fill="none" stroke="none" pointer-events="all"/><g fill="#000000" font-family="Helvetica" font-size="12px"><text x="1369.5" y="294.5">ADDRESS : varchar(256)</text></g><rect x="1363" y="298" width="195" height="16" fill="none" stroke="none" pointer-events="all"/><g fill="#000000" font-family="Helvetica" font-size="12px"><text x="1369.5" y="310.5">CITY : varchar(256)</text></g><rect x="1363" y="314" width="195" height="16" fill="none" stroke="none" pointer-events="all"/><g fill="#000000" font-family="Helvetica" font-size="12px"><text x="1369.5" y="326.5">STATE : varchar(256)</text></g><rect x="1363" y="330" width="195" height="16" fill="none" stroke="none" pointer-events="all"/><g fill="#000000" font-family="Helvetica" font-size="12px"><text x="1369.5" y="342.5">ZIP : varchar(256)</text></g><rect x="1363" y="346" width="195" height="16" fill="none" stroke="none" pointer-events="all"/><g fill="#000000" font-family="Helvetica" font-size="12px"><text x="1369.5" y="358.5">LAT : numeric(8,6)</text></g><rect x="1363" y="362" width="195" height="16" fill="none" stroke="none" pointer-events="all"/><g fill="#000000" font-family="Helvetica" font-size="12px"><text x="1369.5" y="374.5">LON : numeric(8,6)</text></g><rect x="1363" y="378" width="195" height="16" fill="none" stroke="none" pointer-events="all"/><g fill="#000000" font-family="Helvetica" font-size="12px"><text x="1369.5" y="390.5">PHONE : varchar(256)</text></g><rect x="1363" y="394" width="195" height="16" fill="none" stroke="none" pointer-events="all"/><g fill="#000000" font-family="Helvetica" font-size="12px"><text x="1369.5" y="406.5">REVENUE : numeric(10,2)</text></g><rect x="1363" y="410" width="195" height="16" fill="none" stroke="none" pointer-events="all"/><g fill="#000000" font-family="Helvetica" font-size="12px"><text x="1369.5" y="422.5">UTILIZATION : int</text></g><rect x="1363" y="426" width="195" height="16" fill="none" stroke="none" pointer-events="all"/><g fill="#000000" font-family="Helvetica" font-weight="bold" font-size="12px"><text x="1369.5" y="438.5">DATASET_ORIGIN : varchar(256)</text></g><rect x="1363" y="482.49" width="195" height="229.51" rx="10" ry="10" fill="#91ead2" stroke="#64b19c" pointer-events="all"/><rect x="1363" y="482.49" width="195" height="229.51" rx="10" ry="10" fill="none" stroke="#64b19c" pointer-events="all"/><path d="M 1363 497.5 L 1558 497.5" fill="none" stroke="#64b19c" stroke-miterlimit="10" pointer-events="all"/><g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="12px"><text x="1460" y="492.99">providers</text></g><rect x="1363" y="502.5" width="195" height="16" fill="none" stroke="none" pointer-events="all"/><g fill="#000000" font-family="Helvetica" font-weight="bold" font-size="12px"><text x="1369.5" y="515">Id : varchar(256)</text></g><rect x="1363" y="518.5" width="195" height="16" fill="none" stroke="none" pointer-events="all"/><g fill="#000000" font-family="Helvetica" font-style="italic" font-size="12px"><text x="1369.5" y="531">ORGANIZATION : varchar(256)</text></g><rect x="1363" y="534.5" width="195" height="16" fill="none" stroke="none" pointer-events="all"/><g fill="#000000" font-family="Helvetica" font-size="12px"><text x="1369.5" y="547">NAME : varchar(256)</text></g><rect x="1363" y="550.5" width="195" height="16" fill="none" stroke="none" pointer-events="all"/><g fill="#000000" font-family="Helvetica" font-size="12px"><text x="1369.5" y="563">GENDER : char(1)</text></g><rect x="1363" y="566.5" width="195" height="16" fill="none" stroke="none" pointer-events="all"/><g fill="#000000" font-family="Helvetica" font-size="12px"><text x="1369.5" y="579">SPECIALTY : varchar(256)</text></g><rect x="1363" y="582.5" width="195" height="16" fill="none" stroke="none" pointer-events="all"/><g fill="#000000" font-family="Helvetica" font-size="12px"><text x="1369.5" y="595">ADDRESS : varchar(256)</text></g><rect x="1363" y="598.5" width="195" height="16" fill="none" stroke="none" pointer-events="all"/><g fill="#000000" font-family="Helvetica" font-size="12px"><text x="1369.5" y="611">CITY : varchar(256)</text></g><rect x="1363" y="614.5" width="195" height="16" fill="none" stroke="none" pointer-events="all"/><g fill="#000000" font-family="Helvetica" font-size="12px"><text x="1369.5" y="627">STATE : varchar(256)</text></g><rect x="1363" y="630.5" width="195" height="16" fill="none" stroke="none" pointer-events="all"/><g fill="#000000" font-family="Helvetica" font-size="12px"><text x="1369.5" y="643">ZIP : varchar(256)</text></g><rect x="1363" y="646.5" width="195" height="16" fill="none" stroke="none" pointer-events="all"/><g fill="#000000" font-family="Helvetica" font-size="12px"><text x="1369.5" y="659">LAT : numeric(8,6)</text></g><rect x="1363" y="662.5" width="195" height="16" fill="none" stroke="none" pointer-events="all"/><g fill="#000000" font-family="Helvetica" font-size="12px"><text x="1369.5" y="675">LON : numeric(8,6)</text></g><rect x="1363" y="678.5" width="195" height="16" fill="none" stroke="none" pointer-events="all"/><g fill="#000000" font-family="Helvetica" font-size="12px"><text x="1369.5" y="691">UTILIZATION : int</text></g><rect x="1363" y="694.5" width="195" height="16" fill="none" stroke="none" pointer-events="all"/><g fill="#000000" font-family="Helvetica" font-weight="bold" font-size="12px"><text x="1369.5" y="707">DATASET_ORIGIN : varchar(256)</text></g><rect x="907" y="0" width="250" height="440.72" rx="10" ry="10" fill="#efb9aa" stroke="#d77d63" pointer-events="all"/><rect x="907" y="0" width="250" height="440.72" rx="10" ry="10" fill="none" stroke="#d77d63" pointer-events="all"/><path d="M 907 15 L 1157 15" fill="none" stroke="#d77d63" stroke-miterlimit="10" pointer-events="all"/><g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="12px"><text x="1031.5" y="10.5">patients</text></g><rect x="907" y="20" width="250" height="16" fill="none" stroke="none" pointer-events="all"/><g fill="#000000" font-family="Helvetica" font-weight="bold" font-size="12px"><text x="913.5" y="32.5">Id : varchar(256)</text></g><rect x="907" y="36" width="250" height="16" fill="none" stroke="none" pointer-events="all"/><g fill="#000000" font-family="Helvetica" font-size="12px"><text x="913.5" y="48.5">BIRTHDATE : date</text></g><rect x="907" y="52" width="250" height="16" fill="none" stroke="none" pointer-events="all"/><g fill="#000000" font-family="Helvetica" font-size="12px"><text x="913.5" y="64.5">DEATHDATE : date</text></g><rect x="907" y="68" width="250" height="16" fill="none" stroke="none" pointer-events="all"/><g fill="#000000" font-family="Helvetica" font-size="12px"><text x="913.5" y="80.5">SSN : varchar(256)</text></g><rect x="907" y="84" width="250" height="16" fill="none" stroke="none" pointer-events="all"/><g fill="#000000" font-family="Helvetica" font-size="12px"><text x="913.5" y="96.5">DRIVERS : varchar(256)</text></g><rect x="907" y="100" width="250" height="16" fill="none" stroke="none" pointer-events="all"/><g fill="#000000" font-family="Helvetica" font-size="12px"><text x="913.5" y="112.5">PASSPORT : varchar(256)</text></g><rect x="907" y="116" width="250" height="16" fill="none" stroke="none" pointer-events="all"/><g fill="#000000" font-family="Helvetica" font-size="12px"><text x="913.5" y="128.5">PREFIX : varchar(256)</text></g><rect x="907" y="132" width="250" height="16" fill="none" stroke="none" pointer-events="all"/><g fill="#000000" font-family="Helvetica" font-size="12px"><text x="913.5" y="144.5">FIRST : varchar(256)</text></g><rect x="907" y="148" width="250" height="16" fill="none" stroke="none" pointer-events="all"/><g fill="#000000" font-family="Helvetica" font-size="12px"><text x="913.5" y="160.5">LAST : varchar(256)</text></g><rect x="907" y="164" width="250" height="16" fill="none" stroke="none" pointer-events="all"/><g fill="#000000" font-family="Helvetica" font-size="12px"><text x="913.5" y="176.5">SUFFIX : varchar(256)</text></g><rect x="907" y="180" width="250" height="16" fill="none" stroke="none" pointer-events="all"/><g fill="#000000" font-family="Helvetica" font-size="12px"><text x="913.5" y="192.5">MAIDEN : varchar(256)</text></g><rect x="907" y="196" width="250" height="16" fill="none" stroke="none" pointer-events="all"/><g fill="#000000" font-family="Helvetica" font-size="12px"><text x="913.5" y="208.5">MARITAL : char(1)</text></g><rect x="907" y="212" width="250" height="16" fill="none" stroke="none" pointer-events="all"/><g fill="#000000" font-family="Helvetica" font-size="12px"><text x="913.5" y="224.5">RACE : varchar(256)</text></g><rect x="907" y="228" width="250" height="16" fill="none" stroke="none" pointer-events="all"/><g fill="#000000" font-family="Helvetica" font-size="12px"><text x="913.5" y="240.5">ETHNICITY : varchar(256)</text></g><rect x="907" y="244" width="250" height="16" fill="none" stroke="none" pointer-events="all"/><g fill="#000000" font-family="Helvetica" font-size="12px"><text x="913.5" y="256.5">GENDER : char(1)</text></g><rect x="907" y="260" width="250" height="16" fill="none" stroke="none" pointer-events="all"/><g fill="#000000" font-family="Helvetica" font-size="12px"><text x="913.5" y="272.5">BIRTHPLACE : varchar(256)</text></g><rect x="907" y="276" width="250" height="16" fill="none" stroke="none" pointer-events="all"/><g fill="#000000" font-family="Helvetica" font-size="12px"><text x="913.5" y="288.5">ADDRESS : varchar(256)</text></g><rect x="907" y="292" width="250" height="16" fill="none" stroke="none" pointer-events="all"/><g fill="#000000" font-family="Helvetica" font-size="12px"><text x="913.5" y="304.5">CITY : varchar(256)</text></g><rect x="907" y="308" width="250" height="16" fill="none" stroke="none" pointer-events="all"/><g fill="#000000" font-family="Helvetica" font-size="12px"><text x="913.5" y="320.5">STATE : varchar(256)</text></g><rect x="907" y="324" width="250" height="16" fill="none" stroke="none" pointer-events="all"/><g fill="#000000" font-family="Helvetica" font-size="12px"><text x="913.5" y="336.5">COUNTY : varchar(256)</text></g><rect x="907" y="340" width="250" height="16" fill="none" stroke="none" pointer-events="all"/><g fill="#000000" font-family="Helvetica" font-size="12px"><text x="913.5" y="352.5">ZIP : varchar(256)</text></g><rect x="907" y="356" width="250" height="16" fill="none" stroke="none" pointer-events="all"/><g fill="#000000" font-family="Helvetica" font-size="12px"><text x="913.5" y="368.5">LAT : numeric(8,6)</text></g><rect x="907" y="372" width="250" height="16" fill="none" stroke="none" pointer-events="all"/><g fill="#000000" font-family="Helvetica" font-size="12px"><text x="913.5" y="384.5">LON : numeric(8,6)</text></g><rect x="907" y="388" width="250" height="16" fill="none" stroke="none" pointer-events="all"/><g fill="#000000" font-family="Helvetica" font-size="12px"><text x="913.5" y="400.5">HEALTHCARE_EXPENSES : numeric(10,2)</text></g><rect x="907" y="404" width="250" height="16" fill="none" stroke="none" pointer-events="all"/><g fill="#000000" font-family="Helvetica" font-size="12px"><text x="913.5" y="416.5">HEALTHCARE_COVERAGE : numeric(10,2)</text></g><rect x="907" y="420" width="250" height="16" fill="none" stroke="none" pointer-events="all"/><g fill="#000000" font-family="Helvetica" font-weight="bold" font-size="12px"><text x="913.5" y="432.5">DATASET_ORIGIN : varchar(256)</text></g><rect x="1363" y="878" width="195" height="120.73" rx="10" ry="10" fill="#c5c4b0" stroke="#99976b" pointer-events="all"/><rect x="1363" y="878" width="195" height="120.73" rx="10" ry="10" fill="none" stroke="#99976b" pointer-events="all"/><path d="M 1363 893 L 1558 893" fill="none" stroke="#99976b" stroke-miterlimit="10" pointer-events="all"/><g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="12px"><text x="1460" y="888.5">payer_transitions</text></g><rect x="1363" y="898" width="195" height="16" fill="none" stroke="none" pointer-events="all"/><g fill="#000000" font-family="Helvetica" font-weight="bold" font-style="italic" font-size="12px"><text x="1369.5" y="910.5">PATIENT : varchar(256)</text></g><rect x="1363" y="914" width="195" height="16" fill="none" stroke="none" pointer-events="all"/><g fill="#000000" font-family="Helvetica" font-weight="bold" font-size="12px"><text x="1369.5" y="926.5">START_YEAR : int</text></g><rect x="1363" y="930" width="195" height="16" fill="none" stroke="none" pointer-events="all"/><g fill="#000000" font-family="Helvetica" font-weight="bold" font-size="12px"><text x="1369.5" y="942.5">END_YEAR : int</text></g><rect x="1363" y="946" width="195" height="16" fill="none" stroke="none" pointer-events="all"/><g fill="#000000" font-family="Helvetica" font-style="italic" font-size="12px"><text x="1369.5" y="958.5">PAYER : varchar(256)</text></g><rect x="1363" y="962" width="195" height="16" fill="none" stroke="none" pointer-events="all"/><g fill="#000000" font-family="Helvetica" font-size="12px"><text x="1369.5" y="974.5">OWNERSHIP : varchar(256)</text></g><rect x="1363" y="978" width="195" height="16" fill="none" stroke="none" pointer-events="all"/><g fill="#000000" font-family="Helvetica" font-weight="bold" font-size="12px"><text x="1369.5" y="990.5">DATASET_ORIGIN : varchar(256)</text></g><rect x="907" y="458.31" width="250" height="277.87" rx="10" ry="10" fill="#98e1f9" stroke="#388aa6" pointer-events="all"/><rect x="907" y="458.31" width="250" height="277.87" rx="10" ry="10" fill="none" stroke="#388aa6" pointer-events="all"/><path d="M 907 471.31 L 1157 471.31" fill="none" stroke="#388aa6" stroke-miterlimit="10" pointer-events="all"/><g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="12px"><text x="1031.5" y="468.81">encounters</text></g><rect x="907" y="476.31" width="250" height="16" fill="none" stroke="none" pointer-events="all"/><g fill="#000000" font-family="Helvetica" font-weight="bold" font-size="12px"><text x="913.5" y="488.81">Id : varchar(256)</text></g><rect x="907" y="492.31" width="250" height="16" fill="none" stroke="none" pointer-events="all"/><g fill="#000000" font-family="Helvetica" font-size="12px"><text x="913.5" y="504.81">START : timestamp</text></g><rect x="907" y="508.31" width="250" height="16" fill="none" stroke="none" pointer-events="all"/><g fill="#000000" font-family="Helvetica" font-size="12px"><text x="913.5" y="520.81">STOP: timestamp</text></g><rect x="907" y="524.31" width="250" height="16" fill="none" stroke="none" pointer-events="all"/><g fill="#000000" font-family="Helvetica" font-style="italic" font-size="12px"><text x="913.5" y="536.81">PATIENT : varchar(256)</text></g><rect x="907" y="540.31" width="250" height="16" fill="none" stroke="none" pointer-events="all"/><g fill="#000000" font-family="Helvetica" font-style="italic" font-size="12px"><text x="913.5" y="552.81">ORGANIZATION : varchar(256)</text></g><rect x="907" y="556.31" width="250" height="16" fill="none" stroke="none" pointer-events="all"/><g fill="#000000" font-family="Helvetica" font-style="italic" font-size="12px"><text x="913.5" y="568.81">PROVIDER : varchar(256)</text></g><rect x="907" y="572.31" width="250" height="16" fill="none" stroke="none" pointer-events="all"/><g fill="#000000" font-family="Helvetica" font-style="italic" font-size="12px"><text x="913.5" y="584.81">PAYER : varchar(256)</text></g><rect x="907" y="588.31" width="250" height="16" fill="none" stroke="none" pointer-events="all"/><g fill="#000000" font-family="Helvetica" font-size="12px"><text x="913.5" y="600.81">ENCOUNTERCLASS : varchar(256)</text></g><rect x="907" y="604.31" width="250" height="16" fill="none" stroke="none" pointer-events="all"/><g fill="#000000" font-family="Helvetica" font-size="12px"><text x="913.5" y="616.81">CODE : varchar(256)</text></g><rect x="907" y="620.31" width="250" height="16" fill="none" stroke="none" pointer-events="all"/><g fill="#000000" font-family="Helvetica" font-size="12px"><text x="913.5" y="632.81">DESCRIPTION : varchar(256)</text></g><rect x="907" y="636.31" width="250" height="16" fill="none" stroke="none" pointer-events="all"/><g fill="#000000" font-family="Helvetica" font-size="12px"><text x="913.5" y="648.81">BASE_ENCOUNTER : numeric(10,2)</text></g><rect x="907" y="652.31" width="250" height="16" fill="none" stroke="none" pointer-events="all"/><g fill="#000000" font-family="Helvetica" font-size="12px"><text x="913.5" y="664.81">TOTAL_CLAIM : numeric(10,2)</text></g><rect x="907" y="668.31" width="250" height="16" fill="none" stroke="none" pointer-events="all"/><g fill="#000000" font-family="Helvetica" font-size="12px"><text x="913.5" y="680.81">PAYER_COVERAGE : numeric(10,2)</text></g><rect x="907" y="684.31" width="250" height="16" fill="none" stroke="none" pointer-events="all"/><g fill="#000000" font-family="Helvetica" font-size="12px"><text x="913.5" y="696.81">REASONCODE : varchar(256)</text></g><rect x="907" y="700.31" width="250" height="16" fill="none" stroke="none" pointer-events="all"/><g fill="#000000" font-family="Helvetica" font-size="12px"><text x="913.5" y="712.81">REASONDESCRIPTION : varchar(256)</text></g><rect x="907" y="716.31" width="250" height="16" fill="none" stroke="none" pointer-events="all"/><g fill="#000000" font-family="Helvetica" font-weight="bold" font-size="12px"><text x="913.5" y="728.81">DATASET_ORIGIN : varchar(256)</text></g><rect x="959" y="764" width="240" height="376.72" rx="10" ry="10" fill="#c5c4b0" stroke="#99976b" pointer-events="all"/><rect x="959" y="764" width="240" height="376.72" rx="10" ry="10" fill="none" stroke="#99976b" pointer-events="all"/><path d="M 959 779 L 1199 779" fill="none" stroke="#99976b" stroke-miterlimit="10" pointer-events="all"/><g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="12px"><text x="1078.5" y="774.5">payers</text></g><rect x="959" y="784" width="240" height="16" fill="none" stroke="none" pointer-events="all"/><g fill="#000000" font-family="Helvetica" font-weight="bold" font-size="12px"><text x="965.5" y="796.5">Id : varchar(256)</text></g><rect x="959" y="800" width="240" height="16" fill="none" stroke="none" pointer-events="all"/><g fill="#000000" font-family="Helvetica" font-size="12px"><text x="965.5" y="812.5">NAME : varchar(256)</text></g><rect x="959" y="816" width="240" height="16" fill="none" stroke="none" pointer-events="all"/><g fill="#000000" font-family="Helvetica" font-size="12px"><text x="965.5" y="828.5">ADDRESS : varchar(256)</text></g><rect x="959" y="832" width="240" height="16" fill="none" stroke="none" pointer-events="all"/><g fill="#000000" font-family="Helvetica" font-size="12px"><text x="965.5" y="844.5">CITY : varchar(256)</text></g><rect x="959" y="848" width="240" height="16" fill="none" stroke="none" pointer-events="all"/><g fill="#000000" font-family="Helvetica" font-size="12px"><text x="965.5" y="860.5">STATE_HEADQUARTERED : varchar(256)</text></g><rect x="959" y="864" width="240" height="16" fill="none" stroke="none" pointer-events="all"/><g fill="#000000" font-family="Helvetica" font-size="12px"><text x="965.5" y="876.5">ZIP : varchar(256)</text></g><rect x="959" y="880" width="240" height="16" fill="none" stroke="none" pointer-events="all"/><g fill="#000000" font-family="Helvetica" font-size="12px"><text x="965.5" y="892.5">PHONE : varchar(256)</text></g><rect x="959" y="896" width="240" height="16" fill="none" stroke="none" pointer-events="all"/><g fill="#000000" font-family="Helvetica" font-size="12px"><text x="965.5" y="908.5">AMOUNT_COVERED : numeric(10,2)</text></g><rect x="959" y="912" width="240" height="16" fill="none" stroke="none" pointer-events="all"/><g fill="#000000" font-family="Helvetica" font-size="12px"><text x="965.5" y="924.5">AMOUNT_UNCOVERED : numeric(10,2)</text></g><rect x="959" y="928" width="240" height="16" fill="none" stroke="none" pointer-events="all"/><g fill="#000000" font-family="Helvetica" font-size="12px"><text x="965.5" y="940.5">REVENUE : int</text></g><rect x="959" y="944" width="240" height="16" fill="none" stroke="none" pointer-events="all"/><g fill="#000000" font-family="Helvetica" font-size="12px"><text x="965.5" y="956.5">COVERED_ENCOUNTERS : int</text></g><rect x="959" y="960" width="240" height="16" fill="none" stroke="none" pointer-events="all"/><g fill="#000000" font-family="Helvetica" font-size="12px"><text x="965.5" y="972.5">UNCOVERED_ENCOUNTERS : int</text></g><rect x="959" y="976" width="240" height="16" fill="none" stroke="none" pointer-events="all"/><g fill="#000000" font-family="Helvetica" font-size="12px"><text x="965.5" y="988.5">COVERED_MEDICATIONS : int</text></g><rect x="959" y="992" width="240" height="16" fill="none" stroke="none" pointer-events="all"/><g fill="#000000" font-family="Helvetica" font-size="12px"><text x="965.5" y="1004.5">UNCOVERED_MEDICATIONS : int</text></g><rect x="959" y="1008" width="240" height="16" fill="none" stroke="none" pointer-events="all"/><g fill="#000000" font-family="Helvetica" font-size="12px"><text x="965.5" y="1020.5">COVERED_PROCEDURES : int</text></g><rect x="959" y="1024" width="240" height="16" fill="none" stroke="none" pointer-events="all"/><g fill="#000000" font-family="Helvetica" font-size="12px"><text x="965.5" y="1036.5">UNCOVERED_PROCEDURES : int</text></g><rect x="959" y="1040" width="240" height="16" fill="none" stroke="none" pointer-events="all"/><g fill="#000000" font-family="Helvetica" font-size="12px"><text x="965.5" y="1052.5">COVERED_IMMUNIZATIONS : int</text></g><rect x="959" y="1056" width="240" height="16" fill="none" stroke="none" pointer-events="all"/><g fill="#000000" font-family="Helvetica" font-size="12px"><text x="965.5" y="1068.5">UNCOVERED_IMMUNIZATIONS : int</text></g><rect x="959" y="1072" width="240" height="16" fill="none" stroke="none" pointer-events="all"/><g fill="#000000" font-family="Helvetica" font-size="12px"><text x="965.5" y="1084.5">UNIQUE_CUSTOMERS : int</text></g><rect x="959" y="1088" width="240" height="16" fill="none" stroke="none" pointer-events="all"/><g fill="#000000" font-family="Helvetica" font-size="12px"><text x="965.5" y="1100.5">QOLS_AVG : numeric(12,10)</text></g><rect x="959" y="1104" width="240" height="16" fill="none" stroke="none" pointer-events="all"/><g fill="#000000" font-family="Helvetica" font-size="12px"><text x="965.5" y="1116.5">MEMBER_MONTHS : int</text></g><rect x="959" y="1120" width="240" height="16" fill="none" stroke="none" pointer-events="all"/><g fill="#000000" font-family="Helvetica" font-weight="bold" font-size="12px"><text x="965.5" y="1132.5">DATASET_ORIGIN : varchar(256)</text></g><path d="M 1363 954 L 1343 954 Q 1333 954 1323 953.84 L 1239 952.52 Q 1229 952.36 1219 952.36 L 1199 952.36" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="5" pointer-events="stroke"/><ellipse cx="1343.5" cy="954" rx="5.5" ry="5.5" fill="#ffffff" stroke="#000000" pointer-events="all"/><path d="M 1363 947.5 L 1350 954 L 1363 960.5" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/><ellipse cx="1218.5" cy="952.36" rx="5.5" ry="5.5" fill="#ffffff" stroke="#000000" pointer-events="all"/><path d="M 1199 958.86 L 1212 952.36 L 1199 945.86" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/><path d="M 1363 906 L 1343 906 Q 1333 906 1331.36 896.14 L 1188.64 37.86 Q 1187 28 1177 28 L 1157 28" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="5" pointer-events="stroke"/><ellipse cx="1343.5" cy="906" rx="5.5" ry="5.5" fill="#ffffff" stroke="#000000" pointer-events="all"/><path d="M 1363 899.5 L 1350 906 L 1363 912.5" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/><ellipse cx="1176.5" cy="28" rx="5.5" ry="5.5" fill="#ffffff" stroke="#000000" pointer-events="all"/><path d="M 1157 34.5 L 1170 28 L 1157 21.5" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/><path d="M 1558 526 L 1578 526 Q 1588 526 1588 516 L 1588 346.76 Q 1588 336.76 1578 336.76 L 1558 336.76" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="5" pointer-events="stroke"/><ellipse cx="1577.5" cy="526" rx="5.5" ry="5.5" fill="#ffffff" stroke="#000000" pointer-events="all"/><path d="M 1558 532.5 L 1571 526 L 1558 519.5" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/><path d="M 1564.5 330.26 L 1564.5 343.26" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/><path d="M 1158 532 L 1178 532 Q 1188 532 1188 522 L 1188 230.36 Q 1188 220.36 1178 220.36 L 1157 220.36" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="5" pointer-events="stroke"/><ellipse cx="1177.5" cy="532" rx="5.5" ry="5.5" fill="#ffffff" stroke="#000000" pointer-events="all"/><path d="M 1158 538.5 L 1171 532 L 1158 525.5" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/><path d="M 1163.5 213.86 L 1163.5 226.86" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/><path d="M 1158 548 L 1178 548 Q 1188 548 1193.66 539.76 L 1327.34 345 Q 1333 336.76 1343 336.76 L 1363 336.76" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="5" pointer-events="stroke"/><ellipse cx="1177.5" cy="548" rx="5.5" ry="5.5" fill="#ffffff" stroke="#000000" pointer-events="all"/><path d="M 1158 554.5 L 1171 548 L 1158 541.5" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/><path d="M 1356.5 343.26 L 1356.5 330.26" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/><path d="M 1158 564 L 1178 564 Q 1188 564 1197.75 566.23 L 1323.25 595.01 Q 1333 597.24 1343 597.24 L 1363 597.24" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="5" pointer-events="stroke"/><ellipse cx="1177.5" cy="564" rx="5.5" ry="5.5" fill="#ffffff" stroke="#000000" pointer-events="all"/><path d="M 1158 570.5 L 1171 564 L 1158 557.5" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/><path d="M 1356.5 603.74 L 1356.5 590.74" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/><path d="M 1157 484.31 L 1219 484.31 Q 1229 484.31 1229 494.31 L 1229 782 Q 1229 792 1219 792 L 1199 792" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="5" pointer-events="stroke"/><ellipse cx="1176.5" cy="484.31" rx="5.5" ry="5.5" fill="#ffffff" stroke="#000000" pointer-events="all"/><path d="M 1157 490.81 L 1170 484.31 L 1157 477.81" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/><path d="M 1205.5 785.5 L 1205.5 798.5" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/><rect x="4.9" y="1672" width="238.91" height="248.73" rx="10" ry="10" fill="#f5b67a" stroke="#000000" pointer-events="all"/><rect x="4.9" y="1672" width="238.91" height="248.73" rx="10" ry="10" fill="none" stroke="#000000" pointer-events="all"/><path d="M 4.9 1685 L 243.81 1685" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/><g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="12px"><text x="123.86" y="1682.5">medications</text></g><rect x="4.9" y="1690" width="238.91" height="16" fill="none" stroke="none" pointer-events="all"/><g fill="#000000" font-family="Helvetica" font-weight="bold" font-size="12px"><text x="11.4" y="1702.5">START : timestamp</text></g><rect x="4.9" y="1706" width="238.91" height="16" fill="none" stroke="none" pointer-events="all"/><g fill="#000000" font-family="Helvetica" font-weight="bold" font-size="12px"><text x="11.4" y="1718.5">STOP: timestamp</text></g><rect x="4.9" y="1722" width="238.91" height="16" fill="none" stroke="none" pointer-events="all"/><g fill="#000000" font-family="Helvetica" font-weight="bold" font-style="italic" font-size="12px"><text x="11.4" y="1734.5">PATIENT : varchar(256)</text></g><rect x="4.9" y="1738" width="238.91" height="16" fill="none" stroke="none" pointer-events="all"/><g fill="#000000" font-family="Helvetica" font-style="italic" font-size="12px"><text x="11.4" y="1750.5">PAYER : varchar(256)</text></g><rect x="4.9" y="1754" width="238.91" height="16" fill="none" stroke="none" pointer-events="all"/><g fill="#000000" font-family="Helvetica" font-weight="bold" font-style="italic" font-size="12px"><text x="11.4" y="1766.5">ENCOUNTER : varchar(256)</text></g><rect x="4.9" y="1770" width="238.91" height="16" fill="none" stroke="none" pointer-events="all"/><g fill="#000000" font-family="Helvetica" font-weight="bold" font-size="12px"><text x="11.4" y="1782.5">CODE : varchar(256)</text></g><rect x="4.9" y="1786" width="238.91" height="16" fill="none" stroke="none" pointer-events="all"/><g fill="#000000" font-family="Helvetica" font-size="12px"><text x="11.4" y="1798.5">DESCRIPTION : varchar(256)</text></g><rect x="4.9" y="1802" width="238.91" height="16" fill="none" stroke="none" pointer-events="all"/><g fill="#000000" font-family="Helvetica" font-size="12px"><text x="11.4" y="1814.5">BASE_COST : numeric(10,2)</text></g><rect x="4.9" y="1818" width="238.91" height="16" fill="none" stroke="none" pointer-events="all"/><g fill="#000000" font-family="Helvetica" font-size="12px"><text x="11.4" y="1830.5">PAYER_COVERAGE : numeric(10,2)</text></g><rect x="4.9" y="1834" width="238.91" height="16" fill="none" stroke="none" pointer-events="all"/><g fill="#000000" font-family="Helvetica" font-size="12px"><text x="11.4" y="1846.5">DISPENSES : int</text></g><rect x="4.9" y="1850" width="238.91" height="16" fill="none" stroke="none" pointer-events="all"/><g fill="#000000" font-family="Helvetica" font-size="12px"><text x="11.4" y="1862.5">TOTALCOST : numeric(10,2)</text></g><rect x="4.9" y="1866" width="238.91" height="16" fill="none" stroke="none" pointer-events="all"/><g fill="#000000" font-family="Helvetica" font-size="12px"><text x="11.4" y="1878.5">REASONCODE : varchar(256)</text></g><rect x="4.9" y="1882" width="238.91" height="16" fill="none" stroke="none" pointer-events="all"/><g fill="#000000" font-family="Helvetica" font-size="12px"><text x="11.4" y="1894.5">REASONDESCRIPTION : varchar(256)</text></g><rect x="4.9" y="1898" width="238.91" height="16" fill="none" stroke="none" pointer-events="all"/><g fill="#000000" font-family="Helvetica" font-weight="bold" font-size="12px"><text x="11.4" y="1910.5">DATASET_ORIGIN : varchar(256)</text></g><path d="M 240 76 L 260 76 Q 270 76 279.73 78.31 L 867.27 218.05 Q 877 220.36 887 220.36 L 907 220.36" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="5" pointer-events="stroke"/><ellipse cx="259.5" cy="76" rx="5.5" ry="5.5" fill="#ffffff" stroke="#000000" pointer-events="all"/><path d="M 240 82.5 L 253 76 L 240 69.5" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/><path d="M 900.5 226.86 L 900.5 213.86" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/><path d="M 240 92 L 260 92 Q 270 92 277.69 98.4 L 869.31 590.85 Q 877 597.24 887 597.24 L 907 597.24" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="5" pointer-events="stroke"/><ellipse cx="259.5" cy="92" rx="5.5" ry="5.5" fill="#ffffff" stroke="#000000" pointer-events="all"/><path d="M 240 98.5 L 253 92 L 240 85.5" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/><path d="M 900.5 603.74 L 900.5 590.74" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/><path d="M 242 396 L 262 396 Q 272 396 281.6 393.21 L 867.4 223.15 Q 877 220.36 887 220.36 L 907 220.36" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="5" pointer-events="stroke"/><ellipse cx="261.5" cy="396" rx="5.5" ry="5.5" fill="#ffffff" stroke="#000000" pointer-events="all"/><path d="M 242 402.5 L 255 396 L 242 389.5" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/><path d="M 900.5 226.86 L 900.5 213.86" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/><path d="M 242 412 L 262 412 Q 272 412 281.56 414.93 L 867.44 594.32 Q 877 597.24 887 597.24 L 907 597.24" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="5" pointer-events="stroke"/><ellipse cx="261.5" cy="412" rx="5.5" ry="5.5" fill="#ffffff" stroke="#000000" pointer-events="all"/><path d="M 242 418.5 L 255 412 L 242 405.5" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/><path d="M 900.5 603.74 L 900.5 590.74" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/><path d="M 242 540 L 262 540 Q 272 540 280.84 535.33 L 868.16 225.03 Q 877 220.36 887 220.36 L 907 220.36" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="5" pointer-events="stroke"/><ellipse cx="261.5" cy="540" rx="5.5" ry="5.5" fill="#ffffff" stroke="#000000" pointer-events="all"/><path d="M 242 546.5 L 255 540 L 242 533.5" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/><path d="M 900.5 226.86 L 900.5 213.86" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/><path d="M 242 556 L 262 556 Q 272 556 281.98 556.68 L 867.02 596.56 Q 877 597.24 887 597.24 L 907 597.24" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="5" pointer-events="stroke"/><ellipse cx="261.5" cy="556" rx="5.5" ry="5.5" fill="#ffffff" stroke="#000000" pointer-events="all"/><path d="M 242 562.5 L 255 556 L 242 549.5" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/><path d="M 900.5 603.74 L 900.5 590.74" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/><path d="M 238 250 L 258 250 Q 268 250 277.99 249.51 L 867.01 220.85 Q 877 220.36 887 220.36 L 907 220.36" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="5" pointer-events="stroke"/><ellipse cx="257.5" cy="250" rx="5.5" ry="5.5" fill="#ffffff" stroke="#000000" pointer-events="all"/><path d="M 238 256.5 L 251 250 L 238 243.5" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/><path d="M 900.5 226.86 L 900.5 213.86" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/><path d="M 238 266 L 258 266 Q 268 266 276.78 270.78 L 868.22 592.47 Q 877 597.24 887 597.24 L 907 597.24" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="5" pointer-events="stroke"/><ellipse cx="257.5" cy="266" rx="5.5" ry="5.5" fill="#ffffff" stroke="#000000" pointer-events="all"/><path d="M 238 272.5 L 251 266 L 238 259.5" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/><path d="M 900.5 603.74 L 900.5 590.74" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/><path d="M 244 848 L 264 848 Q 274 848 280.93 840.79 L 870.07 227.57 Q 877 220.36 887 220.36 L 907 220.36" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="5" pointer-events="stroke"/><ellipse cx="263.5" cy="848" rx="5.5" ry="5.5" fill="#ffffff" stroke="#000000" pointer-events="all"/><path d="M 244 854.5 L 257 848 L 244 841.5" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/><path d="M 900.5 226.86 L 900.5 213.86" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/><path d="M 244 864 L 264 864 Q 274 864 283.15 859.95 L 867.85 601.29 Q 877 597.24 887 597.24 L 907 597.24" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="5" pointer-events="stroke"/><ellipse cx="263.5" cy="864" rx="5.5" ry="5.5" fill="#ffffff" stroke="#000000" pointer-events="all"/><path d="M 244 870.5 L 257 864 L 244 857.5" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/><path d="M 900.5 603.74 L 900.5 590.74" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/><path d="M 242 1040 L 262 1040 Q 272 1040 277.94 1031.95 L 871.06 228.41 Q 877 220.36 887 220.36 L 907 220.36" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="5" pointer-events="stroke"/><ellipse cx="261.5" cy="1040" rx="5.5" ry="5.5" fill="#ffffff" stroke="#000000" pointer-events="all"/><path d="M 242 1046.5 L 255 1040 L 242 1033.5" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/><path d="M 900.5 226.86 L 900.5 213.86" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/><path d="M 242 1056 L 262 1056 Q 272 1056 279.97 1049.96 L 869.03 603.29 Q 877 597.24 887 597.24 L 907 597.24" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="5" pointer-events="stroke"/><ellipse cx="261.5" cy="1056" rx="5.5" ry="5.5" fill="#ffffff" stroke="#000000" pointer-events="all"/><path d="M 242 1062.5 L 255 1056 L 242 1049.5" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/><path d="M 900.5 603.74 L 900.5 590.74" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/><path d="M 244 1208 L 264 1208 Q 274 1208 279.21 1199.47 L 871.79 228.89 Q 877 220.36 887 220.36 L 907 220.36" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="5" pointer-events="stroke"/><ellipse cx="263.5" cy="1208" rx="5.5" ry="5.5" fill="#ffffff" stroke="#000000" pointer-events="all"/><path d="M 244 1214.5 L 257 1208 L 244 1201.5" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/><path d="M 900.5 226.86 L 900.5 213.86" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/><path d="M 244 1224 L 264 1224 Q 274 1224 280.93 1216.79 L 870.07 604.45 Q 877 597.24 887 597.24 L 907 597.24" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="5" pointer-events="stroke"/><ellipse cx="263.5" cy="1224" rx="5.5" ry="5.5" fill="#ffffff" stroke="#000000" pointer-events="all"/><path d="M 244 1230.5 L 257 1224 L 244 1217.5" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/><path d="M 900.5 603.74 L 900.5 590.74" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/><path d="M 244 1388 L 264 1388 Q 274 1388 278.59 1379.11 L 872.41 229.25 Q 877 220.36 887 220.36 L 907 220.36" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="5" pointer-events="stroke"/><ellipse cx="263.5" cy="1388" rx="5.5" ry="5.5" fill="#ffffff" stroke="#000000" pointer-events="all"/><path d="M 244 1394.5 L 257 1388 L 244 1381.5" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/><path d="M 900.5 226.86 L 900.5 213.86" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/><path d="M 244 1404 L 264 1404 Q 274 1404 279.99 1395.99 L 871.01 605.25 Q 877 597.24 887 597.24 L 907 597.24" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="5" pointer-events="stroke"/><ellipse cx="263.5" cy="1404" rx="5.5" ry="5.5" fill="#ffffff" stroke="#000000" pointer-events="all"/><path d="M 244 1410.5 L 257 1404 L 244 1397.5" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/><path d="M 900.5 603.74 L 900.5 590.74" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/><path d="M 244 1566 L 264 1566 Q 274 1566 278.09 1556.87 L 872.91 229.49 Q 877 220.36 887 220.36 L 907 220.36" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="5" pointer-events="stroke"/><ellipse cx="263.5" cy="1566" rx="5.5" ry="5.5" fill="#ffffff" stroke="#000000" pointer-events="all"/><path d="M 244 1572.5 L 257 1566 L 244 1559.5" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/><path d="M 900.5 226.86 L 900.5 213.86" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/><path d="M 244 1582 L 264 1582 Q 274 1582 279.22 1573.47 L 871.78 605.77 Q 877 597.24 887 597.24 L 907 597.24" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="5" pointer-events="stroke"/><ellipse cx="263.5" cy="1582" rx="5.5" ry="5.5" fill="#ffffff" stroke="#000000" pointer-events="all"/><path d="M 244 1588.5 L 257 1582 L 244 1575.5" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/><path d="M 900.5 603.74 L 900.5 590.74" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/><path d="M 244 1730 L 264 1730 Q 274 1730 277.71 1720.71 L 873.29 229.65 Q 877 220.36 887 220.36 L 907 220.36" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="5" pointer-events="stroke"/><ellipse cx="263.5" cy="1730" rx="5.5" ry="5.5" fill="#ffffff" stroke="#000000" pointer-events="all"/><path d="M 244 1736.5 L 257 1730 L 244 1723.5" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/><path d="M 900.5 226.86 L 900.5 213.86" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/><path d="M 244 1746 L 264 1746 Q 274 1746 280.37 1738.29 L 922.63 960.07 Q 929 952.36 939 952.36 L 959 952.36" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="5" pointer-events="stroke"/><ellipse cx="263.5" cy="1746" rx="5.5" ry="5.5" fill="#ffffff" stroke="#000000" pointer-events="all"/><path d="M 244 1752.5 L 257 1746 L 244 1739.5" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/><path d="M 952.5 958.86 L 952.5 945.86" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/><path d="M 244 1762 L 264 1762 Q 274 1762 278.6 1753.12 L 872.4 606.13 Q 877 597.24 887 597.24 L 907 597.24" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="5" pointer-events="stroke"/><ellipse cx="263.5" cy="1762" rx="5.5" ry="5.5" fill="#ffffff" stroke="#000000" pointer-events="all"/><path d="M 244 1768.5 L 257 1762 L 244 1755.5" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/><path d="M 900.5 603.74 L 900.5 590.74" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/><rect x="0" y="192" width="238.91" height="134" rx="10" ry="10" fill="#f5b67a" stroke="#000000" pointer-events="all"/><rect x="0" y="192" width="238.91" height="134" rx="10" ry="10" fill="none" stroke="#000000" pointer-events="all"/><path d="M 0 205 L 238.91 205" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/><g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="12px"><text x="118.96" y="202.5">disease</text></g><rect x="0" y="210" width="238.91" height="16" fill="none" stroke="none" pointer-events="all"/><g fill="#000000" font-family="Helvetica" font-weight="bold" font-size="12px"><text x="6.5" y="222.5">START : date</text></g><rect x="0" y="226" width="238.91" height="16" fill="none" stroke="none" pointer-events="all"/><g fill="#000000" font-family="Helvetica" font-weight="bold" font-size="12px"><text x="6.5" y="238.5">STOP: date</text></g><rect x="0" y="242" width="238.91" height="16" fill="none" stroke="none" pointer-events="all"/><g fill="#000000" font-family="Helvetica" font-weight="bold" font-style="italic" font-size="12px"><text x="6.5" y="254.5">PATIENT : varchar(256)</text></g><rect x="0" y="258" width="238.91" height="16" fill="none" stroke="none" pointer-events="all"/><g fill="#000000" font-family="Helvetica" font-weight="bold" font-style="italic" font-size="12px"><text x="6.5" y="270.5">ENCOUNTER : varchar(256)</text></g><rect x="0" y="274" width="238.91" height="16" fill="none" stroke="none" pointer-events="all"/><g fill="#000000" font-family="Helvetica" font-weight="bold" font-size="12px"><text x="6.5" y="286.5">CODE : varchar(256)</text></g><rect x="0" y="290" width="238.91" height="16" fill="none" stroke="none" pointer-events="all"/><g fill="#000000" font-family="Helvetica" font-size="12px"><text x="6.5" y="302.5">DESCRIPTION : varchar(256)</text></g><rect x="0" y="306" width="238.91" height="16" fill="none" stroke="none" pointer-events="all"/><g fill="#000000" font-family="Helvetica" font-weight="bold" font-size="12px"><text x="6.5" y="318.5">DATASET_ORIGIN : varchar(256)</text></g><rect x="2.72" y="338" width="238.91" height="134" rx="10" ry="10" fill="#f5b67a" stroke="#000000" pointer-events="all"/><rect x="2.72" y="338" width="238.91" height="134" rx="10" ry="10" fill="none" stroke="#000000" pointer-events="all"/><path d="M 2.72 351 L 241.63 351" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/><g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="12px"><text x="121.68" y="348.5">conditions</text></g><rect x="2.72" y="356" width="238.91" height="16" fill="none" stroke="none" pointer-events="all"/><g fill="#000000" font-family="Helvetica" font-weight="bold" font-size="12px"><text x="9.22" y="368.5">START : date</text></g><rect x="2.72" y="372" width="238.91" height="16" fill="none" stroke="none" pointer-events="all"/><g fill="#000000" font-family="Helvetica" font-weight="bold" font-size="12px"><text x="9.22" y="384.5">STOP: date</text></g><rect x="2.72" y="388" width="238.91" height="16" fill="none" stroke="none" pointer-events="all"/><g fill="#000000" font-family="Helvetica" font-weight="bold" font-style="italic" font-size="12px"><text x="9.22" y="400.5">PATIENT : varchar(256)</text></g><rect x="2.72" y="404" width="238.91" height="16" fill="none" stroke="none" pointer-events="all"/><g fill="#000000" font-family="Helvetica" font-weight="bold" font-style="italic" font-size="12px"><text x="9.22" y="416.5">ENCOUNTER : varchar(256)</text></g><rect x="2.72" y="420" width="238.91" height="16" fill="none" stroke="none" pointer-events="all"/><g fill="#000000" font-family="Helvetica" font-weight="bold" font-size="12px"><text x="9.22" y="432.5">CODE : varchar(256)</text></g><rect x="2.72" y="436" width="238.91" height="16" fill="none" stroke="none" pointer-events="all"/><g fill="#000000" font-family="Helvetica" font-size="12px"><text x="9.22" y="448.5">DESCRIPTION : varchar(256)</text></g><rect x="2.72" y="452" width="238.91" height="16" fill="none" stroke="none" pointer-events="all"/><g fill="#000000" font-family="Helvetica" font-weight="bold" font-size="12px"><text x="9.22" y="464.5">DATASET_ORIGIN : varchar(256)</text></g><rect x="3.27" y="482.49" width="238.91" height="150" rx="10" ry="10" fill="#f5b67a" stroke="#000000" pointer-events="all"/><rect x="3.27" y="482.49" width="238.91" height="150" rx="10" ry="10" fill="none" stroke="#000000" pointer-events="all"/><path d="M 3.27 495.5 L 242.18 495.5" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/><g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="12px"><text x="122.23" y="492.99">devices</text></g><rect x="3.27" y="500.5" width="238.91" height="16" fill="none" stroke="none" pointer-events="all"/><g fill="#000000" font-family="Helvetica" font-weight="bold" font-size="12px"><text x="9.77" y="513">START : timestamp</text></g><rect x="3.27" y="516.5" width="238.91" height="16" fill="none" stroke="none" pointer-events="all"/><g fill="#000000" font-family="Helvetica" font-weight="bold" font-size="12px"><text x="9.77" y="529">STOP: timestamp</text></g><rect x="3.27" y="532.5" width="238.91" height="16" fill="none" stroke="none" pointer-events="all"/><g fill="#000000" font-family="Helvetica" font-weight="bold" font-style="italic" font-size="12px"><text x="9.77" y="545">PATIENT : varchar(256)</text></g><rect x="3.27" y="548.5" width="238.91" height="16" fill="none" stroke="none" pointer-events="all"/><g fill="#000000" font-family="Helvetica" font-weight="bold" font-style="italic" font-size="12px"><text x="9.77" y="561">ENCOUNTER : varchar(256)</text></g><rect x="3.27" y="564.5" width="238.91" height="16" fill="none" stroke="none" pointer-events="all"/><g fill="#000000" font-family="Helvetica" font-weight="bold" font-size="12px"><text x="9.77" y="577">CODE : varchar(256)</text></g><rect x="3.27" y="580.5" width="238.91" height="16" fill="none" stroke="none" pointer-events="all"/><g fill="#000000" font-family="Helvetica" font-size="12px"><text x="9.77" y="593">DESCRIPTION : varchar(256)</text></g><rect x="3.27" y="596.5" width="238.91" height="16" fill="none" stroke="none" pointer-events="all"/><g fill="#000000" font-family="Helvetica" font-size="12px"><text x="9.77" y="609">UDI : varchar(256)</text></g><rect x="3.27" y="612.5" width="238.91" height="16" fill="none" stroke="none" pointer-events="all"/><g fill="#000000" font-family="Helvetica" font-weight="bold" font-size="12px"><text x="9.77" y="625">DATASET_ORIGIN : varchar(256)</text></g><rect x="2.72" y="642" width="238.91" height="134" rx="10" ry="10" fill="#f5b67a" stroke="#000000" pointer-events="all"/><rect x="2.72" y="642" width="238.91" height="134" rx="10" ry="10" fill="none" stroke="#000000" pointer-events="all"/><path d="M 2.72 655 L 241.63 655" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/><g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="12px"><text x="121.68" y="652.5">disease</text></g><rect x="2.72" y="660" width="238.91" height="16" fill="none" stroke="none" pointer-events="all"/><g fill="#000000" font-family="Helvetica" font-weight="bold" font-size="12px"><text x="9.22" y="672.5">START : date</text></g><rect x="2.72" y="676" width="238.91" height="16" fill="none" stroke="none" pointer-events="all"/><g fill="#000000" font-family="Helvetica" font-weight="bold" font-size="12px"><text x="9.22" y="688.5">STOP: date</text></g><rect x="2.72" y="692" width="238.91" height="16" fill="none" stroke="none" pointer-events="all"/><g fill="#000000" font-family="Helvetica" font-weight="bold" font-style="italic" font-size="12px"><text x="9.22" y="704.5">PATIENT : varchar(256)</text></g><rect x="2.72" y="708" width="238.91" height="16" fill="none" stroke="none" pointer-events="all"/><g fill="#000000" font-family="Helvetica" font-weight="bold" font-style="italic" font-size="12px"><text x="9.22" y="720.5">ENCOUNTER : varchar(256)</text></g><rect x="2.72" y="724" width="238.91" height="16" fill="none" stroke="none" pointer-events="all"/><g fill="#000000" font-family="Helvetica" font-weight="bold" font-size="12px"><text x="9.22" y="736.5">CODE : varchar(256)</text></g><rect x="2.72" y="740" width="238.91" height="16" fill="none" stroke="none" pointer-events="all"/><g fill="#000000" font-family="Helvetica" font-size="12px"><text x="9.22" y="752.5">DESCRIPTION : varchar(256)</text></g><rect x="2.72" y="756" width="238.91" height="16" fill="none" stroke="none" pointer-events="all"/><g fill="#000000" font-family="Helvetica" font-weight="bold" font-size="12px"><text x="9.22" y="768.5">DATASET_ORIGIN : varchar(256)</text></g><rect x="3.27" y="787" width="240" height="198" rx="10" ry="10" fill="#f5b67a" stroke="#000000" pointer-events="all"/><rect x="3.27" y="787" width="240" height="198" rx="10" ry="10" fill="none" stroke="#000000" pointer-events="all"/><path d="M 3.27 802 L 243.27 802" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/><g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="12px"><text x="122.77" y="797.5">imaging_studies</text></g><rect x="3.27" y="807" width="240" height="16" fill="none" stroke="none" pointer-events="all"/><g fill="#000000" font-family="Helvetica" font-weight="bold" font-size="12px"><text x="9.77" y="819.5">Id : varchar(256)</text></g><rect x="3.27" y="823" width="240" height="16" fill="none" stroke="none" pointer-events="all"/><g fill="#000000" font-family="Helvetica" font-size="12px"><text x="9.77" y="835.5">DATE : timestamp</text></g><rect x="3.27" y="839" width="240" height="16" fill="none" stroke="none" pointer-events="all"/><g fill="#000000" font-family="Helvetica" font-style="italic" font-size="12px"><text x="9.77" y="851.5">PATIENT : varchar(256)</text></g><rect x="3.27" y="855" width="240" height="16" fill="none" stroke="none" pointer-events="all"/><g fill="#000000" font-family="Helvetica" font-style="italic" font-size="12px"><text x="9.77" y="867.5">ENCOUNTER : varchar(256)</text></g><rect x="3.27" y="871" width="240" height="16" fill="none" stroke="none" pointer-events="all"/><g fill="#000000" font-family="Helvetica" font-size="12px"><text x="9.77" y="883.5">BODYSITE_CODE : int</text></g><rect x="3.27" y="887" width="240" height="16" fill="none" stroke="none" pointer-events="all"/><g fill="#000000" font-family="Helvetica" font-size="12px"><text x="9.77" y="899.5">BODYSITE_DESCRIPTION : varchar(256)</text></g><rect x="3.27" y="903" width="240" height="16" fill="none" stroke="none" pointer-events="all"/><g fill="#000000" font-family="Helvetica" font-size="12px"><text x="9.77" y="915.5">MODALITY_CODE : char(2)</text></g><rect x="3.27" y="919" width="240" height="16" fill="none" stroke="none" pointer-events="all"/><g fill="#000000" font-family="Helvetica" font-size="12px"><text x="9.77" y="931.5">MODALITY_DESCRIPTION : varchar(256)</text></g><rect x="3.27" y="935" width="240" height="16" fill="none" stroke="none" pointer-events="all"/><g fill="#000000" font-family="Helvetica" font-size="12px"><text x="9.77" y="947.5">SOP_CODE : varchar(256)</text></g><rect x="3.27" y="951" width="240" height="16" fill="none" stroke="none" pointer-events="all"/><g fill="#000000" font-family="Helvetica" font-size="12px"><text x="9.77" y="963.5">SOP_DESCRIPTION: varchar(256)</text></g><rect x="3.27" y="967" width="240" height="16" fill="none" stroke="none" pointer-events="all"/><g fill="#000000" font-family="Helvetica" font-weight="bold" font-size="12px"><text x="9.77" y="979.5">DATASET_ORIGIN : varchar(256)</text></g><rect x="3.81" y="998.73" width="238.91" height="136" rx="10" ry="10" fill="#f5b67a" stroke="#000000" pointer-events="all"/><rect x="3.81" y="998.73" width="238.91" height="136" rx="10" ry="10" fill="none" stroke="#000000" pointer-events="all"/><path d="M 3.81 1011.75 L 242.72 1011.75" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/><g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="12px"><text x="122.76" y="1009.23">immunizations</text></g><rect x="3.81" y="1016.75" width="238.91" height="16" fill="none" stroke="none" pointer-events="all"/><g fill="#000000" font-family="Helvetica" font-weight="bold" font-size="12px"><text x="10.31" y="1029.25">DATE: timestamp</text></g><rect x="3.81" y="1032.75" width="238.91" height="16" fill="none" stroke="none" pointer-events="all"/><g fill="#000000" font-family="Helvetica" font-weight="bold" font-style="italic" font-size="12px"><text x="10.31" y="1045.25">PATIENT : varchar(256)</text></g><rect x="3.81" y="1048.75" width="238.91" height="16" fill="none" stroke="none" pointer-events="all"/><g fill="#000000" font-family="Helvetica" font-weight="bold" font-style="italic" font-size="12px"><text x="10.31" y="1061.25">ENCOUNTER : varchar(256)</text></g><rect x="3.81" y="1064.75" width="238.91" height="16" fill="none" stroke="none" pointer-events="all"/><g fill="#000000" font-family="Helvetica" font-weight="bold" font-size="12px"><text x="10.31" y="1077.25">CODE : varchar(256)</text></g><rect x="3.81" y="1080.75" width="238.91" height="16" fill="none" stroke="none" pointer-events="all"/><g fill="#000000" font-family="Helvetica" font-size="12px"><text x="10.31" y="1093.25">DESCRIPTION : varchar(256)</text></g><rect x="3.81" y="1096.75" width="238.91" height="16" fill="none" stroke="none" pointer-events="all"/><g fill="#000000" font-family="Helvetica" font-size="12px"><text x="10.31" y="1109.25">BASE_COST : numeric(10,2)</text></g><rect x="3.81" y="1112.75" width="238.91" height="16" fill="none" stroke="none" pointer-events="all"/><g fill="#000000" font-family="Helvetica" font-weight="bold" font-size="12px"><text x="10.31" y="1125.25">DATASET_ORIGIN : varchar(256)</text></g><rect x="4.9" y="1343" width="238.91" height="166" rx="10" ry="10" fill="#f5b67a" stroke="#000000" pointer-events="all"/><rect x="4.9" y="1343" width="238.91" height="166" rx="10" ry="10" fill="none" stroke="#000000" pointer-events="all"/><path d="M 4.9 1358 L 243.81 1358" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/><g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="12px"><text x="123.86" y="1353.5">procedures</text></g><rect x="4.9" y="1363" width="238.91" height="16" fill="none" stroke="none" pointer-events="all"/><g fill="#000000" font-family="Helvetica" font-weight="bold" font-size="12px"><text x="11.4" y="1375.5">DATE: timestamp</text></g><rect x="4.9" y="1379" width="238.91" height="16" fill="none" stroke="none" pointer-events="all"/><g fill="#000000" font-family="Helvetica" font-weight="bold" font-style="italic" font-size="12px"><text x="11.4" y="1391.5">PATIENT : varchar(256)</text></g><rect x="4.9" y="1395" width="238.91" height="16" fill="none" stroke="none" pointer-events="all"/><g fill="#000000" font-family="Helvetica" font-weight="bold" font-style="italic" font-size="12px"><text x="11.4" y="1407.5">ENCOUNTER : varchar(256)</text></g><rect x="4.9" y="1411" width="238.91" height="16" fill="none" stroke="none" pointer-events="all"/><g fill="#000000" font-family="Helvetica" font-weight="bold" font-size="12px"><text x="11.4" y="1423.5">CODE : varchar(256)</text></g><rect x="4.9" y="1427" width="238.91" height="16" fill="none" stroke="none" pointer-events="all"/><g fill="#000000" font-family="Helvetica" font-size="12px"><text x="11.4" y="1439.5">DESCRIPTION : varchar(256)</text></g><rect x="4.9" y="1443" width="238.91" height="16" fill="none" stroke="none" pointer-events="all"/><g fill="#000000" font-family="Helvetica" font-size="12px"><text x="11.4" y="1455.5">BASE_COST : numeric(10,2)</text></g><rect x="4.9" y="1459" width="238.91" height="16" fill="none" stroke="none" pointer-events="all"/><g fill="#000000" font-family="Helvetica" font-size="12px"><text x="11.4" y="1471.5">REASONCODE : varchar(256)</text></g><rect x="4.9" y="1475" width="238.91" height="16" fill="none" stroke="none" pointer-events="all"/><g fill="#000000" font-family="Helvetica" font-size="12px"><text x="11.4" y="1487.5">REASONDESCRIPTION : varchar(256)</text></g><rect x="4.9" y="1491" width="238.91" height="16" fill="none" stroke="none" pointer-events="all"/><g fill="#000000" font-family="Helvetica" font-weight="bold" font-size="12px"><text x="11.4" y="1503.5">DATASET_ORIGIN : varchar(256)</text></g><rect x="3.81" y="1165" width="240" height="166" rx="10" ry="10" fill="#f5b67a" stroke="#000000" pointer-events="all"/><rect x="3.81" y="1165" width="240" height="166" rx="10" ry="10" fill="none" stroke="#000000" pointer-events="all"/><path d="M 3.81 1178 L 243.81 1178" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/><g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="12px"><text x="123.31" y="1175.5">observations</text></g><rect x="3.81" y="1183" width="240" height="16" fill="none" stroke="none" pointer-events="all"/><g fill="#000000" font-family="Helvetica" font-weight="bold" font-size="12px"><text x="10.31" y="1195.5">DATE: timestamp</text></g><rect x="3.81" y="1199" width="240" height="16" fill="none" stroke="none" pointer-events="all"/><g fill="#000000" font-family="Helvetica" font-weight="bold" font-style="italic" font-size="12px"><text x="10.31" y="1211.5">PATIENT : varchar(256)</text></g><rect x="3.81" y="1215" width="240" height="16" fill="none" stroke="none" pointer-events="all"/><g fill="#000000" font-family="Helvetica" font-weight="bold" font-style="italic" font-size="12px"><text x="10.31" y="1227.5">ENCOUNTER : varchar(256)</text></g><rect x="3.81" y="1231" width="240" height="16" fill="none" stroke="none" pointer-events="all"/><g fill="#000000" font-family="Helvetica" font-weight="bold" font-size="12px"><text x="10.31" y="1243.5">CODE : varchar(256)</text></g><rect x="3.81" y="1247" width="240" height="16" fill="none" stroke="none" pointer-events="all"/><g fill="#000000" font-family="Helvetica" font-size="12px"><text x="10.31" y="1259.5">DESCRIPTION : varchar(256)</text></g><rect x="3.81" y="1263" width="240" height="16" fill="none" stroke="none" pointer-events="all"/><g fill="#000000" font-family="Helvetica" font-size="12px"><text x="10.31" y="1275.5">VALUE : varchar(256)</text></g><rect x="3.81" y="1279" width="240" height="16" fill="none" stroke="none" pointer-events="all"/><g fill="#000000" font-family="Helvetica" font-size="12px"><text x="10.31" y="1291.5">UNITS : varchar(256)</text></g><rect x="3.81" y="1295" width="240" height="16" fill="none" stroke="none" pointer-events="all"/><g fill="#000000" font-family="Helvetica" font-size="12px"><text x="10.31" y="1307.5">TYPE : varchar(256)</text></g><rect x="3.81" y="1311" width="240" height="16" fill="none" stroke="none" pointer-events="all"/><g fill="#000000" font-family="Helvetica" font-weight="bold" font-size="12px"><text x="10.31" y="1323.5">DATASET_ORIGIN : varchar(256)</text></g><rect x="4.9" y="1521" width="238.91" height="136" rx="10" ry="10" fill="#f5b67a" stroke="#000000" pointer-events="all"/><rect x="4.9" y="1521" width="238.91" height="136" rx="10" ry="10" fill="none" stroke="#000000" pointer-events="all"/><path d="M 4.9 1536 L 243.81 1536" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/><g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="12px"><text x="123.86" y="1531.5">supplies</text></g><rect x="4.9" y="1541" width="238.91" height="16" fill="none" stroke="none" pointer-events="all"/><g fill="#000000" font-family="Helvetica" font-weight="bold" font-size="12px"><text x="11.4" y="1553.5">DATE: date</text></g><rect x="4.9" y="1557" width="238.91" height="16" fill="none" stroke="none" pointer-events="all"/><g fill="#000000" font-family="Helvetica" font-weight="bold" font-style="italic" font-size="12px"><text x="11.4" y="1569.5">PATIENT : varchar(256)</text></g><rect x="4.9" y="1573" width="238.91" height="16" fill="none" stroke="none" pointer-events="all"/><g fill="#000000" font-family="Helvetica" font-weight="bold" font-style="italic" font-size="12px"><text x="11.4" y="1585.5">ENCOUNTER : varchar(256)</text></g><rect x="4.9" y="1589" width="238.91" height="16" fill="none" stroke="none" pointer-events="all"/><g fill="#000000" font-family="Helvetica" font-weight="bold" font-size="12px"><text x="11.4" y="1601.5">CODE : varchar(256)</text></g><rect x="4.9" y="1605" width="238.91" height="16" fill="none" stroke="none" pointer-events="all"/><g fill="#000000" font-family="Helvetica" font-size="12px"><text x="11.4" y="1617.5">DESCRIPTION : varchar(256)</text></g><rect x="4.9" y="1621" width="238.91" height="16" fill="none" stroke="none" pointer-events="all"/><g fill="#000000" font-family="Helvetica" font-size="12px"><text x="11.4" y="1633.5">QUANTITY : int</text></g><rect x="4.9" y="1637" width="238.91" height="16" fill="none" stroke="none" pointer-events="all"/><g fill="#000000" font-family="Helvetica" font-weight="bold" font-size="12px"><text x="11.4" y="1649.5">DATASET_ORIGIN : varchar(256)</text></g><path d="M 242 700 L 262 700 Q 272 700 279.84 693.79 L 869.16 226.57 Q 877 220.36 887 220.36 L 907 220.36" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="5" pointer-events="stroke"/><ellipse cx="261.5" cy="700" rx="5.5" ry="5.5" fill="#ffffff" stroke="#000000" pointer-events="all"/><path d="M 242 706.5 L 255 700 L 242 693.5" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/><path d="M 900.5 226.86 L 900.5 213.86" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/><path d="M 242 716 L 262 716 Q 272 716 281.81 714.07 L 867.19 599.17 Q 877 597.24 887 597.24 L 907 597.24" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="5" pointer-events="stroke"/><ellipse cx="261.5" cy="716" rx="5.5" ry="5.5" fill="#ffffff" stroke="#000000" pointer-events="all"/><path d="M 242 722.5 L 255 716 L 242 709.5" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/><path d="M 900.5 603.74 L 900.5 590.74" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/><path d="M 1363 954 L 1343 954 Q 1333 954 1323 953.84 L 1239 952.52 Q 1229 952.36 1219 952.36 L 1199 952.36" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="5" pointer-events="stroke"/><ellipse cx="1343.5" cy="954" rx="5.5" ry="5.5" fill="#ffffff" stroke="#000000" pointer-events="all"/><path d="M 1363 947.5 L 1350 954 L 1363 960.5" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/><ellipse cx="1218.5" cy="952.36" rx="5.5" ry="5.5" fill="#ffffff" stroke="#000000" pointer-events="all"/><path d="M 1199 958.86 L 1212 952.36 L 1199 945.86" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/><path d="M 1363 906 L 1343 906 Q 1333 906 1331.36 896.14 L 1188.64 37.86 Q 1187 28 1177 28 L 1157 28" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="5" pointer-events="stroke"/><ellipse cx="1343.5" cy="906" rx="5.5" ry="5.5" fill="#ffffff" stroke="#000000" pointer-events="all"/><path d="M 1363 899.5 L 1350 906 L 1363 912.5" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/><ellipse cx="1176.5" cy="28" rx="5.5" ry="5.5" fill="#ffffff" stroke="#000000" pointer-events="all"/><path d="M 1157 34.5 L 1170 28 L 1157 21.5" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/><path d="M 1558 526 L 1578 526 Q 1588 526 1588 516 L 1588 346.76 Q 1588 336.76 1578 336.76 L 1558 336.76" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="5" pointer-events="stroke"/><ellipse cx="1577.5" cy="526" rx="5.5" ry="5.5" fill="#ffffff" stroke="#000000" pointer-events="all"/><path d="M 1558 532.5 L 1571 526 L 1558 519.5" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/><path d="M 1564.5 330.26 L 1564.5 343.26" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/><path d="M 1158 532 L 1178 532 Q 1188 532 1188 522 L 1188 230.36 Q 1188 220.36 1178 220.36 L 1157 220.36" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="5" pointer-events="stroke"/><ellipse cx="1177.5" cy="532" rx="5.5" ry="5.5" fill="#ffffff" stroke="#000000" pointer-events="all"/><path d="M 1158 538.5 L 1171 532 L 1158 525.5" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/><path d="M 1163.5 213.86 L 1163.5 226.86" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/><path d="M 1158 548 L 1178 548 Q 1188 548 1193.66 539.76 L 1327.34 345 Q 1333 336.76 1343 336.76 L 1363 336.76" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="5" pointer-events="stroke"/><ellipse cx="1177.5" cy="548" rx="5.5" ry="5.5" fill="#ffffff" stroke="#000000" pointer-events="all"/><path d="M 1158 554.5 L 1171 548 L 1158 541.5" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/><path d="M 1356.5 343.26 L 1356.5 330.26" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/><path d="M 1158 564 L 1178 564 Q 1188 564 1197.75 566.23 L 1323.25 595.01 Q 1333 597.24 1343 597.24 L 1363 597.24" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="5" pointer-events="stroke"/><ellipse cx="1177.5" cy="564" rx="5.5" ry="5.5" fill="#ffffff" stroke="#000000" pointer-events="all"/><path d="M 1158 570.5 L 1171 564 L 1158 557.5" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/><path d="M 1356.5 603.74 L 1356.5 590.74" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/><path d="M 1157 484.31 L 1219 484.31 Q 1229 484.31 1229 494.31 L 1229 782 Q 1229 792 1219 792 L 1199 792" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="5" pointer-events="stroke"/><ellipse cx="1176.5" cy="484.31" rx="5.5" ry="5.5" fill="#ffffff" stroke="#000000" pointer-events="all"/><path d="M 1157 490.81 L 1170 484.31 L 1157 477.81" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/><path d="M 1205.5 785.5 L 1205.5 798.5" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/><path d="M 240 76 L 260 76 Q 270 76 279.73 78.31 L 867.27 218.05 Q 877 220.36 887 220.36 L 907 220.36" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="5" pointer-events="stroke"/><ellipse cx="259.5" cy="76" rx="5.5" ry="5.5" fill="#ffffff" stroke="#000000" pointer-events="all"/><path d="M 240 82.5 L 253 76 L 240 69.5" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/><path d="M 900.5 226.86 L 900.5 213.86" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/><path d="M 240 92 L 260 92 Q 270 92 277.69 98.4 L 869.31 590.85 Q 877 597.24 887 597.24 L 907 597.24" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="5" pointer-events="stroke"/><ellipse cx="259.5" cy="92" rx="5.5" ry="5.5" fill="#ffffff" stroke="#000000" pointer-events="all"/><path d="M 240 98.5 L 253 92 L 240 85.5" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/><path d="M 900.5 603.74 L 900.5 590.74" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/><path d="M 242 396 L 262 396 Q 272 396 281.6 393.21 L 867.4 223.15 Q 877 220.36 887 220.36 L 907 220.36" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="5" pointer-events="stroke"/><ellipse cx="261.5" cy="396" rx="5.5" ry="5.5" fill="#ffffff" stroke="#000000" pointer-events="all"/><path d="M 242 402.5 L 255 396 L 242 389.5" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/><path d="M 900.5 226.86 L 900.5 213.86" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/><path d="M 242 412 L 262 412 Q 272 412 281.56 414.93 L 867.44 594.32 Q 877 597.24 887 597.24 L 907 597.24" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="5" pointer-events="stroke"/><ellipse cx="261.5" cy="412" rx="5.5" ry="5.5" fill="#ffffff" stroke="#000000" pointer-events="all"/><path d="M 242 418.5 L 255 412 L 242 405.5" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/><path d="M 900.5 603.74 L 900.5 590.74" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/><path d="M 242 540 L 262 540 Q 272 540 280.84 535.33 L 868.16 225.03 Q 877 220.36 887 220.36 L 907 220.36" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="5" pointer-events="stroke"/><ellipse cx="261.5" cy="540" rx="5.5" ry="5.5" fill="#ffffff" stroke="#000000" pointer-events="all"/><path d="M 242 546.5 L 255 540 L 242 533.5" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/><path d="M 900.5 226.86 L 900.5 213.86" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/><path d="M 242 556 L 262 556 Q 272 556 281.98 556.68 L 867.02 596.56 Q 877 597.24 887 597.24 L 907 597.24" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="5" pointer-events="stroke"/><ellipse cx="261.5" cy="556" rx="5.5" ry="5.5" fill="#ffffff" stroke="#000000" pointer-events="all"/><path d="M 242 562.5 L 255 556 L 242 549.5" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/><path d="M 900.5 603.74 L 900.5 590.74" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/><path d="M 238 250 L 258 250 Q 268 250 277.99 249.51 L 867.01 220.85 Q 877 220.36 887 220.36 L 907 220.36" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="5" pointer-events="stroke"/><ellipse cx="257.5" cy="250" rx="5.5" ry="5.5" fill="#ffffff" stroke="#000000" pointer-events="all"/><path d="M 238 256.5 L 251 250 L 238 243.5" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/><path d="M 900.5 226.86 L 900.5 213.86" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/><path d="M 238 266 L 258 266 Q 268 266 276.78 270.78 L 868.22 592.47 Q 877 597.24 887 597.24 L 907 597.24" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="5" pointer-events="stroke"/><ellipse cx="257.5" cy="266" rx="5.5" ry="5.5" fill="#ffffff" stroke="#000000" pointer-events="all"/><path d="M 238 272.5 L 251 266 L 238 259.5" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/><path d="M 900.5 603.74 L 900.5 590.74" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/><path d="M 244 848 L 264 848 Q 274 848 280.93 840.79 L 870.07 227.57 Q 877 220.36 887 220.36 L 907 220.36" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="5" pointer-events="stroke"/><ellipse cx="263.5" cy="848" rx="5.5" ry="5.5" fill="#ffffff" stroke="#000000" pointer-events="all"/><path d="M 244 854.5 L 257 848 L 244 841.5" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/><path d="M 900.5 226.86 L 900.5 213.86" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/><path d="M 244 864 L 264 864 Q 274 864 283.15 859.95 L 867.85 601.29 Q 877 597.24 887 597.24 L 907 597.24" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="5" pointer-events="stroke"/><ellipse cx="263.5" cy="864" rx="5.5" ry="5.5" fill="#ffffff" stroke="#000000" pointer-events="all"/><path d="M 244 870.5 L 257 864 L 244 857.5" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/><path d="M 900.5 603.74 L 900.5 590.74" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/><path d="M 242 1040 L 262 1040 Q 272 1040 277.94 1031.95 L 871.06 228.41 Q 877 220.36 887 220.36 L 907 220.36" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="5" pointer-events="stroke"/><ellipse cx="261.5" cy="1040" rx="5.5" ry="5.5" fill="#ffffff" stroke="#000000" pointer-events="all"/><path d="M 242 1046.5 L 255 1040 L 242 1033.5" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/><path d="M 900.5 226.86 L 900.5 213.86" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/><path d="M 242 1056 L 262 1056 Q 272 1056 279.97 1049.96 L 869.03 603.29 Q 877 597.24 887 597.24 L 907 597.24" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="5" pointer-events="stroke"/><ellipse cx="261.5" cy="1056" rx="5.5" ry="5.5" fill="#ffffff" stroke="#000000" pointer-events="all"/><path d="M 242 1062.5 L 255 1056 L 242 1049.5" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/><path d="M 900.5 603.74 L 900.5 590.74" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/><path d="M 244 1208 L 264 1208 Q 274 1208 279.21 1199.47 L 871.79 228.89 Q 877 220.36 887 220.36 L 907 220.36" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="5" pointer-events="stroke"/><ellipse cx="263.5" cy="1208" rx="5.5" ry="5.5" fill="#ffffff" stroke="#000000" pointer-events="all"/><path d="M 244 1214.5 L 257 1208 L 244 1201.5" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/><path d="M 900.5 226.86 L 900.5 213.86" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/><path d="M 244 1224 L 264 1224 Q 274 1224 280.93 1216.79 L 870.07 604.45 Q 877 597.24 887 597.24 L 907 597.24" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="5" pointer-events="stroke"/><ellipse cx="263.5" cy="1224" rx="5.5" ry="5.5" fill="#ffffff" stroke="#000000" pointer-events="all"/><path d="M 244 1230.5 L 257 1224 L 244 1217.5" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/><path d="M 900.5 603.74 L 900.5 590.74" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/><path d="M 244 1388 L 264 1388 Q 274 1388 278.59 1379.11 L 872.41 229.25 Q 877 220.36 887 220.36 L 907 220.36" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="5" pointer-events="stroke"/><ellipse cx="263.5" cy="1388" rx="5.5" ry="5.5" fill="#ffffff" stroke="#000000" pointer-events="all"/><path d="M 244 1394.5 L 257 1388 L 244 1381.5" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/><path d="M 900.5 226.86 L 900.5 213.86" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/><path d="M 244 1404 L 264 1404 Q 274 1404 279.99 1395.99 L 871.01 605.25 Q 877 597.24 887 597.24 L 907 597.24" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="5" pointer-events="stroke"/><ellipse cx="263.5" cy="1404" rx="5.5" ry="5.5" fill="#ffffff" stroke="#000000" pointer-events="all"/><path d="M 244 1410.5 L 257 1404 L 244 1397.5" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/><path d="M 900.5 603.74 L 900.5 590.74" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/><path d="M 244 1566 L 264 1566 Q 274 1566 278.09 1556.87 L 872.91 229.49 Q 877 220.36 887 220.36 L 907 220.36" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="5" pointer-events="stroke"/><ellipse cx="263.5" cy="1566" rx="5.5" ry="5.5" fill="#ffffff" stroke="#000000" pointer-events="all"/><path d="M 244 1572.5 L 257 1566 L 244 1559.5" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/><path d="M 900.5 226.86 L 900.5 213.86" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/><path d="M 244 1582 L 264 1582 Q 274 1582 279.22 1573.47 L 871.78 605.77 Q 877 597.24 887 597.24 L 907 597.24" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="5" pointer-events="stroke"/><ellipse cx="263.5" cy="1582" rx="5.5" ry="5.5" fill="#ffffff" stroke="#000000" pointer-events="all"/><path d="M 244 1588.5 L 257 1582 L 244 1575.5" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/><path d="M 900.5 603.74 L 900.5 590.74" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/><path d="M 244 1730 L 264 1730 Q 274 1730 277.71 1720.71 L 873.29 229.65 Q 877 220.36 887 220.36 L 907 220.36" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="5" pointer-events="stroke"/><ellipse cx="263.5" cy="1730" rx="5.5" ry="5.5" fill="#ffffff" stroke="#000000" pointer-events="all"/><path d="M 244 1736.5 L 257 1730 L 244 1723.5" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/><path d="M 900.5 226.86 L 900.5 213.86" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/><path d="M 244 1746 L 264 1746 Q 274 1746 280.37 1738.29 L 922.63 960.07 Q 929 952.36 939 952.36 L 959 952.36" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="5" pointer-events="stroke"/><ellipse cx="263.5" cy="1746" rx="5.5" ry="5.5" fill="#ffffff" stroke="#000000" pointer-events="all"/><path d="M 244 1752.5 L 257 1746 L 244 1739.5" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/><path d="M 952.5 958.86 L 952.5 945.86" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/><path d="M 244 1762 L 264 1762 Q 274 1762 278.6 1753.12 L 872.4 606.13 Q 877 597.24 887 597.24 L 907 597.24" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="5" pointer-events="stroke"/><ellipse cx="263.5" cy="1762" rx="5.5" ry="5.5" fill="#ffffff" stroke="#000000" pointer-events="all"/><path d="M 244 1768.5 L 257 1762 L 244 1755.5" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/><path d="M 900.5 603.74 L 900.5 590.74" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/><path d="M 242 700 L 262 700 Q 272 700 279.84 693.79 L 869.16 226.57 Q 877 220.36 887 220.36 L 907 220.36" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="5" pointer-events="stroke"/><ellipse cx="261.5" cy="700" rx="5.5" ry="5.5" fill="#ffffff" stroke="#000000" pointer-events="all"/><path d="M 242 706.5 L 255 700 L 242 693.5" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/><path d="M 900.5 226.86 L 900.5 213.86" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/><path d="M 242 716 L 262 716 Q 272 716 281.81 714.07 L 867.19 599.17 Q 877 597.24 887 597.24 L 907 597.24" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="5" pointer-events="stroke"/><ellipse cx="261.5" cy="716" rx="5.5" ry="5.5" fill="#ffffff" stroke="#000000" pointer-events="all"/><path d="M 242 722.5 L 255 716 L 242 709.5" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/><path d="M 900.5 603.74 L 900.5 590.74" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg"
+	xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1629px" viewBox="-0.5 -0.5 1629 2065" style="max-width:100%;max-height:2065px;">
+	<defs>
+		<style type="text/css">ul { margin-top: 0px; margin-bottom: 10px; }&#xa;ol { margin-top: 0px; margin-bottom: 10px; }&#xa;.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 { margin-bottom: .5rem; font-weight: 500; line-height: 1.2; }&#xa;h1, h2, h3, h4, h5, h6 { margin-top: 0; margin-bottom: .5rem; }&#xa;.h1, h1 { font-size: 2.5rem; }&#xa;h2 { font-size: 1.5em; font-weight: bold; }&#xa;h3 { font-size: 1.17em; font-weight: bold; }&#xa;.h4, h4 { font-size: 1.5rem; }&#xa;.h5, h5 { font-size: 1.25rem; }&#xa;.h6, h6 { font-size: 1rem; }&#xa;p { margin-top: 0; margin-bottom: 1rem; }&#xa;ul { margin-top: 0px; margin-bottom: 10px; }&#xa;ol { margin-top: 0px; margin-bottom: 10px; }&#xa;.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 { margin-bottom: .5rem; font-weight: 500; line-height: 1.2; }&#xa;h1, h2, h3, h4, h5, h6 { margin-top: 0; margin-bottom: .5rem; }&#xa;.h1, h1 { font-size: 2.5rem; }&#xa;h2 { font-size: 1.5em; font-weight: bold; }&#xa;h3 { font-size: 1.17em; font-weight: bold; }&#xa;.h4, h4 { font-size: 1.5rem; }&#xa;.h5, h5 { font-size: 1.25rem; }&#xa;.h6, h6 { font-size: 1rem; }&#xa;p { margin-top: 0; margin-bottom: 1rem; }&#xa;ul { margin-top: 0px; margin-bottom: 10px; }&#xa;ol { margin-top: 0px; margin-bottom: 10px; }&#xa;.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 { margin-bottom: .5rem; font-weight: 500; line-height: 1.2; }&#xa;h1, h2, h3, h4, h5, h6 { margin-top: 0; margin-bottom: .5rem; }&#xa;.h1, h1 { font-size: 2.5rem; }&#xa;h2 { font-size: 1.5em; font-weight: bold; }&#xa;h3 { font-size: 1.17em; font-weight: bold; }&#xa;.h4, h4 { font-size: 1.5rem; }&#xa;.h5, h5 { font-size: 1.25rem; }&#xa;.h6, h6 { font-size: 1rem; }&#xa;p { margin-top: 0; margin-bottom: 1rem; }&#xa;</style>
+	</defs>
+	<g>
+		<rect x="1" y="0" width="240" height="214" rx="10" ry="10" fill="#f5b67a" stroke="#000000" pointer-events="all"/>
+		<rect x="1" y="0" width="240" height="214" rx="10" ry="10" fill="none" stroke="#000000" pointer-events="all"/>
+		<path d="M 1 14 L 241 14" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="12px">
+			<text x="120.5" y="10.5">tb_careplans</text>
+		</g>
+		<rect x="1" y="19" width="240" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-weight="bold" font-size="12px">
+			<text x="7.5" y="31.5">Id : nvarchar(256)</text>
+		</g>
+		<rect x="1" y="35" width="240" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-size="12px">
+			<text x="7.5" y="47.5">START : date</text>
+		</g>
+		<rect x="1" y="51" width="240" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-size="12px">
+			<text x="7.5" y="63.5">STOP: date</text>
+		</g>
+		<rect x="1" y="67" width="240" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-style="italic" font-size="12px">
+			<text x="7.5" y="79.5">PATIENT_ID : nvarchar(256)</text>
+		</g>
+		<rect x="1" y="83" width="240" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-style="italic" font-size="12px">
+			<text x="7.5" y="95.5">PATIENT_DSO : nvarchar(256)</text>
+		</g>
+		<rect x="1" y="99" width="240" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-style="italic" font-size="12px">
+			<text x="7.5" y="111.5">ENCOUNTER_ID : nvarchar(256)</text>
+		</g>
+		<rect x="1" y="115" width="240" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-style="italic" font-size="12px">
+			<text x="7.5" y="127.5">ENCOUNTER_DSO : nvarchar(256)</text>
+		</g>
+		<rect x="1" y="131" width="240" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-size="12px">
+			<text x="7.5" y="143.5">CODE : nvarchar(256)</text>
+		</g>
+		<rect x="1" y="147" width="240" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-size="12px">
+			<text x="7.5" y="159.5">DESCRIPTION : nvarchar(256)</text>
+		</g>
+		<rect x="1" y="163" width="240" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-size="12px">
+			<text x="7.5" y="175.5">REASONCODE : nvarchar(256)</text>
+		</g>
+		<rect x="1" y="179" width="240" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-size="12px">
+			<text x="7.5" y="191.5">REASONDESCRIPTION : nvarchar(256)</text>
+		</g>
+		<rect x="1" y="195" width="240" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-weight="bold" font-size="12px">
+			<text x="7.5" y="207.5">DATASET_ORIGIN : nvarchar(256)</text>
+		</g>
+		<rect x="1364" y="224" width="220" height="214" rx="10" ry="10" fill="#91ead2" stroke="#64b19c" pointer-events="all"/>
+		<rect x="1364" y="224" width="220" height="214" rx="10" ry="10" fill="none" stroke="#64b19c" pointer-events="all"/>
+		<path d="M 1364 238 L 1584 238" fill="none" stroke="#64b19c" stroke-miterlimit="10" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="12px">
+			<text x="1473.5" y="234.5">tb_organizations</text>
+		</g>
+		<rect x="1364" y="243" width="220" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-weight="bold" font-size="12px">
+			<text x="1370.5" y="255.5">Id : nvarchar(256)</text>
+		</g>
+		<rect x="1364" y="259" width="220" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-size="12px">
+			<text x="1370.5" y="271.5">NAME : nvarchar(256)</text>
+		</g>
+		<rect x="1364" y="275" width="220" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-size="12px">
+			<text x="1370.5" y="287.5">ADDRESS : nvarchar(256)</text>
+		</g>
+		<rect x="1364" y="291" width="220" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-size="12px">
+			<text x="1370.5" y="303.5">CITY : nvarchar(256)</text>
+		</g>
+		<rect x="1364" y="307" width="220" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-size="12px">
+			<text x="1370.5" y="319.5">STATE : nvarchar(256)</text>
+		</g>
+		<rect x="1364" y="323" width="220" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-size="12px">
+			<text x="1370.5" y="335.5">ZIP : nvarchar(256)</text>
+		</g>
+		<rect x="1364" y="339" width="220" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-size="12px">
+			<text x="1370.5" y="351.5">LAT : numeric(8,6)</text>
+		</g>
+		<rect x="1364" y="355" width="220" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-size="12px">
+			<text x="1370.5" y="367.5">LON : numeric(8,6)</text>
+		</g>
+		<rect x="1364" y="371" width="220" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-size="12px">
+			<text x="1370.5" y="383.5">PHONE : nvarchar(256)</text>
+		</g>
+		<rect x="1364" y="387" width="220" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-size="12px">
+			<text x="1370.5" y="399.5">REVENUE : numeric(10,2)</text>
+		</g>
+		<rect x="1364" y="403" width="220" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-size="12px">
+			<text x="1370.5" y="415.5">UTILIZATION : int</text>
+		</g>
+		<rect x="1364" y="419" width="220" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-weight="bold" font-size="12px">
+			<text x="1370.5" y="431.5">DATASET_ORIGIN : nvarchar(256)</text>
+		</g>
+		<rect x="1364" y="476.49" width="220" height="246.01" rx="10" ry="10" fill="#91ead2" stroke="#64b19c" pointer-events="all"/>
+		<rect x="1364" y="476.49" width="220" height="246.01" rx="10" ry="10" fill="none" stroke="#64b19c" pointer-events="all"/>
+		<path d="M 1364 490.5 L 1584 490.5" fill="none" stroke="#64b19c" stroke-miterlimit="10" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="12px">
+			<text x="1473.5" y="486.99">tb_providers</text>
+		</g>
+		<rect x="1364" y="495.5" width="220" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-weight="bold" font-size="12px">
+			<text x="1370.5" y="508">Id : nvarchar(256)</text>
+		</g>
+		<rect x="1364" y="511.5" width="220" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-style="italic" font-size="12px">
+			<text x="1370.5" y="524">ORGANIZATION_ID : nvarchar(256)</text>
+		</g>
+		<rect x="1364" y="527.5" width="220" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-style="italic" font-size="12px">
+			<text x="1370.5" y="540">ORGANIZATION_DSO : nvarchar(256)</text>
+		</g>
+		<rect x="1364" y="543.5" width="220" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-size="12px">
+			<text x="1370.5" y="556">NAME : nvarchar(256)</text>
+		</g>
+		<rect x="1364" y="559.5" width="220" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-size="12px">
+			<text x="1370.5" y="572">GENDER : char(1)</text>
+		</g>
+		<rect x="1364" y="575.5" width="220" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-size="12px">
+			<text x="1370.5" y="588">SPECIALTY : nvarchar(256)</text>
+		</g>
+		<rect x="1364" y="591.5" width="220" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-size="12px">
+			<text x="1370.5" y="604">ADDRESS : nvarchar(256)</text>
+		</g>
+		<rect x="1364" y="607.5" width="220" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-size="12px">
+			<text x="1370.5" y="620">CITY : nvarchar(256)</text>
+		</g>
+		<rect x="1364" y="623.5" width="220" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-size="12px">
+			<text x="1370.5" y="636">STATE : nvarchar(256)</text>
+		</g>
+		<rect x="1364" y="639.5" width="220" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-size="12px">
+			<text x="1370.5" y="652">ZIP : nvarchar(256)</text>
+		</g>
+		<rect x="1364" y="655.5" width="220" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-size="12px">
+			<text x="1370.5" y="668">LAT : numeric(8,6)</text>
+		</g>
+		<rect x="1364" y="671.5" width="220" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-size="12px">
+			<text x="1370.5" y="684">LON: numeric(8,6)</text>
+		</g>
+		<rect x="1364" y="687.5" width="220" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-size="12px">
+			<text x="1370.5" y="700">UTILIZATION : int</text>
+		</g>
+		<rect x="1364" y="703.5" width="220" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-weight="bold" font-size="12px">
+			<text x="1370.5" y="716">DATASET_ORIGIN : nvarchar(256)</text>
+		</g>
+		<rect x="908" y="0" width="250" height="440.72" rx="10" ry="10" fill="#efb9aa" stroke="#d77d63" pointer-events="all"/>
+		<rect x="908" y="0" width="250" height="440.72" rx="10" ry="10" fill="none" stroke="#d77d63" pointer-events="all"/>
+		<path d="M 908 14 L 1158 14" fill="none" stroke="#d77d63" stroke-miterlimit="10" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="12px">
+			<text x="1032.5" y="10.5">tb_patients</text>
+		</g>
+		<rect x="908" y="19" width="250" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-weight="bold" font-size="12px">
+			<text x="914.5" y="31.5">Id : nvarchar(256)</text>
+		</g>
+		<rect x="908" y="35" width="250" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-size="12px">
+			<text x="914.5" y="47.5">BIRTHDATE : date</text>
+		</g>
+		<rect x="908" y="51" width="250" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-size="12px">
+			<text x="914.5" y="63.5">DEATHDATE : date</text>
+		</g>
+		<rect x="908" y="67" width="250" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-size="12px">
+			<text x="914.5" y="79.5">SSN : nvarchar(256)</text>
+		</g>
+		<rect x="908" y="83" width="250" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-size="12px">
+			<text x="914.5" y="95.5">DRIVERS : nvarchar(256)</text>
+		</g>
+		<rect x="908" y="99" width="250" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-size="12px">
+			<text x="914.5" y="111.5">PASSPORT : nvarchar(10)</text>
+		</g>
+		<rect x="908" y="115" width="250" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-size="12px">
+			<text x="914.5" y="127.5">PREFIX : nvarchar(4)</text>
+		</g>
+		<rect x="908" y="131" width="250" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-size="12px">
+			<text x="914.5" y="143.5">FIRST : nvarchar(256)</text>
+		</g>
+		<rect x="908" y="147" width="250" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-size="12px">
+			<text x="914.5" y="159.5">LAST : nvarchar(256)</text>
+		</g>
+		<rect x="908" y="163" width="250" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-size="12px">
+			<text x="914.5" y="175.5">SUFFIX : nvarchar(10)</text>
+		</g>
+		<rect x="908" y="179" width="250" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-size="12px">
+			<text x="914.5" y="191.5">MAIDEN : nvarchar(256)</text>
+		</g>
+		<rect x="908" y="195" width="250" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-size="12px">
+			<text x="914.5" y="207.5">MARITAL : char(1)</text>
+		</g>
+		<rect x="908" y="211" width="250" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-size="12px">
+			<text x="914.5" y="223.5">RACE : nvarchar(256)</text>
+		</g>
+		<rect x="908" y="227" width="250" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-size="12px">
+			<text x="914.5" y="239.5">ETHNICITY : nvarchar(256)</text>
+		</g>
+		<rect x="908" y="243" width="250" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-size="12px">
+			<text x="914.5" y="255.5">GENDER : char(1)</text>
+		</g>
+		<rect x="908" y="259" width="250" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-size="12px">
+			<text x="914.5" y="271.5">BIRTHPLACE : nvarchar(256)</text>
+		</g>
+		<rect x="908" y="275" width="250" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-size="12px">
+			<text x="914.5" y="287.5">ADDRESS : nvarchar(256)</text>
+		</g>
+		<rect x="908" y="291" width="250" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-size="12px">
+			<text x="914.5" y="303.5">CITY : nvarchar(256)</text>
+		</g>
+		<rect x="908" y="307" width="250" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-size="12px">
+			<text x="914.5" y="319.5">STATE : nvarchar(256)</text>
+		</g>
+		<rect x="908" y="323" width="250" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-size="12px">
+			<text x="914.5" y="335.5">COUNTY : nvarchar(256)</text>
+		</g>
+		<rect x="908" y="339" width="250" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-size="12px">
+			<text x="914.5" y="351.5">ZIP : nvarchar(256)</text>
+		</g>
+		<rect x="908" y="355" width="250" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-size="12px">
+			<text x="914.5" y="367.5">LAT : numeric(8,6)</text>
+		</g>
+		<rect x="908" y="371" width="250" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-size="12px">
+			<text x="914.5" y="383.5">LON : numeric(8,6)</text>
+		</g>
+		<rect x="908" y="387" width="250" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-size="12px">
+			<text x="914.5" y="399.5">HEALTHCARE_EXPENSES : numeric(10,2)</text>
+		</g>
+		<rect x="908" y="403" width="250" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-size="12px">
+			<text x="914.5" y="415.5">HEALTHCARE_COVERAGE : numeric(10,2)</text>
+		</g>
+		<rect x="908" y="419" width="250" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-weight="bold" font-size="12px">
+			<text x="914.5" y="431.5">DATASET_ORIGIN : nvarchar(256)</text>
+		</g>
+		<rect x="1364" y="929.36" width="220" height="152" rx="10" ry="10" fill="#c5c4b0" stroke="#99976b" pointer-events="all"/>
+		<rect x="1364" y="929.36" width="220" height="152" rx="10" ry="10" fill="none" stroke="#99976b" pointer-events="all"/>
+		<path d="M 1364 943.38 L 1584 943.38" fill="none" stroke="#99976b" stroke-miterlimit="10" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="12px">
+			<text x="1473.5" y="939.86">tb_payer_transitions</text>
+		</g>
+		<rect x="1364" y="948.38" width="220" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-weight="bold" font-style="italic" font-size="12px">
+			<text x="1370.5" y="960.88">PATIENT_ID : nvarchar(256)</text>
+		</g>
+		<rect x="1364" y="964.38" width="220" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-weight="bold" font-style="italic" font-size="12px">
+			<text x="1370.5" y="976.88">PATIENT_DSO : nvarchar(256)</text>
+		</g>
+		<rect x="1364" y="980.38" width="220" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-weight="bold" font-size="12px">
+			<text x="1370.5" y="992.88">START_YEAR : int</text>
+		</g>
+		<rect x="1364" y="996.38" width="220" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-weight="bold" font-size="12px">
+			<text x="1370.5" y="1008.88">END_YEAR : int</text>
+		</g>
+		<rect x="1364" y="1012.38" width="220" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-style="italic" font-size="12px">
+			<text x="1370.5" y="1024.88">PAYER_ID : nvarchar(256)</text>
+		</g>
+		<rect x="1364" y="1028.38" width="220" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-style="italic" font-size="12px">
+			<text x="1370.5" y="1040.88">PAYER_DSO : nvarchar(256)</text>
+		</g>
+		<rect x="1364" y="1044.38" width="220" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-size="12px">
+			<text x="1370.5" y="1056.88">OWNERSHIP : nvarchar(256)</text>
+		</g>
+		<rect x="1364" y="1060.38" width="220" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-weight="bold" font-size="12px">
+			<text x="1370.5" y="1072.88">DATASET_ORIGIN : nvarchar(256)</text>
+		</g>
+		<rect x="908" y="458.31" width="250" height="344" rx="10" ry="10" fill="#98e1f9" stroke="#388aa6" pointer-events="all"/>
+		<rect x="908" y="458.31" width="250" height="344" rx="10" ry="10" fill="none" stroke="#388aa6" pointer-events="all"/>
+		<path d="M 908 472.31 L 1158 472.31" fill="none" stroke="#388aa6" stroke-miterlimit="10" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="12px">
+			<text x="1032.5" y="468.81">tb_encounters</text>
+		</g>
+		<rect x="908" y="477.31" width="250" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-weight="bold" font-size="12px">
+			<text x="914.5" y="489.81">Id : nvarchar(256)</text>
+		</g>
+		<rect x="908" y="493.31" width="250" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-size="12px">
+			<text x="914.5" y="505.81">START : timestamp</text>
+		</g>
+		<rect x="908" y="509.31" width="250" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-size="12px">
+			<text x="914.5" y="521.81">STOP: timestamp</text>
+		</g>
+		<rect x="908" y="525.31" width="250" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-style="italic" font-size="12px">
+			<text x="914.5" y="537.81">PATIENT_ID : nvarchar(256)</text>
+		</g>
+		<rect x="908" y="541.31" width="250" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-style="italic" font-size="12px">
+			<text x="914.5" y="553.81">PATIENT_DSO : nvarchar(256</text>
+		</g>
+		<rect x="908" y="557.31" width="250" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-style="italic" font-size="12px">
+			<text x="914.5" y="569.81">ORGANIZATION_ID : nvarchar(256)</text>
+		</g>
+		<rect x="908" y="573.31" width="250" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-style="italic" font-size="12px">
+			<text x="914.5" y="585.81">ORGANIZATION_DSO : nvarchar(256)</text>
+		</g>
+		<rect x="908" y="589.31" width="250" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-style="italic" font-size="12px">
+			<text x="914.5" y="601.81">PROVIDER_ID : nvarchar(256)</text>
+		</g>
+		<rect x="908" y="605.31" width="250" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-style="italic" font-size="12px">
+			<text x="914.5" y="617.81">PROVIDER_DSO : nvarchar(256)</text>
+		</g>
+		<rect x="908" y="621.31" width="250" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-style="italic" font-size="12px">
+			<text x="914.5" y="633.81">PAYER_ID : nvarchar(256)</text>
+		</g>
+		<rect x="908" y="637.31" width="250" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-style="italic" font-size="12px">
+			<text x="914.5" y="649.81">PAYER_DSO : nvarchar(256)</text>
+		</g>
+		<rect x="908" y="653.31" width="250" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-size="12px">
+			<text x="914.5" y="665.81">ENCOUNTERCLASS : nvarchar(256)</text>
+		</g>
+		<rect x="908" y="669.31" width="250" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-size="12px">
+			<text x="914.5" y="681.81">CODE : nvarchar(256)</text>
+		</g>
+		<rect x="908" y="685.31" width="250" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-size="12px">
+			<text x="914.5" y="697.81">DESCRIPTION : nvarchar(256)</text>
+		</g>
+		<rect x="908" y="701.31" width="250" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-size="12px">
+			<text x="914.5" y="713.81">BASE_ENCOUNTER : numeric(10,2)</text>
+		</g>
+		<rect x="908" y="717.31" width="250" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-size="12px">
+			<text x="914.5" y="729.81">TOTAL_CLAIM : numeric(10,2)</text>
+		</g>
+		<rect x="908" y="733.31" width="250" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-size="12px">
+			<text x="914.5" y="745.81">PAYER_COVERAGE : numeric(10,2)</text>
+		</g>
+		<rect x="908" y="749.31" width="250" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-size="12px">
+			<text x="914.5" y="761.81">REASONCODE : nvarchar(256)</text>
+		</g>
+		<rect x="908" y="765.31" width="250" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-size="12px">
+			<text x="914.5" y="777.81">REASONDESCRIPTION : nvarchar(256)</text>
+		</g>
+		<rect x="908" y="781.31" width="250" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-weight="bold" font-size="12px">
+			<text x="914.5" y="793.81">DATASET_ORIGIN : nvarchar(256)</text>
+		</g>
+		<rect x="908" y="817" width="250" height="376.72" rx="10" ry="10" fill="#c5c4b0" stroke="#99976b" pointer-events="all"/>
+		<rect x="908" y="817" width="250" height="376.72" rx="10" ry="10" fill="none" stroke="#99976b" pointer-events="all"/>
+		<path d="M 908 831 L 1158 831" fill="none" stroke="#99976b" stroke-miterlimit="10" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="12px">
+			<text x="1032.5" y="827.5">tb_payers</text>
+		</g>
+		<rect x="908" y="836" width="250" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-weight="bold" font-size="12px">
+			<text x="914.5" y="848.5">Id : nvarchar(256)</text>
+		</g>
+		<rect x="908" y="852" width="250" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-size="12px">
+			<text x="914.5" y="864.5">NAME : nvarchar(256)</text>
+		</g>
+		<rect x="908" y="868" width="250" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-size="12px">
+			<text x="914.5" y="880.5">ADDRESS : nvarchar(256)</text>
+		</g>
+		<rect x="908" y="884" width="250" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-size="12px">
+			<text x="914.5" y="896.5">CITY : nvarchar(256)</text>
+		</g>
+		<rect x="908" y="900" width="250" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-size="12px">
+			<text x="914.5" y="912.5">STATE_HEADQUARTERED : nvarchar(2)</text>
+		</g>
+		<rect x="908" y="916" width="250" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-size="12px">
+			<text x="914.5" y="928.5">ZIP : nvarchar(256)</text>
+		</g>
+		<rect x="908" y="932" width="250" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-size="12px">
+			<text x="914.5" y="944.5">PHONE : nvarchar(256)</text>
+		</g>
+		<rect x="908" y="948" width="250" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-size="12px">
+			<text x="914.5" y="960.5">AMOUNT_COVERED : numeric(10,2)</text>
+		</g>
+		<rect x="908" y="964" width="250" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-size="12px">
+			<text x="914.5" y="976.5">AMOUNT_UNCOVERED : numeric(10,2)</text>
+		</g>
+		<rect x="908" y="980" width="250" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-size="12px">
+			<text x="914.5" y="992.5">REVENUE : int</text>
+		</g>
+		<rect x="908" y="996" width="250" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-size="12px">
+			<text x="914.5" y="1008.5">COVERED_ENCOUNTERS : int</text>
+		</g>
+		<rect x="908" y="1012" width="250" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-size="12px">
+			<text x="914.5" y="1024.5">UNCOVERED_ENCOUNTERS : int</text>
+		</g>
+		<rect x="908" y="1028" width="250" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-size="12px">
+			<text x="914.5" y="1040.5">COVERED_MEDICATIONS : int</text>
+		</g>
+		<rect x="908" y="1044" width="250" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-size="12px">
+			<text x="914.5" y="1056.5">UNCOVERED_MEDICATIONS : int</text>
+		</g>
+		<rect x="908" y="1060" width="250" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-size="12px">
+			<text x="914.5" y="1072.5">COVERED_PROCEDURES : int</text>
+		</g>
+		<rect x="908" y="1076" width="250" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-size="12px">
+			<text x="914.5" y="1088.5">UNCOVERED_PROCEDURES : int</text>
+		</g>
+		<rect x="908" y="1092" width="250" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-size="12px">
+			<text x="914.5" y="1104.5">COVERED_IMMUNIZATIONS : int</text>
+		</g>
+		<rect x="908" y="1108" width="250" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-size="12px">
+			<text x="914.5" y="1120.5">UNCOVERED_IMMUNIZATIONS : int</text>
+		</g>
+		<rect x="908" y="1124" width="250" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-size="12px">
+			<text x="914.5" y="1136.5">UNIQUE_CUSTOMERS : int</text>
+		</g>
+		<rect x="908" y="1140" width="250" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-size="12px">
+			<text x="914.5" y="1152.5">QOLS_AVG : numeric(12,10)</text>
+		</g>
+		<rect x="908" y="1156" width="250" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-size="12px">
+			<text x="914.5" y="1168.5">MEMBER_MONTHS : int</text>
+		</g>
+		<rect x="908" y="1172" width="250" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-weight="bold" font-size="12px">
+			<text x="914.5" y="1184.5">DATASET_ORIGIN : nvarchar(256)</text>
+		</g>
+		<path d="M 1364 956.38 L 1344 956.38 Q 1334 956.38 1332.45 946.5 L 1189.55 36.88 Q 1188 27 1178 27 L 1158 27" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="5" pointer-events="stroke"/>
+		<ellipse cx="1344.5" cy="956.38" rx="5.5" ry="5.5" fill="#ffffff" stroke="#000000" pointer-events="all"/>
+		<path d="M 1364 949.88 L 1351 956.38 L 1364 962.88" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+		<ellipse cx="1177.5" cy="27" rx="5.5" ry="5.5" fill="#ffffff" stroke="#000000" pointer-events="all"/>
+		<path d="M 1158 33.5 L 1171 27 L 1158 20.5" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+		<path d="M 1584 528 L 1604 528 Q 1614 528 1614 518 L 1614 341 Q 1614 331 1604 331 L 1584 331" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="5" pointer-events="stroke"/>
+		<ellipse cx="1603.5" cy="528" rx="5.5" ry="5.5" fill="#ffffff" stroke="#000000" pointer-events="all"/>
+		<path d="M 1584 534.5 L 1597 528 L 1584 521.5" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+		<path d="M 1590.5 324.5 L 1590.5 337.5" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+		<path d="M 1158 537 L 1178 537 Q 1188 537 1188 527 L 1188 230.36 Q 1188 220.36 1178 220.36 L 1158 220.36" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="5" pointer-events="stroke"/>
+		<ellipse cx="1177.5" cy="537" rx="5.5" ry="5.5" fill="#ffffff" stroke="#000000" pointer-events="all"/>
+		<path d="M 1158 543.5 L 1171 537 L 1158 530.5" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+		<path d="M 1164.5 213.86 L 1164.5 226.86" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+		<path d="M 1158 569 L 1178 569 Q 1188 569 1193.23 560.48 L 1328.77 339.52 Q 1334 331 1344 331 L 1364 331" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="5" pointer-events="stroke"/>
+		<ellipse cx="1177.5" cy="569" rx="5.5" ry="5.5" fill="#ffffff" stroke="#000000" pointer-events="all"/>
+		<path d="M 1158 575.5 L 1171 569 L 1158 562.5" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+		<path d="M 1357.5 337.5 L 1357.5 324.5" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+		<path d="M 1158 601 L 1178 601 Q 1188 601 1198 600.9 L 1324 599.6 Q 1334 599.49 1344 599.49 L 1364 599.49" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="5" pointer-events="stroke"/>
+		<ellipse cx="1177.5" cy="601" rx="5.5" ry="5.5" fill="#ffffff" stroke="#000000" pointer-events="all"/>
+		<path d="M 1158 607.5 L 1171 601 L 1158 594.5" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+		<path d="M 1357.5 605.99 L 1357.5 592.99" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+		<path d="M 1158 629 L 1178 629 Q 1188 629 1188 639 L 1188 834 Q 1188 844 1178 844 L 1158 844" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="5" pointer-events="stroke"/>
+		<ellipse cx="1177.5" cy="629" rx="5.5" ry="5.5" fill="#ffffff" stroke="#000000" pointer-events="all"/>
+		<path d="M 1158 635.5 L 1171 629 L 1158 622.5" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+		<path d="M 1164.5 837.5 L 1164.5 850.5" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+		<rect x="0.46" y="1770" width="238.91" height="294" rx="10" ry="10" fill="#f5b67a" stroke="#000000" pointer-events="all"/>
+		<rect x="0.46" y="1770" width="238.91" height="294" rx="10" ry="10" fill="none" stroke="#000000" pointer-events="all"/>
+		<path d="M 0.46 1784 L 239.37 1784" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="12px">
+			<text x="119.41" y="1780.5">tb_medications</text>
+		</g>
+		<rect x="0.46" y="1789" width="238.91" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-weight="bold" font-size="12px">
+			<text x="6.96" y="1801.5">START : timestamp</text>
+		</g>
+		<rect x="0.46" y="1805" width="238.91" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-weight="bold" font-size="12px">
+			<text x="6.96" y="1817.5">STOP: timestamp</text>
+		</g>
+		<rect x="0.46" y="1821" width="238.91" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-weight="bold" font-style="italic" font-size="12px">
+			<text x="6.96" y="1833.5">PATIENT_ID : nvarchar(256)</text>
+		</g>
+		<rect x="0.46" y="1837" width="238.91" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-weight="bold" font-style="italic" font-size="12px">
+			<text x="6.96" y="1849.5">PATIENT_DSO : nvarchar(256)</text>
+		</g>
+		<rect x="0.46" y="1853" width="238.91" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-style="italic" font-size="12px">
+			<text x="6.96" y="1865.5">PAYER_ID : nvarchar(256)</text>
+		</g>
+		<rect x="0.46" y="1869" width="238.91" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-style="italic" font-size="12px">
+			<text x="6.96" y="1881.5">PAYER_DSO : nvarchar(256)</text>
+		</g>
+		<rect x="0.46" y="1885" width="238.91" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-weight="bold" font-style="italic" font-size="12px">
+			<text x="6.96" y="1897.5">ENCOUNTER_ID : nvarchar(256)</text>
+		</g>
+		<rect x="0.46" y="1901" width="238.91" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-weight="bold" font-style="italic" font-size="12px">
+			<text x="6.96" y="1913.5">ENCOUNTER_DSO : nvarchar(256)</text>
+		</g>
+		<rect x="0.46" y="1917" width="238.91" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-weight="bold" font-size="12px">
+			<text x="6.96" y="1929.5">CODE : nvarchar(256)</text>
+		</g>
+		<rect x="0.46" y="1933" width="238.91" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-size="12px">
+			<text x="6.96" y="1945.5">DESCRIPTION : nvarchar(256)</text>
+		</g>
+		<rect x="0.46" y="1949" width="238.91" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-size="12px">
+			<text x="6.96" y="1961.5">BASE_COST : numeric(10,2)</text>
+		</g>
+		<rect x="0.46" y="1965" width="238.91" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-size="12px">
+			<text x="6.96" y="1977.5">PAYER_COVERAGE : numeric(10,2)</text>
+		</g>
+		<rect x="0.46" y="1981" width="238.91" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-size="12px">
+			<text x="6.96" y="1993.5">DISPENSES : int</text>
+		</g>
+		<rect x="0.46" y="1997" width="238.91" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-size="12px">
+			<text x="6.96" y="2009.5">TOTALCOST : numeric(10,2)</text>
+		</g>
+		<rect x="0.46" y="2013" width="238.91" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-size="12px">
+			<text x="6.96" y="2025.5">REASONCODE : nvarchar(256)</text>
+		</g>
+		<rect x="0.46" y="2029" width="238.91" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-size="12px">
+			<text x="6.96" y="2041.5">REASONDESCRIPTION : nvarchar(256)</text>
+		</g>
+		<rect x="0.46" y="2045" width="238.91" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-weight="bold" font-size="12px">
+			<text x="6.96" y="2057.5">DATASET_ORIGIN : nvarchar(256)</text>
+		</g>
+		<path d="M 241 83 L 261 83 Q 271 83 280.75 85.21 L 868.25 218.15 Q 878 220.36 888 220.36 L 908 220.36" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="5" pointer-events="stroke"/>
+		<ellipse cx="260.5" cy="83" rx="5.5" ry="5.5" fill="#ffffff" stroke="#000000" pointer-events="all"/>
+		<path d="M 241 89.5 L 254 83 L 241 76.5" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+		<path d="M 901.5 226.86 L 901.5 213.86" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+		<path d="M 241 115 L 261 115 Q 271 115 278.62 121.47 L 870.38 623.84 Q 878 630.31 888 630.31 L 908 630.31" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="5" pointer-events="stroke"/>
+		<ellipse cx="260.5" cy="115" rx="5.5" ry="5.5" fill="#ffffff" stroke="#000000" pointer-events="all"/>
+		<path d="M 241 121.5 L 254 115 L 241 108.5" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+		<path d="M 901.5 636.81 L 901.5 623.81" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+		<path d="M 240 287 L 260 287 Q 270 287 279.94 285.91 L 868.06 221.45 Q 878 220.36 888 220.36 L 908 220.36" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="5" pointer-events="stroke"/>
+		<ellipse cx="259.5" cy="287" rx="5.5" ry="5.5" fill="#ffffff" stroke="#000000" pointer-events="all"/>
+		<path d="M 240 293.5 L 253 287 L 240 280.5" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+		<path d="M 901.5 226.86 L 901.5 213.86" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+		<path d="M 240 323 L 260 323 Q 270 323 278.92 327.51 L 869.08 625.8 Q 878 630.31 888 630.31 L 908 630.31" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="5" pointer-events="stroke"/>
+		<ellipse cx="259.5" cy="323" rx="5.5" ry="5.5" fill="#ffffff" stroke="#000000" pointer-events="all"/>
+		<path d="M 240 329.5 L 253 323 L 240 316.5" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+		<path d="M 901.5 636.81 L 901.5 623.81" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+		<path d="M 240 467 L 260 467 Q 270 467 279.27 463.24 L 868.73 224.12 Q 878 220.36 888 220.36 L 908 220.36" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="5" pointer-events="stroke"/>
+		<ellipse cx="259.5" cy="467" rx="5.5" ry="5.5" fill="#ffffff" stroke="#000000" pointer-events="all"/>
+		<path d="M 240 473.5 L 253 467 L 240 460.5" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+		<path d="M 901.5 226.86 L 901.5 213.86" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+		<path d="M 240 495 L 260 495 Q 270 495 279.76 497.17 L 868.24 628.14 Q 878 630.31 888 630.31 L 908 630.31" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="5" pointer-events="stroke"/>
+		<ellipse cx="259.5" cy="495" rx="5.5" ry="5.5" fill="#ffffff" stroke="#000000" pointer-events="all"/>
+		<path d="M 240 501.5 L 253 495 L 240 488.5" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+		<path d="M 901.5 636.81 L 901.5 623.81" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+		<path d="M 243 832 L 263 832 Q 273 832 280.03 824.89 L 870.97 227.47 Q 878 220.36 888 220.36 L 908 220.36" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="5" pointer-events="stroke"/>
+		<ellipse cx="262.5" cy="832" rx="5.5" ry="5.5" fill="#ffffff" stroke="#000000" pointer-events="all"/>
+		<path d="M 243 838.5 L 256 832 L 243 825.5" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+		<path d="M 901.5 226.86 L 901.5 213.86" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+		<path d="M 243 864 L 263 864 Q 273 864 282.33 860.4 L 868.67 633.91 Q 878 630.31 888 630.31 L 908 630.31" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="5" pointer-events="stroke"/>
+		<ellipse cx="262.5" cy="864" rx="5.5" ry="5.5" fill="#ffffff" stroke="#000000" pointer-events="all"/>
+		<path d="M 243 870.5 L 256 864 L 243 857.5" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+		<path d="M 901.5 636.81 L 901.5 623.81" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+		<path d="M 241 1054 L 261 1054 Q 271 1054 276.89 1045.92 L 872.11 228.44 Q 878 220.36 888 220.36 L 908 220.36" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="5" pointer-events="stroke"/>
+		<ellipse cx="260.5" cy="1054" rx="5.5" ry="5.5" fill="#ffffff" stroke="#000000" pointer-events="all"/>
+		<path d="M 241 1060.5 L 254 1054 L 241 1047.5" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+		<path d="M 901.5 226.86 L 901.5 213.86" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+		<path d="M 241 1086 L 261 1086 Q 271 1086 279 1080 L 870 636.31 Q 878 630.31 888 630.31 L 908 630.31" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="5" pointer-events="stroke"/>
+		<ellipse cx="260.5" cy="1086" rx="5.5" ry="5.5" fill="#ffffff" stroke="#000000" pointer-events="all"/>
+		<path d="M 241 1092.5 L 254 1086 L 241 1079.5" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+		<path d="M 901.5 636.81 L 901.5 623.81" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+		<path d="M 241 1229 L 261 1229 Q 271 1229 276.16 1220.43 L 872.84 228.93 Q 878 220.36 888 220.36 L 908 220.36" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="5" pointer-events="stroke"/>
+		<ellipse cx="260.5" cy="1229" rx="5.5" ry="5.5" fill="#ffffff" stroke="#000000" pointer-events="all"/>
+		<path d="M 241 1235.5 L 254 1229 L 241 1222.5" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+		<path d="M 901.5 226.86 L 901.5 213.86" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+		<path d="M 241 1261 L 261 1261 Q 271 1261 277.93 1253.79 L 871.07 637.52 Q 878 630.31 888 630.31 L 908 630.31" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="5" pointer-events="stroke"/>
+		<ellipse cx="260.5" cy="1261" rx="5.5" ry="5.5" fill="#ffffff" stroke="#000000" pointer-events="all"/>
+		<path d="M 241 1267.5 L 254 1261 L 241 1254.5" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+		<path d="M 901.5 636.81 L 901.5 623.81" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+		<path d="M 239 1437 L 259 1437 Q 269 1437 273.48 1428.06 L 873.52 229.3 Q 878 220.36 888 220.36 L 908 220.36" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="5" pointer-events="stroke"/>
+		<ellipse cx="258.5" cy="1437" rx="5.5" ry="5.5" fill="#ffffff" stroke="#000000" pointer-events="all"/>
+		<path d="M 239 1443.5 L 252 1437 L 239 1430.5" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+		<path d="M 901.5 226.86 L 901.5 213.86" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+		<path d="M 239 1465 L 259 1465 Q 269 1465 274.89 1456.92 L 872.11 638.39 Q 878 630.31 888 630.31 L 908 630.31" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="5" pointer-events="stroke"/>
+		<ellipse cx="258.5" cy="1465" rx="5.5" ry="5.5" fill="#ffffff" stroke="#000000" pointer-events="all"/>
+		<path d="M 239 1471.5 L 252 1465 L 239 1458.5" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+		<path d="M 901.5 636.81 L 901.5 623.81" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+		<path d="M 240 1645 L 260 1645 Q 270 1645 273.93 1635.8 L 874.07 229.56 Q 878 220.36 888 220.36 L 908 220.36" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="5" pointer-events="stroke"/>
+		<ellipse cx="259.5" cy="1645" rx="5.5" ry="5.5" fill="#ffffff" stroke="#000000" pointer-events="all"/>
+		<path d="M 240 1651.5 L 253 1645 L 240 1638.5" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+		<path d="M 901.5 226.86 L 901.5 213.86" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+		<path d="M 240 1677 L 260 1677 Q 270 1677 275.02 1668.35 L 872.98 638.96 Q 878 630.31 888 630.31 L 908 630.31" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="5" pointer-events="stroke"/>
+		<ellipse cx="259.5" cy="1677" rx="5.5" ry="5.5" fill="#ffffff" stroke="#000000" pointer-events="all"/>
+		<path d="M 240 1683.5 L 253 1677 L 240 1670.5" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+		<path d="M 901.5 636.81 L 901.5 623.81" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+		<path d="M 239 1837 L 259 1837 Q 269 1837 272.53 1827.64 L 874.47 229.72 Q 878 220.36 888 220.36 L 908 220.36" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="5" pointer-events="stroke"/>
+		<ellipse cx="258.5" cy="1837" rx="5.5" ry="5.5" fill="#ffffff" stroke="#000000" pointer-events="all"/>
+		<path d="M 239 1843.5 L 252 1837 L 239 1830.5" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+		<path d="M 901.5 226.86 L 901.5 213.86" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+		<path d="M 239 1869 L 259 1869 Q 269 1869 274.76 1860.83 L 872.24 1013.53 Q 878 1005.36 888 1005.36 L 908 1005.36" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="5" pointer-events="stroke"/>
+		<ellipse cx="258.5" cy="1869" rx="5.5" ry="5.5" fill="#ffffff" stroke="#000000" pointer-events="all"/>
+		<path d="M 239 1875.5 L 252 1869 L 239 1862.5" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+		<path d="M 901.5 1011.86 L 901.5 998.86" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+		<path d="M 239 1901 L 259 1901 Q 269 1901 273.32 1891.98 L 873.68 639.33 Q 878 630.31 888 630.31 L 908 630.31" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="5" pointer-events="stroke"/>
+		<ellipse cx="258.5" cy="1901" rx="5.5" ry="5.5" fill="#ffffff" stroke="#000000" pointer-events="all"/>
+		<path d="M 239 1907.5 L 252 1901 L 239 1894.5" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+		<path d="M 901.5 636.81 L 901.5 623.81" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+		<rect x="1" y="224" width="238.91" height="166" rx="10" ry="10" fill="#f5b67a" stroke="#000000" pointer-events="all"/>
+		<rect x="1" y="224" width="238.91" height="166" rx="10" ry="10" fill="none" stroke="#000000" pointer-events="all"/>
+		<path d="M 1 238 L 239.91 238" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="12px">
+			<text x="119.96" y="234.5">tb_conditions</text>
+		</g>
+		<rect x="1" y="243" width="238.91" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-weight="bold" font-size="12px">
+			<text x="7.5" y="255.5">START : date</text>
+		</g>
+		<rect x="1" y="259" width="238.91" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-weight="bold" font-size="12px">
+			<text x="7.5" y="271.5">STOP: date</text>
+		</g>
+		<rect x="1" y="275" width="238.91" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-weight="bold" font-style="italic" font-size="12px">
+			<text x="7.5" y="287.5">PATIENT_ID : nvarchar(256)</text>
+		</g>
+		<rect x="1" y="291" width="238.91" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-weight="bold" font-style="italic" font-size="12px">
+			<text x="7.5" y="303.5">PATIENT_DSO : nvarchar(256)</text>
+		</g>
+		<rect x="1" y="307" width="238.91" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-weight="bold" font-style="italic" font-size="12px">
+			<text x="7.5" y="319.5">ENCOUNTER_ID : nvarchar(256)</text>
+		</g>
+		<rect x="1" y="323" width="238.91" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-weight="bold" font-style="italic" font-size="12px">
+			<text x="7.5" y="335.5">ENCOUNTER_DSO : nvarchar(256)</text>
+		</g>
+		<rect x="1" y="339" width="238.91" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-weight="bold" font-size="12px">
+			<text x="7.5" y="351.5">CODE : nvarchar(256)</text>
+		</g>
+		<rect x="1" y="355" width="238.91" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-size="12px">
+			<text x="7.5" y="367.5">DESCRIPTION : nvarchar(256)</text>
+		</g>
+		<rect x="1" y="371" width="238.91" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-weight="bold" font-size="12px">
+			<text x="7.5" y="383.5">DATASET_ORIGIN : nvarchar(256)</text>
+		</g>
+		<rect x="1" y="400" width="238.91" height="182.01" rx="10" ry="10" fill="#f5b67a" stroke="#000000" pointer-events="all"/>
+		<rect x="1" y="400" width="238.91" height="182.01" rx="10" ry="10" fill="none" stroke="#000000" pointer-events="all"/>
+		<path d="M 1 414 L 239.91 414" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="12px">
+			<text x="119.96" y="410.5">tb_devices</text>
+		</g>
+		<rect x="1" y="419" width="238.91" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-weight="bold" font-size="12px">
+			<text x="7.5" y="431.5">START : timestamp</text>
+		</g>
+		<rect x="1" y="435" width="238.91" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-weight="bold" font-size="12px">
+			<text x="7.5" y="447.5">STOP: timestamp</text>
+		</g>
+		<rect x="1" y="451" width="238.91" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-weight="bold" font-style="italic" font-size="12px">
+			<text x="7.5" y="463.5">PATIENT_ID : nvarchar(256)</text>
+		</g>
+		<rect x="1" y="467" width="238.91" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-weight="bold" font-style="italic" font-size="12px">
+			<text x="7.5" y="479.5">PATIENT_DSO : nvarchar(256)</text>
+		</g>
+		<rect x="1" y="483" width="238.91" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-weight="bold" font-style="italic" font-size="12px">
+			<text x="7.5" y="495.5">ENCOUNTER_ID : nvarchar(256)</text>
+		</g>
+		<rect x="1" y="499" width="238.91" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-weight="bold" font-style="italic" font-size="12px">
+			<text x="7.5" y="511.5">ENCOUNTER_DSO : nvarchar(256)</text>
+		</g>
+		<rect x="1" y="515" width="238.91" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-weight="bold" font-size="12px">
+			<text x="7.5" y="527.5">CODE : nvarchar(256)</text>
+		</g>
+		<rect x="1" y="531" width="238.91" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-size="12px">
+			<text x="7.5" y="543.5">DESCRIPTION : nvarchar(256)</text>
+		</g>
+		<rect x="1" y="547" width="238.91" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-size="12px">
+			<text x="7.5" y="559.5">UDI : nvarchar(256)</text>
+		</g>
+		<rect x="1" y="563" width="238.91" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-weight="bold" font-size="12px">
+			<text x="7.5" y="575.5">DATASET_ORIGIN : nvarchar(256)</text>
+		</g>
+		<rect x="1" y="591" width="238.91" height="166" rx="10" ry="10" fill="#f5b67a" stroke="#000000" pointer-events="all"/>
+		<rect x="1" y="591" width="238.91" height="166" rx="10" ry="10" fill="none" stroke="#000000" pointer-events="all"/>
+		<path d="M 1 605 L 239.91 605" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="12px">
+			<text x="119.96" y="601.5">tb_disease</text>
+		</g>
+		<rect x="1" y="610" width="238.91" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-weight="bold" font-size="12px">
+			<text x="7.5" y="622.5">START : date</text>
+		</g>
+		<rect x="1" y="626" width="238.91" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-weight="bold" font-size="12px">
+			<text x="7.5" y="638.5">STOP: date</text>
+		</g>
+		<rect x="1" y="642" width="238.91" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-weight="bold" font-style="italic" font-size="12px">
+			<text x="7.5" y="654.5">PATIENT_ID : nvarchar(256)</text>
+		</g>
+		<rect x="1" y="658" width="238.91" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-weight="bold" font-style="italic" font-size="12px">
+			<text x="7.5" y="670.5">PATIENT_DSO : nvarchar(256)</text>
+		</g>
+		<rect x="1" y="674" width="238.91" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-weight="bold" font-style="italic" font-size="12px">
+			<text x="7.5" y="686.5">ENCOUNTER_ID : nvarchar(256)</text>
+		</g>
+		<rect x="1" y="690" width="238.91" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-weight="bold" font-style="italic" font-size="12px">
+			<text x="7.5" y="702.5">ENCOUNTER_DSO : nvarchar(256)</text>
+		</g>
+		<rect x="1" y="706" width="238.91" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-weight="bold" font-size="12px">
+			<text x="7.5" y="718.5">CODE : nvarchar(256)</text>
+		</g>
+		<rect x="1" y="722" width="238.91" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-size="12px">
+			<text x="7.5" y="734.5">DESCRIPTION : nvarchar(256)</text>
+		</g>
+		<rect x="1" y="738" width="238.91" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-weight="bold" font-size="12px">
+			<text x="7.5" y="750.5">DATASET_ORIGIN : nvarchar(256)</text>
+		</g>
+		<rect x="0.46" y="765" width="243" height="230" rx="10" ry="10" fill="#f5b67a" stroke="#000000" pointer-events="all"/>
+		<rect x="0.46" y="765" width="243" height="230" rx="10" ry="10" fill="none" stroke="#000000" pointer-events="all"/>
+		<path d="M 0.46 779 L 243.46 779" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="12px">
+			<text x="121.46" y="775.5">tb_imaging_studies</text>
+		</g>
+		<rect x="0.46" y="784" width="243" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-weight="bold" font-size="12px">
+			<text x="6.96" y="796.5">Id : nvarchar(256)</text>
+		</g>
+		<rect x="0.46" y="800" width="243" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-size="12px">
+			<text x="6.96" y="812.5">DATE : date</text>
+		</g>
+		<rect x="0.46" y="816" width="243" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-style="italic" font-size="12px">
+			<text x="6.96" y="828.5">PATIENT_ID : nvarchar(256)</text>
+		</g>
+		<rect x="0.46" y="832" width="243" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-style="italic" font-size="12px">
+			<text x="6.96" y="844.5">PATIENT_DSO : nvarchar(256)</text>
+		</g>
+		<rect x="0.46" y="848" width="243" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-style="italic" font-size="12px">
+			<text x="6.96" y="860.5">ENCOUNTER_ID : nvarchar(256)</text>
+		</g>
+		<rect x="0.46" y="864" width="243" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-style="italic" font-size="12px">
+			<text x="6.96" y="876.5">ENCOUNTER_DSO : nvarchar(256)</text>
+		</g>
+		<rect x="0.46" y="880" width="243" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-size="12px">
+			<text x="6.96" y="892.5">BODYSITE_CODE : nvarchar(256)</text>
+		</g>
+		<rect x="0.46" y="896" width="243" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-size="12px">
+			<text x="6.96" y="908.5">BODYSITE_DESCRIPTION : nvarchar(256)</text>
+		</g>
+		<rect x="0.46" y="912" width="243" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-size="12px">
+			<text x="6.96" y="924.5">MODALITY_CODE : char(2)</text>
+		</g>
+		<rect x="0.46" y="928" width="243" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-size="12px">
+			<text x="6.96" y="940.5">MODALITY_DESCRIPTION: nvarchar(256)</text>
+		</g>
+		<rect x="0.46" y="944" width="243" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-size="12px">
+			<text x="6.96" y="956.5">SOP_CODE : nvarchar(256)</text>
+		</g>
+		<rect x="0.46" y="960" width="243" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-size="12px">
+			<text x="6.96" y="972.5">SOP_DESCRIPTION : nvarchar(256)</text>
+		</g>
+		<rect x="0.46" y="976" width="243" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-weight="bold" font-size="12px">
+			<text x="6.96" y="988.5">DATASET_ORIGIN : nvarchar(256)</text>
+		</g>
+		<rect x="1" y="1003" width="240" height="166" rx="10" ry="10" fill="#f5b67a" stroke="#000000" pointer-events="all"/>
+		<rect x="1" y="1003" width="240" height="166" rx="10" ry="10" fill="none" stroke="#000000" pointer-events="all"/>
+		<path d="M 1 1017 L 241 1017" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="12px">
+			<text x="120.5" y="1013.5">tb_immunizations</text>
+		</g>
+		<rect x="1" y="1022" width="240" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-weight="bold" font-size="12px">
+			<text x="7.5" y="1034.5">DATE: timestamp</text>
+		</g>
+		<rect x="1" y="1038" width="240" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-weight="bold" font-style="italic" font-size="12px">
+			<text x="7.5" y="1050.5">PATIENT_ID : nvarchar(256)</text>
+		</g>
+		<rect x="1" y="1054" width="240" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-weight="bold" font-style="italic" font-size="12px">
+			<text x="7.5" y="1066.5">PATIENT_DSO : nvarchar(256)</text>
+		</g>
+		<rect x="1" y="1070" width="240" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-weight="bold" font-style="italic" font-size="12px">
+			<text x="7.5" y="1082.5">ENCOUNTER_ID : nvarchar(256)</text>
+		</g>
+		<rect x="1" y="1086" width="240" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-weight="bold" font-style="italic" font-size="12px">
+			<text x="7.5" y="1098.5">ENCOUNTER_DSO : nvarchar(256)</text>
+		</g>
+		<rect x="1" y="1102" width="240" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-weight="bold" font-size="12px">
+			<text x="7.5" y="1114.5">CODE : nvarchar(256)</text>
+		</g>
+		<rect x="1" y="1118" width="240" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-size="12px">
+			<text x="7.5" y="1130.5">DESCRIPTION : nvarchar(256)</text>
+		</g>
+		<rect x="1" y="1134" width="240" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-size="12px">
+			<text x="7.5" y="1146.5">BASE_COST : numeric(10,2)</text>
+		</g>
+		<rect x="1" y="1150" width="240" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-weight="bold" font-size="12px">
+			<text x="7.5" y="1162.5">DATASET_ORIGIN : nvarchar(256)</text>
+		</g>
+		<rect x="0.46" y="1386" width="238.91" height="198" rx="10" ry="10" fill="#f5b67a" stroke="#000000" pointer-events="all"/>
+		<rect x="0.46" y="1386" width="238.91" height="198" rx="10" ry="10" fill="none" stroke="#000000" pointer-events="all"/>
+		<path d="M 0.46 1400 L 239.37 1400" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="12px">
+			<text x="119.41" y="1396.5">tb_procedures</text>
+		</g>
+		<rect x="0.46" y="1405" width="238.91" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-weight="bold" font-size="12px">
+			<text x="6.96" y="1417.5">DATE: timestamp</text>
+		</g>
+		<rect x="0.46" y="1421" width="238.91" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-weight="bold" font-style="italic" font-size="12px">
+			<text x="6.96" y="1433.5">PATIENT_ID : nvarchar(256)</text>
+		</g>
+		<rect x="0.46" y="1437" width="238.91" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-weight="bold" font-style="italic" font-size="12px">
+			<text x="6.96" y="1449.5">PATIENT_DSO : nvarchar(256)</text>
+		</g>
+		<rect x="0.46" y="1453" width="238.91" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-weight="bold" font-style="italic" font-size="12px">
+			<text x="6.96" y="1465.5">ENCOUNTER_ID : nvarchar(256)</text>
+		</g>
+		<rect x="0.46" y="1469" width="238.91" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-weight="bold" font-style="italic" font-size="12px">
+			<text x="6.96" y="1481.5">ENCOUNTER_DSO : nvarchar(256)</text>
+		</g>
+		<rect x="0.46" y="1485" width="238.91" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-weight="bold" font-size="12px">
+			<text x="6.96" y="1497.5">CODE : nvarchar(256)</text>
+		</g>
+		<rect x="0.46" y="1501" width="238.91" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-size="12px">
+			<text x="6.96" y="1513.5">DESCRIPTION : nvarchar(256)</text>
+		</g>
+		<rect x="0.46" y="1517" width="238.91" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-size="12px">
+			<text x="6.96" y="1529.5">BASE_COST : numeric(10,2)</text>
+		</g>
+		<rect x="0.46" y="1533" width="238.91" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-size="12px">
+			<text x="6.96" y="1545.5">REASONCODE : nvarchar(256)</text>
+		</g>
+		<rect x="0.46" y="1549" width="238.91" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-size="12px">
+			<text x="6.96" y="1561.5">REASONDESCRIPTION : nvarchar(256)</text>
+		</g>
+		<rect x="0.46" y="1565" width="238.91" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-weight="bold" font-size="12px">
+			<text x="6.96" y="1577.5">DATASET_ORIGIN : nvarchar(256)</text>
+		</g>
+		<rect x="1" y="1178" width="240" height="198" rx="10" ry="10" fill="#f5b67a" stroke="#000000" pointer-events="all"/>
+		<rect x="1" y="1178" width="240" height="198" rx="10" ry="10" fill="none" stroke="#000000" pointer-events="all"/>
+		<path d="M 1 1192 L 241 1192" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="12px">
+			<text x="120.5" y="1188.5">tb_observations</text>
+		</g>
+		<rect x="1" y="1197" width="240" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-weight="bold" font-size="12px">
+			<text x="7.5" y="1209.5">DATE: timestamp</text>
+		</g>
+		<rect x="1" y="1213" width="240" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-weight="bold" font-style="italic" font-size="12px">
+			<text x="7.5" y="1225.5">PATIENT_ID : nvarchar(256)</text>
+		</g>
+		<rect x="1" y="1229" width="240" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-weight="bold" font-style="italic" font-size="12px">
+			<text x="7.5" y="1241.5">PATIENT_DSO : nvarchar(256)</text>
+		</g>
+		<rect x="1" y="1245" width="240" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-weight="bold" font-size="12px">
+			<text x="7.5" y="1257.5">ENCOUNTER_ID : nvarchar(256)</text>
+		</g>
+		<rect x="1" y="1261" width="240" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-weight="bold" font-size="12px">
+			<text x="7.5" y="1273.5">ENCOUNTER_DSO : nvarchar(256)</text>
+		</g>
+		<rect x="1" y="1277" width="240" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-weight="bold" font-size="12px">
+			<text x="7.5" y="1289.5">CODE : nvarchar(256)</text>
+		</g>
+		<rect x="1" y="1293" width="240" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-size="12px">
+			<text x="7.5" y="1305.5">DESCRIPTION : nvarchar(256)</text>
+		</g>
+		<rect x="1" y="1309" width="240" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-size="12px">
+			<text x="7.5" y="1321.5">VALUE : nvarchar(256)</text>
+		</g>
+		<rect x="1" y="1325" width="240" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-size="12px">
+			<text x="7.5" y="1337.5">UNITS : nvarchar(256)</text>
+		</g>
+		<rect x="1" y="1341" width="240" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-size="12px">
+			<text x="7.5" y="1353.5">TYPE : nvarchar(256)</text>
+		</g>
+		<rect x="1" y="1357" width="240" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-weight="bold" font-size="12px">
+			<text x="7.5" y="1369.5">DATASET_ORIGIN : nvarchar(256)</text>
+		</g>
+		<rect x="1" y="1594" width="238.91" height="166" rx="10" ry="10" fill="#f5b67a" stroke="#000000" pointer-events="all"/>
+		<rect x="1" y="1594" width="238.91" height="166" rx="10" ry="10" fill="none" stroke="#000000" pointer-events="all"/>
+		<path d="M 1 1608 L 239.91 1608" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="12px">
+			<text x="119.95" y="1604.5">tb_supplies</text>
+		</g>
+		<rect x="1" y="1613" width="238.91" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-weight="bold" font-size="12px">
+			<text x="7.5" y="1625.5">DATE: date</text>
+		</g>
+		<rect x="1" y="1629" width="238.91" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-weight="bold" font-style="italic" font-size="12px">
+			<text x="7.5" y="1641.5">PATIENT_ID : nvarchar(256)</text>
+		</g>
+		<rect x="1" y="1645" width="238.91" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-weight="bold" font-style="italic" font-size="12px">
+			<text x="7.5" y="1657.5">PATIENT_DSO : nvarchar(256)</text>
+		</g>
+		<rect x="1" y="1661" width="238.91" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-weight="bold" font-style="italic" font-size="12px">
+			<text x="7.5" y="1673.5">ENCOUNTER_ID : nvarchar(256)</text>
+		</g>
+		<rect x="1" y="1677" width="238.91" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-weight="bold" font-style="italic" font-size="12px">
+			<text x="7.5" y="1689.5">ENCOUNTER_DSO : nvarchar(256)</text>
+		</g>
+		<rect x="1" y="1693" width="238.91" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-weight="bold" font-size="12px">
+			<text x="7.5" y="1705.5">CODE : nvarchar(256)</text>
+		</g>
+		<rect x="1" y="1709" width="238.91" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-size="12px">
+			<text x="7.5" y="1721.5">DESCRIPTION : nvarchar(256)</text>
+		</g>
+		<rect x="1" y="1725" width="238.91" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-size="12px">
+			<text x="7.5" y="1737.5">QUANTITY : int</text>
+		</g>
+		<rect x="1" y="1741" width="238.91" height="16" fill="none" stroke="none" pointer-events="all"/>
+		<g fill="#000000" font-family="Helvetica" font-weight="bold" font-size="12px">
+			<text x="7.5" y="1753.5">DATASET_ORIGIN : nvarchar(256)</text>
+		</g>
+		<path d="M 240 658 L 260 658 Q 270 658 278.12 652.16 L 869.88 226.2 Q 878 220.36 888 220.36 L 908 220.36" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="5" pointer-events="stroke"/>
+		<ellipse cx="259.5" cy="658" rx="5.5" ry="5.5" fill="#ffffff" stroke="#000000" pointer-events="all"/>
+		<path d="M 240 664.5 L 253 658 L 240 651.5" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+		<path d="M 901.5 226.86 L 901.5 213.86" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+		<path d="M 240 690 L 260 690 Q 270 690 279.95 689.02 L 868.05 631.29 Q 878 630.31 888 630.31 L 908 630.31" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="5" pointer-events="stroke"/>
+		<ellipse cx="259.5" cy="690" rx="5.5" ry="5.5" fill="#ffffff" stroke="#000000" pointer-events="all"/>
+		<path d="M 240 696.5 L 253 690 L 240 683.5" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+		<path d="M 901.5 636.81 L 901.5 623.81" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+		<path d="M 1364 1020.38 L 1344 1020.38 Q 1334 1020.38 1324 1020.35 L 1198 1020.03 Q 1188 1020 1178 1020 L 1158 1020" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="5" pointer-events="stroke"/>
+		<ellipse cx="1344.5" cy="1020.38" rx="5.5" ry="5.5" fill="#ffffff" stroke="#000000" pointer-events="all"/>
+		<path d="M 1364 1013.88 L 1351 1020.38 L 1364 1026.88" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+		<ellipse cx="1177.5" cy="1020" rx="5.5" ry="5.5" fill="#ffffff" stroke="#000000" pointer-events="all"/>
+		<path d="M 1158 1026.5 L 1171 1020 L 1158 1013.5" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+		<path d="M 1364 956.38 L 1344 956.38 Q 1334 956.38 1332.45 946.5 L 1189.55 36.88 Q 1188 27 1178 27 L 1158 27" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="5" pointer-events="stroke"/>
+		<ellipse cx="1344.5" cy="956.38" rx="5.5" ry="5.5" fill="#ffffff" stroke="#000000" pointer-events="all"/>
+		<path d="M 1364 949.88 L 1351 956.38 L 1364 962.88" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+		<ellipse cx="1177.5" cy="27" rx="5.5" ry="5.5" fill="#ffffff" stroke="#000000" pointer-events="all"/>
+		<path d="M 1158 33.5 L 1171 27 L 1158 20.5" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+		<path d="M 1584 528 L 1604 528 Q 1614 528 1614 518 L 1614 341 Q 1614 331 1604 331 L 1584 331" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="5" pointer-events="stroke"/>
+		<ellipse cx="1603.5" cy="528" rx="5.5" ry="5.5" fill="#ffffff" stroke="#000000" pointer-events="all"/>
+		<path d="M 1584 534.5 L 1597 528 L 1584 521.5" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+		<path d="M 1590.5 324.5 L 1590.5 337.5" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+		<path d="M 1158 537 L 1178 537 Q 1188 537 1188 527 L 1188 230.36 Q 1188 220.36 1178 220.36 L 1158 220.36" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="5" pointer-events="stroke"/>
+		<ellipse cx="1177.5" cy="537" rx="5.5" ry="5.5" fill="#ffffff" stroke="#000000" pointer-events="all"/>
+		<path d="M 1158 543.5 L 1171 537 L 1158 530.5" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+		<path d="M 1164.5 213.86 L 1164.5 226.86" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+		<path d="M 1158 569 L 1178 569 Q 1188 569 1193.23 560.48 L 1328.77 339.52 Q 1334 331 1344 331 L 1364 331" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="5" pointer-events="stroke"/>
+		<ellipse cx="1177.5" cy="569" rx="5.5" ry="5.5" fill="#ffffff" stroke="#000000" pointer-events="all"/>
+		<path d="M 1158 575.5 L 1171 569 L 1158 562.5" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+		<path d="M 1357.5 337.5 L 1357.5 324.5" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+		<path d="M 1158 601 L 1178 601 Q 1188 601 1198 600.9 L 1324 599.6 Q 1334 599.49 1344 599.49 L 1364 599.49" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="5" pointer-events="stroke"/>
+		<ellipse cx="1177.5" cy="601" rx="5.5" ry="5.5" fill="#ffffff" stroke="#000000" pointer-events="all"/>
+		<path d="M 1158 607.5 L 1171 601 L 1158 594.5" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+		<path d="M 1357.5 605.99 L 1357.5 592.99" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+		<path d="M 1158 629 L 1178 629 Q 1188 629 1188 639 L 1188 834 Q 1188 844 1178 844 L 1158 844" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="5" pointer-events="stroke"/>
+		<ellipse cx="1177.5" cy="629" rx="5.5" ry="5.5" fill="#ffffff" stroke="#000000" pointer-events="all"/>
+		<path d="M 1158 635.5 L 1171 629 L 1158 622.5" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+		<path d="M 1164.5 837.5 L 1164.5 850.5" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+		<path d="M 241 83 L 261 83 Q 271 83 280.75 85.21 L 868.25 218.15 Q 878 220.36 888 220.36 L 908 220.36" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="5" pointer-events="stroke"/>
+		<ellipse cx="260.5" cy="83" rx="5.5" ry="5.5" fill="#ffffff" stroke="#000000" pointer-events="all"/>
+		<path d="M 241 89.5 L 254 83 L 241 76.5" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+		<path d="M 901.5 226.86 L 901.5 213.86" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+		<path d="M 241 115 L 261 115 Q 271 115 278.62 121.47 L 870.38 623.84 Q 878 630.31 888 630.31 L 908 630.31" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="5" pointer-events="stroke"/>
+		<ellipse cx="260.5" cy="115" rx="5.5" ry="5.5" fill="#ffffff" stroke="#000000" pointer-events="all"/>
+		<path d="M 241 121.5 L 254 115 L 241 108.5" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+		<path d="M 901.5 636.81 L 901.5 623.81" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+		<path d="M 240 287 L 260 287 Q 270 287 279.94 285.91 L 868.06 221.45 Q 878 220.36 888 220.36 L 908 220.36" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="5" pointer-events="stroke"/>
+		<ellipse cx="259.5" cy="287" rx="5.5" ry="5.5" fill="#ffffff" stroke="#000000" pointer-events="all"/>
+		<path d="M 240 293.5 L 253 287 L 240 280.5" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+		<path d="M 901.5 226.86 L 901.5 213.86" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+		<path d="M 240 323 L 260 323 Q 270 323 278.92 327.51 L 869.08 625.8 Q 878 630.31 888 630.31 L 908 630.31" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="5" pointer-events="stroke"/>
+		<ellipse cx="259.5" cy="323" rx="5.5" ry="5.5" fill="#ffffff" stroke="#000000" pointer-events="all"/>
+		<path d="M 240 329.5 L 253 323 L 240 316.5" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+		<path d="M 901.5 636.81 L 901.5 623.81" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+		<path d="M 240 467 L 260 467 Q 270 467 279.27 463.24 L 868.73 224.12 Q 878 220.36 888 220.36 L 908 220.36" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="5" pointer-events="stroke"/>
+		<ellipse cx="259.5" cy="467" rx="5.5" ry="5.5" fill="#ffffff" stroke="#000000" pointer-events="all"/>
+		<path d="M 240 473.5 L 253 467 L 240 460.5" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+		<path d="M 901.5 226.86 L 901.5 213.86" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+		<path d="M 240 495 L 260 495 Q 270 495 279.76 497.17 L 868.24 628.14 Q 878 630.31 888 630.31 L 908 630.31" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="5" pointer-events="stroke"/>
+		<ellipse cx="259.5" cy="495" rx="5.5" ry="5.5" fill="#ffffff" stroke="#000000" pointer-events="all"/>
+		<path d="M 240 501.5 L 253 495 L 240 488.5" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+		<path d="M 901.5 636.81 L 901.5 623.81" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+		<path d="M 243 832 L 263 832 Q 273 832 280.03 824.89 L 870.97 227.47 Q 878 220.36 888 220.36 L 908 220.36" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="5" pointer-events="stroke"/>
+		<ellipse cx="262.5" cy="832" rx="5.5" ry="5.5" fill="#ffffff" stroke="#000000" pointer-events="all"/>
+		<path d="M 243 838.5 L 256 832 L 243 825.5" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+		<path d="M 901.5 226.86 L 901.5 213.86" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+		<path d="M 243 864 L 263 864 Q 273 864 282.33 860.4 L 868.67 633.91 Q 878 630.31 888 630.31 L 908 630.31" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="5" pointer-events="stroke"/>
+		<ellipse cx="262.5" cy="864" rx="5.5" ry="5.5" fill="#ffffff" stroke="#000000" pointer-events="all"/>
+		<path d="M 243 870.5 L 256 864 L 243 857.5" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+		<path d="M 901.5 636.81 L 901.5 623.81" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+		<path d="M 241 1054 L 261 1054 Q 271 1054 276.89 1045.92 L 872.11 228.44 Q 878 220.36 888 220.36 L 908 220.36" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="5" pointer-events="stroke"/>
+		<ellipse cx="260.5" cy="1054" rx="5.5" ry="5.5" fill="#ffffff" stroke="#000000" pointer-events="all"/>
+		<path d="M 241 1060.5 L 254 1054 L 241 1047.5" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+		<path d="M 901.5 226.86 L 901.5 213.86" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+		<path d="M 241 1086 L 261 1086 Q 271 1086 279 1080 L 870 636.31 Q 878 630.31 888 630.31 L 908 630.31" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="5" pointer-events="stroke"/>
+		<ellipse cx="260.5" cy="1086" rx="5.5" ry="5.5" fill="#ffffff" stroke="#000000" pointer-events="all"/>
+		<path d="M 241 1092.5 L 254 1086 L 241 1079.5" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+		<path d="M 901.5 636.81 L 901.5 623.81" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+		<path d="M 241 1229 L 261 1229 Q 271 1229 276.16 1220.43 L 872.84 228.93 Q 878 220.36 888 220.36 L 908 220.36" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="5" pointer-events="stroke"/>
+		<ellipse cx="260.5" cy="1229" rx="5.5" ry="5.5" fill="#ffffff" stroke="#000000" pointer-events="all"/>
+		<path d="M 241 1235.5 L 254 1229 L 241 1222.5" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+		<path d="M 901.5 226.86 L 901.5 213.86" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+		<path d="M 241 1261 L 261 1261 Q 271 1261 277.93 1253.79 L 871.07 637.52 Q 878 630.31 888 630.31 L 908 630.31" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="5" pointer-events="stroke"/>
+		<ellipse cx="260.5" cy="1261" rx="5.5" ry="5.5" fill="#ffffff" stroke="#000000" pointer-events="all"/>
+		<path d="M 241 1267.5 L 254 1261 L 241 1254.5" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+		<path d="M 901.5 636.81 L 901.5 623.81" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+		<path d="M 239 1437 L 259 1437 Q 269 1437 273.48 1428.06 L 873.52 229.3 Q 878 220.36 888 220.36 L 908 220.36" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="5" pointer-events="stroke"/>
+		<ellipse cx="258.5" cy="1437" rx="5.5" ry="5.5" fill="#ffffff" stroke="#000000" pointer-events="all"/>
+		<path d="M 239 1443.5 L 252 1437 L 239 1430.5" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+		<path d="M 901.5 226.86 L 901.5 213.86" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+		<path d="M 239 1465 L 259 1465 Q 269 1465 274.89 1456.92 L 872.11 638.39 Q 878 630.31 888 630.31 L 908 630.31" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="5" pointer-events="stroke"/>
+		<ellipse cx="258.5" cy="1465" rx="5.5" ry="5.5" fill="#ffffff" stroke="#000000" pointer-events="all"/>
+		<path d="M 239 1471.5 L 252 1465 L 239 1458.5" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+		<path d="M 901.5 636.81 L 901.5 623.81" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+		<path d="M 240 1645 L 260 1645 Q 270 1645 273.93 1635.8 L 874.07 229.56 Q 878 220.36 888 220.36 L 908 220.36" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="5" pointer-events="stroke"/>
+		<ellipse cx="259.5" cy="1645" rx="5.5" ry="5.5" fill="#ffffff" stroke="#000000" pointer-events="all"/>
+		<path d="M 240 1651.5 L 253 1645 L 240 1638.5" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+		<path d="M 901.5 226.86 L 901.5 213.86" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+		<path d="M 240 1677 L 260 1677 Q 270 1677 275.02 1668.35 L 872.98 638.96 Q 878 630.31 888 630.31 L 908 630.31" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="5" pointer-events="stroke"/>
+		<ellipse cx="259.5" cy="1677" rx="5.5" ry="5.5" fill="#ffffff" stroke="#000000" pointer-events="all"/>
+		<path d="M 240 1683.5 L 253 1677 L 240 1670.5" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+		<path d="M 901.5 636.81 L 901.5 623.81" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+		<path d="M 239 1837 L 259 1837 Q 269 1837 272.53 1827.64 L 874.47 229.72 Q 878 220.36 888 220.36 L 908 220.36" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="5" pointer-events="stroke"/>
+		<ellipse cx="258.5" cy="1837" rx="5.5" ry="5.5" fill="#ffffff" stroke="#000000" pointer-events="all"/>
+		<path d="M 239 1843.5 L 252 1837 L 239 1830.5" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+		<path d="M 901.5 226.86 L 901.5 213.86" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+		<path d="M 239 1869 L 259 1869 Q 269 1869 274.76 1860.83 L 872.24 1013.53 Q 878 1005.36 888 1005.36 L 908 1005.36" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="5" pointer-events="stroke"/>
+		<ellipse cx="258.5" cy="1869" rx="5.5" ry="5.5" fill="#ffffff" stroke="#000000" pointer-events="all"/>
+		<path d="M 239 1875.5 L 252 1869 L 239 1862.5" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+		<path d="M 901.5 1011.86 L 901.5 998.86" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+		<path d="M 239 1901 L 259 1901 Q 269 1901 273.32 1891.98 L 873.68 639.33 Q 878 630.31 888 630.31 L 908 630.31" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="5" pointer-events="stroke"/>
+		<ellipse cx="258.5" cy="1901" rx="5.5" ry="5.5" fill="#ffffff" stroke="#000000" pointer-events="all"/>
+		<path d="M 239 1907.5 L 252 1901 L 239 1894.5" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+		<path d="M 901.5 636.81 L 901.5 623.81" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+		<path d="M 240 658 L 260 658 Q 270 658 278.12 652.16 L 869.88 226.2 Q 878 220.36 888 220.36 L 908 220.36" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="5" pointer-events="stroke"/>
+		<ellipse cx="259.5" cy="658" rx="5.5" ry="5.5" fill="#ffffff" stroke="#000000" pointer-events="all"/>
+		<path d="M 240 664.5 L 253 658 L 240 651.5" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+		<path d="M 901.5 226.86 L 901.5 213.86" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+		<path d="M 240 690 L 260 690 Q 270 690 279.95 689.02 L 868.05 631.29 Q 878 630.31 888 630.31 L 908 630.31" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="5" pointer-events="stroke"/>
+		<ellipse cx="259.5" cy="690" rx="5.5" ry="5.5" fill="#ffffff" stroke="#000000" pointer-events="all"/>
+		<path d="M 240 696.5 L 253 690 L 240 683.5" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+		<path d="M 901.5 636.81 L 901.5 623.81" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+		<path d="M 1364 1020.38 L 1344 1020.38 Q 1334 1020.38 1324 1020.35 L 1198 1020.03 Q 1188 1020 1178 1020 L 1158 1020" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="5" pointer-events="stroke"/>
+		<ellipse cx="1344.5" cy="1020.38" rx="5.5" ry="5.5" fill="#ffffff" stroke="#000000" pointer-events="all"/>
+		<path d="M 1364 1013.88 L 1351 1020.38 L 1364 1026.88" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+		<ellipse cx="1177.5" cy="1020" rx="5.5" ry="5.5" fill="#ffffff" stroke="#000000" pointer-events="all"/>
+		<path d="M 1158 1026.5 L 1171 1020 L 1158 1013.5" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+	</g>
+<!--	<g fill="#787878" font-family="Arial,Helvetica" text-anchor="end" font-size="12px">				-->
+<!--		<text pointer-events="none" x="1623" y="2059">Visual Paradigm Online Express Edition</text>	-->
+<!--	</g>																							-->
+</svg>
