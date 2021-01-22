@@ -281,11 +281,11 @@ CREATE TABLE tb_observations
      encounter_dso  NVARCHAR(256), 
      code           NVARCHAR(256), 
      description    NVARCHAR(256) DEFAULT NULL, 
-     value          NVARCHAR(256) DEFAULT NULL, 
+     value          NVARCHAR(256), 
      units          NVARCHAR(256) DEFAULT NULL, 
      type           NVARCHAR(256) DEFAULT NULL, 
      dataset_origin NVARCHAR(256), 
-     PRIMARY KEY (date, patient_id, patient_dso, encounter_id, encounter_dso, code, dataset_origin), 
+     PRIMARY KEY (date, patient_id, patient_dso, encounter_id, encounter_dso, code, value, dataset_origin), 
      FOREIGN KEY (patient_id, patient_dso) REFERENCES tb_patients(id, dataset_origin), 
      FOREIGN KEY (encounter_id, encounter_dso) REFERENCES tb_encounters (id, dataset_origin) 
   );
