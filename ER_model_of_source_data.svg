@@ -992,7 +992,7 @@
 			<text x="7.5" y="1305.5">DESCRIPTION : nvarchar(256)</text>
 		</g>
 		<rect x="1" y="1309" width="240" height="16" fill="none" stroke="none" pointer-events="all"/>
-		<g fill="#000000" font-family="Helvetica" font-size="12px">
+		<g fill="#000000" font-family="Helvetica" font-weight="bold" font-size="12px">
 			<text x="7.5" y="1321.5">VALUE : nvarchar(256)</text>
 		</g>
 		<rect x="1" y="1325" width="240" height="16" fill="none" stroke="none" pointer-events="all"/>
