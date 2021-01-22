@@ -274,6 +274,7 @@ CREATE TABLE tb_immunizations
 
 CREATE TABLE tb_observations 
   ( 
+     Id             INT AUTO_INCREMENT,        
      date           TIMESTAMP, 
      patient_id     NVARCHAR(256), 
      patient_dso    NVARCHAR(256), 
@@ -285,7 +286,7 @@ CREATE TABLE tb_observations
      units          NVARCHAR(256) DEFAULT NULL, 
      type           NVARCHAR(256) DEFAULT NULL, 
      dataset_origin NVARCHAR(256), 
-     PRIMARY KEY (date, patient_id, patient_dso, encounter_id, encounter_dso, code, value, dataset_origin), 
+     PRIMARY KEY (Id), 
      FOREIGN KEY (patient_id, patient_dso) REFERENCES tb_patients(id, dataset_origin), 
      FOREIGN KEY (encounter_id, encounter_dso) REFERENCES tb_encounters (id, dataset_origin) 
   );
@@ -310,6 +311,7 @@ CREATE TABLE tb_procedures
 
 CREATE TABLE tb_supplies 
   ( 
+     Id             INT AUTO_INCREMENT,
      date           DATE, 
      patient_id     NVARCHAR(256), 
      patient_dso    NVARCHAR(256), 
@@ -319,7 +321,7 @@ CREATE TABLE tb_supplies
      description    NVARCHAR(256) DEFAULT NULL, 
      quantity       INT DEFAULT NULL, 
      dataset_origin NVARCHAR(256), 
-     PRIMARY KEY (date, patient_id, patient_dso, encounter_id, encounter_dso, code, dataset_origin), 
+     PRIMARY KEY (Id), 
      FOREIGN KEY (patient_id, patient_dso) REFERENCES tb_patients(id, dataset_origin), 
      FOREIGN KEY (encounter_id, encounter_dso) REFERENCES tb_encounters (id, dataset_origin) 
   );
