@@ -25,21 +25,6 @@ conn = create_connection_memory()
 cur = conn.cursor()
 print("Successfully Connected to SQLite")
 
-# SQLite connection
-def create_connection_memory():
-  conn = None;
-  try:
-    #Establishing the connection
-    conn = sq.connect(':memory')
-    return conn
-    print(sqlite3.version)
-  except Error as e:
-    print("Error while connecting to sqlite", e)
-conn = create_connection_memory()
-# Creating a cursor object using the cursor() method
-cur = conn.cursor()
-print("Successfully Connected to SQLite")
-
 # Create all tables
 sql_create_source_data = requests.get('https://raw.githubusercontent.com/Fuenfgeld/ATeamDatenmanagementUndArchivierung/main/create_statements_source_db.sql').text
 cur.executescript(sql_create_source_data)
@@ -81,3 +66,9 @@ for actual_disease in disease:
     actual_insert_df.to_sql('tb_'+actual_dataset_file, conn, if_exists='append', index=False)
 conn.commit()
 print("Successfully inserted source data")
+print("""Source database ready for work
+  
+      conn    -    is the name of the connection object
+      cur     -    is the name of the cursor
+      
+      """)
