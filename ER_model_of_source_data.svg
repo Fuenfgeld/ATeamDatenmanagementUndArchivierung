@@ -386,11 +386,11 @@
 		</g>
 		<rect x="908" y="701.31" width="250" height="16" fill="none" stroke="none" pointer-events="all"/>
 		<g fill="#000000" font-family="Helvetica" font-size="12px">
-			<text x="914.5" y="713.81">BASE_ENCOUNTER : numeric(10,2)</text>
+			<text x="914.5" y="713.81">BASE_ENCOUNTER_COST : numeric(10,2)</text>
 		</g>
 		<rect x="908" y="717.31" width="250" height="16" fill="none" stroke="none" pointer-events="all"/>
 		<g fill="#000000" font-family="Helvetica" font-size="12px">
-			<text x="914.5" y="729.81">TOTAL_CLAIM : numeric(10,2)</text>
+			<text x="914.5" y="729.81">TOTAL_CLAIM_COST : numeric(10,2)</text>
 		</g>
 		<rect x="908" y="733.31" width="250" height="16" fill="none" stroke="none" pointer-events="all"/>
 		<g fill="#000000" font-family="Helvetica" font-size="12px">
