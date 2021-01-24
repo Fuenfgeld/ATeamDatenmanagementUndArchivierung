@@ -389,11 +389,11 @@
       </g>
       <rect x="908" y="717.31" width="250" height="16" fill="none" stroke="none" pointer-events="all"/>
       <g fill="#000000" font-family="Helvetica" font-size="12px">
-         <text x="914.5" y="729.81">TOTAL_CLAIM : numeric(10,2)</text>
+         <text x="914.5" y="729.81">TOTAL_CLAIM_COST : numeric(10,2)</text>
       </g>
       <rect x="908" y="733.31" width="250" height="16" fill="none" stroke="none" pointer-events="all"/>
       <g fill="#000000" font-family="Helvetica" font-size="12px">
-         <text x="914.5" y="745.81">PAYER_COVERAGE : numeric(10,2)</text>
+         <text x="914.5" y="745.81">PAYER_COVERAGE_COST : numeric(10,2)</text>
       </g>
       <rect x="908" y="749.31" width="250" height="16" fill="none" stroke="none" pointer-events="all"/>
       <g fill="#000000" font-family="Helvetica" font-size="12px">
