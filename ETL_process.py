@@ -15,6 +15,7 @@ payers_columns = ('Id', 'NAME')
 payers = pd.DataFrame(cur.fetchall(), columns=payers_columns)
 insert_tables.append(payers)
 insert_table_names.append('payers')
+del(payers)
 # patients table
 cur.execute(
 """
@@ -91,6 +92,7 @@ code_master_columns = ('CODE', 'DESCRIPTION')
 code_master = pd.DataFrame(cur.fetchall(), columns=code_master_columns)
 insert_tables.append(code_master)
 insert_table_names.append('code_master')
+del(code_master)
 # encounters table
 cur.execute(
 """
@@ -148,6 +150,7 @@ for date_column in encounters_date_columns:
     row_counter +=1
 insert_tables.append(encounters)
 insert_table_names.append('encounters')
+del(encounters)
 # patients table
 # Calculate Ratio
 patients['COV_EXP_RATIO'] = patients['HEALTHCARE_COVERAGE']/patients['HEALTHCARE_EXPENSES']
@@ -155,6 +158,7 @@ patients['COV_EXP_RATIO'] = patients['HEALTHCARE_COVERAGE']/patients['HEALTHCARE
 patients = patients.drop(['HEALTHCARE_COVERAGE', 'HEALTHCARE_EXPENSES'], axis=1)
 insert_tables.append(patients)
 insert_table_names.append('patients')
+del(patients)
 print("Successfully Transformed Data")
 # LOADING
 # create new database in memory
@@ -168,6 +172,7 @@ for (actual_table, actual_name) in zip(insert_tables, insert_table_names):
   actual_table.to_sql(actual_name, conn_new, if_exists='replace', index=False)
 conn_new.commit()
 print("Loaded research data")
+del(insert_tables)
 cur_new.execute("SELECT name FROM sqlite_master WHERE type='table'")
 for row in cur_new.fetchall():
   print(row)
