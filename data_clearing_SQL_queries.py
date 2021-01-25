@@ -2,7 +2,7 @@ print("Documentation of SQL-Queries for Data Clearing Issues")
 print("""Type
 > data_clearing_queries()
 with the desired Issue# as argument to see the SQL-Script and query result.""")
-print("Possible issue#s: 12, 13, 15, 30")
+print("Possible issue#s: 12, 13, 14, 15, 30")
 
 def data_clearing_queries(issue_number):
   # fill list with empty values
@@ -43,6 +43,14 @@ FROM
     WHERE tb_patients.Id = encounters_total_cost_sum.patient_id
           AND tb_patients.dataset_origin = encounters_total_cost_sum.patient_dso
 ) calc
+  """
+  ##14
+  sql[14] = """
+SELECT Id,
+       HEALTHCARE_EXPENSES,
+       HEALTHCARE_COVERAGE,
+       HEALTHCARE_COVERAGE * 100 / HEALTHCARE_EXPENSES AS Deckung
+FROM tb_patients
   """
   ##15
   sql[15] = """
