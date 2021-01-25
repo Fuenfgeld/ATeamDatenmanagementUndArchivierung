@@ -15,7 +15,7 @@ def create_connection_memory():
   conn = None;
   try:
     #Establishing the connection
-    conn = sq.connect(':memory')
+    conn = sq.connect(':memory:')
     return conn
     print(sqlite3.version)
   except Error as e:
