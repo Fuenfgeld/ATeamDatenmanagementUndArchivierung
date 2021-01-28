@@ -6,4 +6,4 @@ Go to our [wiki](https://github.com/Fuenfgeld/ATeamDatenmanagementUndArchivierun
 
 ## Current highlights
 ### Graphical model of the project source data
-![](https://github.com/Fuenfgeld/ATeamDatenmanagementUndArchivierung/blob/main/ER_model_of_source_data.svg)
+![](https://github.com/Fuenfgeld/ATeamDatenmanagementUndArchivierung/blob/main/docs/ER_model_of_source_data.svg)
