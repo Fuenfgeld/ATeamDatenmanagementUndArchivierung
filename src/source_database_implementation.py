@@ -26,7 +26,7 @@ cur = conn.cursor()
 print("Successfully Connected to SQLite")
 
 # Create all tables
-sql_create_source_data = requests.get('https://raw.githubusercontent.com/Fuenfgeld/ATeamDatenmanagementUndArchivierung/main/create_statements_source_db.sql').text
+sql_create_source_data = requests.get('https://raw.githubusercontent.com/Fuenfgeld/ATeamDatenmanagementUndArchivierung/main/tools/create_statements_source_db.sql').text
 cur.executescript(sql_create_source_data)
 conn.commit()
 print("Successfully created tables in the database")
