@@ -15,7 +15,7 @@ def create_connection_memory():
   conn = None;
   try:
     #Establishing the connection
-    conn = sq.connect(':memory')
+    conn = sq.connect(':memory:')
     return conn
     print(sqlite3.version)
   except Error as e:
@@ -26,7 +26,7 @@ cur = conn.cursor()
 print("Successfully Connected to SQLite")
 
 # Create all tables
-sql_create_source_data = requests.get('https://raw.githubusercontent.com/Fuenfgeld/ATeamDatenmanagementUndArchivierung/main/create_statements_source_db.sql').text
+sql_create_source_data = requests.get('https://raw.githubusercontent.com/Fuenfgeld/ATeamDatenmanagementUndArchivierung/main/tools/create_statements_source_db.sql').text
 cur.executescript(sql_create_source_data)
 conn.commit()
 print("Successfully created tables in the database")
