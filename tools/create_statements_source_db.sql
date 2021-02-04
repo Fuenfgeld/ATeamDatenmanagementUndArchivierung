@@ -94,7 +94,8 @@ CREATE TABLE tb_providers
      lon               NUMERIC(8, 6) DEFAULT NULL, 
      utilization       INT DEFAULT NULL, 
      dataset_origin NVARCHAR(256), 
-     PRIMARY KEY (id, dataset_origin) 
+     PRIMARY KEY (id, dataset_origin),
+     FOREIGN KEY (organization_id, organization_dso) REFERENCES tb_organizations(id, dataset_origin)
   ); 
   
 CREATE TABLE tb_payers 
