@@ -167,10 +167,11 @@ insert_table_names.append('patients')
 del(patients)
 print("Successfully Transformed Data")
 # LOADING
-# create new database in memory
-conn_new = create_connection_memory()
+# create new database locally in public location
+public_path = '/content/gdrive/Shareddrives/IMECOS_public'
+conn_new = create_connection_local(public_path)
 cur_new = conn_new.cursor()
-print("Successfully Connected to SQLite")
+print("Successfully Connected to SQLite Public Data Warehouse")
 
 # load tables
 import itertools
