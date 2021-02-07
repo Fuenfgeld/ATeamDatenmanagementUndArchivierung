@@ -1,0 +1,237 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="732px" viewBox="-0.5 -0.5 732 792" style="max-width:100%;max-height:792px;">
+   <defs>
+      <style type="text/css">ul { margin-top: 0px; margin-bottom: 10px; }&#xa;ol { margin-top: 0px; margin-bottom: 10px; }&#xa;.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 { margin-bottom: .5rem; font-weight: 500; line-height: 1.2; }&#xa;h1, h2, h3, h4, h5, h6 { margin-top: 0; margin-bottom: .5rem; }&#xa;.h1, h1 { font-size: 2.5rem; }&#xa;h2 { font-size: 1.5em; font-weight: bold; }&#xa;h3 { font-size: 1.17em; font-weight: bold; }&#xa;.h4, h4 { font-size: 1.5rem; }&#xa;.h5, h5 { font-size: 1.25rem; }&#xa;.h6, h6 { font-size: 1rem; }&#xa;p { margin-top: 0; margin-bottom: 1rem; }&#xa;ul { margin-top: 0px; margin-bottom: 10px; }&#xa;ol { margin-top: 0px; margin-bottom: 10px; }&#xa;.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 { margin-bottom: .5rem; font-weight: 500; line-height: 1.2; }&#xa;h1, h2, h3, h4, h5, h6 { margin-top: 0; margin-bottom: .5rem; }&#xa;.h1, h1 { font-size: 2.5rem; }&#xa;h2 { font-size: 1.5em; font-weight: bold; }&#xa;h3 { font-size: 1.17em; font-weight: bold; }&#xa;.h4, h4 { font-size: 1.5rem; }&#xa;.h5, h5 { font-size: 1.25rem; }&#xa;.h6, h6 { font-size: 1rem; }&#xa;p { margin-top: 0; margin-bottom: 1rem; }&#xa;ul { margin-top: 0px; margin-bottom: 10px; }&#xa;ol { margin-top: 0px; margin-bottom: 10px; }&#xa;.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 { margin-bottom: .5rem; font-weight: 500; line-height: 1.2; }&#xa;h1, h2, h3, h4, h5, h6 { margin-top: 0; margin-bottom: .5rem; }&#xa;.h1, h1 { font-size: 2.5rem; }&#xa;h2 { font-size: 1.5em; font-weight: bold; }&#xa;h3 { font-size: 1.17em; font-weight: bold; }&#xa;.h4, h4 { font-size: 1.5rem; }&#xa;.h5, h5 { font-size: 1.25rem; }&#xa;.h6, h6 { font-size: 1rem; }&#xa;p { margin-top: 0; margin-bottom: 1rem; }&#xa;</style>
+   </defs>
+   <g>
+      <rect x="571" y="379" width="160" height="77" rx="10" ry="10" fill="#f5b67a" stroke="#000000" pointer-events="all"/>
+      <rect x="571" y="379" width="160" height="77" rx="10" ry="10" fill="none" stroke="#000000" pointer-events="all"/>
+      <path d="M 571 392.14 L 731 392.14" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+      <g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="12px">
+         <text x="650.5" y="389.5">payers</text>
+      </g>
+      <rect x="571" y="397.14" width="160" height="16" fill="none" stroke="none" pointer-events="all"/>
+      <g fill="#000000" font-family="Helvetica" font-size="12px">
+         <text x="577.5" y="409.64">Id : object</text>
+      </g>
+      <rect x="571" y="413.14" width="160" height="16" fill="none" stroke="none" pointer-events="all"/>
+      <g fill="#000000" font-family="Helvetica" font-size="12px">
+         <text x="577.5" y="425.64">NAME : object</text>
+      </g>
+      <path d="M 257 238 L 277 238 Q 287 238 287.14 228 L 289.86 36 Q 290 26 300 26 L 320 26" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="5" pointer-events="stroke"/>
+      <ellipse cx="276.5" cy="238" rx="5.5" ry="5.5" fill="#ffffff" stroke="#000000" pointer-events="all"/>
+      <path d="M 257 244.5 L 270 238 L 257 231.5" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+      <ellipse cx="300.5" cy="26" rx="5.5" ry="5.5" fill="#ffffff" stroke="#000000" pointer-events="all"/>
+      <path d="M 320 19.5 L 307 26 L 320 32.5" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+      <path d="M 257 254 L 277 254 Q 287 254 295.57 259.14 L 533.43 401.86 Q 542 407 552 407 L 572 407" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="5" pointer-events="stroke"/>
+      <ellipse cx="276.5" cy="254" rx="5.5" ry="5.5" fill="#ffffff" stroke="#000000" pointer-events="all"/>
+      <path d="M 257 260.5 L 270 254 L 257 247.5" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+      <ellipse cx="552.5" cy="407" rx="5.5" ry="5.5" fill="#ffffff" stroke="#000000" pointer-events="all"/>
+      <path d="M 572 400.5 L 559 407 L 572 413.5" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+      <path d="M 257 414.5 L 277 414.5 Q 287 414.5 289.75 424.11 L 378.25 733.39 Q 381 743 391 743 L 411 743" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="5" pointer-events="stroke"/>
+      <ellipse cx="276.5" cy="414.5" rx="5.5" ry="5.5" fill="#ffffff" stroke="#000000" pointer-events="all"/>
+      <path d="M 257 421 L 270 414.5 L 257 408" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+      <ellipse cx="391.5" cy="743" rx="5.5" ry="5.5" fill="#ffffff" stroke="#000000" pointer-events="all"/>
+      <path d="M 411 736.5 L 398 743 L 411 749.5" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+      <rect x="0" y="148" width="257" height="533" rx="10" ry="10" fill="#f5b67a" stroke="#000000" pointer-events="all"/>
+      <rect x="0" y="148" width="257" height="533" rx="10" ry="10" fill="none" stroke="#000000" pointer-events="all"/>
+      <path d="M 0 161.14 L 257 161.14" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+      <g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="12px">
+         <text x="128" y="158.5">encounters</text>
+      </g>
+      <rect x="0" y="166.14" width="257" height="16" fill="none" stroke="none" pointer-events="all"/>
+      <g fill="#000000" font-family="Helvetica" font-size="12px">
+         <text x="6.5" y="178.64">Id : object</text>
+      </g>
+      <rect x="0" y="182.14" width="257" height="16" fill="none" stroke="none" pointer-events="all"/>
+      <g fill="#000000" font-family="Helvetica" font-size="12px">
+         <text x="6.5" y="194.64">DATASET_ORIGIN : object</text>
+      </g>
+      <rect x="0" y="198.14" width="257" height="16" fill="none" stroke="none" pointer-events="all"/>
+      <g fill="#000000" font-family="Helvetica" font-size="12px">
+         <text x="6.5" y="210.64">encounter_START : object</text>
+      </g>
+      <rect x="0" y="214.14" width="257" height="16" fill="none" stroke="none" pointer-events="all"/>
+      <g fill="#000000" font-family="Helvetica" font-size="12px">
+         <text x="6.5" y="226.64">encounter_STOP : object</text>
+      </g>
+      <rect x="0" y="230.14" width="257" height="16" fill="none" stroke="none" pointer-events="all"/>
+      <g fill="#000000" font-family="Helvetica" font-style="italic" font-size="12px">
+         <text x="6.5" y="242.64">PATIENT_Id : object</text>
+      </g>
+      <rect x="0" y="246.14" width="257" height="16" fill="none" stroke="none" pointer-events="all"/>
+      <g fill="#000000" font-family="Helvetica" font-style="italic" font-size="12px">
+         <text x="6.5" y="258.64">PAYER_ID : object</text>
+      </g>
+      <rect x="0" y="262.14" width="257" height="16" fill="none" stroke="none" pointer-events="all"/>
+      <g fill="#000000" font-family="Helvetica" font-size="12px">
+         <text x="6.5" y="274.64">payer_START_YEAR : float64</text>
+      </g>
+      <rect x="0" y="278.14" width="257" height="16" fill="none" stroke="none" pointer-events="all"/>
+      <g fill="#000000" font-family="Helvetica" font-size="12px">
+         <text x="6.5" y="290.64">payer_END_YEAR : float64</text>
+      </g>
+      <rect x="0" y="294.14" width="257" height="16" fill="none" stroke="none" pointer-events="all"/>
+      <g fill="#000000" font-family="Helvetica" font-size="12px">
+         <text x="6.5" y="306.64">payer_OWNERSHIP : object</text>
+      </g>
+      <rect x="0" y="310.14" width="257" height="16" fill="none" stroke="none" pointer-events="all"/>
+      <g fill="#000000" font-family="Helvetica" font-size="12px">
+         <text x="6.5" y="322.64">ENCOUNTERCLASS : object</text>
+      </g>
+      <rect x="0" y="326.14" width="257" height="16" fill="none" stroke="none" pointer-events="all"/>
+      <g fill="#000000" font-family="Helvetica" font-style="italic" font-size="12px">
+         <text x="6.5" y="338.64">encounter_CODE : object</text>
+      </g>
+      <rect x="0" y="342.14" width="257" height="16" fill="none" stroke="none" pointer-events="all"/>
+      <g fill="#000000" font-family="Helvetica" font-style="italic" font-size="12px">
+         <text x="6.5" y="354.64">encounter_REASONCODE : object</text>
+      </g>
+      <rect x="0" y="358.14" width="257" height="16" fill="none" stroke="none" pointer-events="all"/>
+      <g fill="#000000" font-family="Helvetica" font-size="12px">
+         <text x="6.5" y="370.64">condition_START : object</text>
+      </g>
+      <rect x="0" y="374.14" width="257" height="16" fill="none" stroke="none" pointer-events="all"/>
+      <g fill="#000000" font-family="Helvetica" font-size="12px">
+         <text x="6.5" y="386.64">condition_STOP : object</text>
+      </g>
+      <rect x="0" y="390.14" width="257" height="16" fill="none" stroke="none" pointer-events="all"/>
+      <g fill="#000000" font-family="Helvetica" font-style="italic" font-size="12px">
+         <text x="6.5" y="402.64">condition_CODE : object</text>
+      </g>
+      <rect x="0" y="406.14" width="257" height="16" fill="none" stroke="none" pointer-events="all"/>
+      <g fill="#000000" font-family="Helvetica" font-size="12px">
+         <text x="6.5" y="418.64">immunization_DATE : object</text>
+      </g>
+      <rect x="0" y="422.14" width="257" height="16" fill="none" stroke="none" pointer-events="all"/>
+      <g fill="#000000" font-family="Helvetica" font-style="italic" font-size="12px">
+         <text x="6.5" y="434.64">immunization_CODE : object</text>
+      </g>
+      <rect x="0" y="438.14" width="257" height="16" fill="none" stroke="none" pointer-events="all"/>
+      <g fill="#000000" font-family="Helvetica" font-size="12px">
+         <text x="6.5" y="450.64">procedure_DATE : object</text>
+      </g>
+      <rect x="0" y="454.14" width="257" height="16" fill="none" stroke="none" pointer-events="all"/>
+      <g fill="#000000" font-family="Helvetica" font-size="12px">
+         <text x="6.5" y="466.64">procedure_CODE : object</text>
+      </g>
+      <rect x="0" y="470.14" width="257" height="16" fill="none" stroke="none" pointer-events="all"/>
+      <g fill="#000000" font-family="Helvetica" font-size="12px">
+         <text x="6.5" y="482.64">procedure_REASONCODE : object</text>
+      </g>
+      <rect x="0" y="486.14" width="257" height="16" fill="none" stroke="none" pointer-events="all"/>
+      <g fill="#000000" font-family="Helvetica" font-size="12px">
+         <text x="6.5" y="498.64">medication_START : object</text>
+      </g>
+      <rect x="0" y="502.14" width="257" height="16" fill="none" stroke="none" pointer-events="all"/>
+      <g fill="#000000" font-family="Helvetica" font-size="12px">
+         <text x="6.5" y="514.64">medication_STOP : object</text>
+      </g>
+      <rect x="0" y="518.14" width="257" height="16" fill="none" stroke="none" pointer-events="all"/>
+      <g fill="#000000" font-family="Helvetica" font-style="italic" font-size="12px">
+         <text x="6.5" y="530.64">medication_CODE : object</text>
+      </g>
+      <rect x="0" y="534.14" width="257" height="16" fill="none" stroke="none" pointer-events="all"/>
+      <g fill="#000000" font-family="Helvetica" font-style="italic" font-size="12px">
+         <text x="6.5" y="546.64">medication_REASONCODE : object</text>
+      </g>
+      <rect x="0" y="550.14" width="257" height="16" fill="none" stroke="none" pointer-events="all"/>
+      <g fill="#000000" font-family="Helvetica" font-size="12px">
+         <text x="6.5" y="562.64">BASE_ENCOUNTER_COST : float64</text>
+      </g>
+      <rect x="0" y="566.14" width="257" height="16" fill="none" stroke="none" pointer-events="all"/>
+      <g fill="#000000" font-family="Helvetica" font-size="12px">
+         <text x="6.5" y="578.64">BASE_IMMUNIZATION_COST : float64</text>
+      </g>
+      <rect x="0" y="582.14" width="257" height="16" fill="none" stroke="none" pointer-events="all"/>
+      <g fill="#000000" font-family="Helvetica" font-size="12px">
+         <text x="6.5" y="594.64">BASE_PROCEDURE_COST : float64</text>
+      </g>
+      <rect x="0" y="598.14" width="257" height="16" fill="none" stroke="none" pointer-events="all"/>
+      <g fill="#000000" font-family="Helvetica" font-size="12px">
+         <text x="6.5" y="610.64">BASE_MEDICATION_COST : float64</text>
+      </g>
+      <rect x="0" y="614.14" width="257" height="16" fill="none" stroke="none" pointer-events="all"/>
+      <g fill="#000000" font-family="Helvetica" font-size="12px">
+         <text x="6.5" y="626.64">medication_PAYER_COVERAGE : float64</text>
+      </g>
+      <rect x="0" y="630.14" width="257" height="16" fill="none" stroke="none" pointer-events="all"/>
+      <g fill="#000000" font-family="Helvetica" font-size="12px">
+         <text x="6.5" y="642.64">medication_DISPENSES : float64</text>
+      </g>
+      <rect x="0" y="646.14" width="257" height="16" fill="none" stroke="none" pointer-events="all"/>
+      <g fill="#000000" font-family="Helvetica" font-size="12px">
+         <text x="6.5" y="658.64">medication_TOTALCOST : float64</text>
+      </g>
+      <rect x="320" y="-0.14" width="251" height="165.14" rx="10" ry="10" fill="#f5b67a" stroke="#000000" pointer-events="all"/>
+      <rect x="320" y="-0.14" width="251" height="165.14" rx="10" ry="10" fill="none" stroke="#000000" pointer-events="all"/>
+      <path d="M 320 13 L 571 13" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+      <g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="12px">
+         <text x="445" y="10.36">patients</text>
+      </g>
+      <rect x="320" y="18" width="251" height="16" fill="none" stroke="none" pointer-events="all"/>
+      <g fill="#000000" font-family="Helvetica" font-size="12px">
+         <text x="326.5" y="30.5">Id : object</text>
+      </g>
+      <rect x="320" y="34" width="251" height="16" fill="none" stroke="none" pointer-events="all"/>
+      <g fill="#000000" font-family="Helvetica" font-size="12px">
+         <text x="326.5" y="46.5">BIRTHDATE : object</text>
+      </g>
+      <rect x="320" y="50" width="251" height="16" fill="none" stroke="none" pointer-events="all"/>
+      <g fill="#000000" font-family="Helvetica" font-size="12px">
+         <text x="326.5" y="62.5">DEATHDATE : object</text>
+      </g>
+      <rect x="320" y="66" width="251" height="16" fill="none" stroke="none" pointer-events="all"/>
+      <g fill="#000000" font-family="Helvetica" font-size="12px">
+         <text x="326.5" y="78.5">MARITAL : object</text>
+      </g>
+      <rect x="320" y="82" width="251" height="16" fill="none" stroke="none" pointer-events="all"/>
+      <g fill="#000000" font-family="Helvetica" font-size="12px">
+         <text x="326.5" y="94.5">RACE : object</text>
+      </g>
+      <rect x="320" y="98" width="251" height="16" fill="none" stroke="none" pointer-events="all"/>
+      <g fill="#000000" font-family="Helvetica" font-size="12px">
+         <text x="326.5" y="110.5">ETHNICITY : object</text>
+      </g>
+      <rect x="320" y="114" width="251" height="16" fill="none" stroke="none" pointer-events="all"/>
+      <g fill="#000000" font-family="Helvetica" font-size="12px">
+         <text x="326.5" y="126.5">GENDER : object</text>
+      </g>
+      <rect x="320" y="130" width="251" height="16" fill="none" stroke="none" pointer-events="all"/>
+      <g fill="#000000" font-family="Helvetica" font-size="12px">
+         <text x="326.5" y="142.5">BIRTHPLACE : object</text>
+      </g>
+      <rect x="320" y="146" width="251" height="16" fill="none" stroke="none" pointer-events="all"/>
+      <g fill="#000000" font-family="Helvetica" font-size="12px">
+         <text x="326.5" y="158.5">COV_EXP_RATIO : float64</text>
+      </g>
+      <rect x="411" y="713" width="160" height="77" rx="10" ry="10" fill="#f5b67a" stroke="#000000" pointer-events="all"/>
+      <rect x="411" y="713" width="160" height="77" rx="10" ry="10" fill="none" stroke="#000000" pointer-events="all"/>
+      <path d="M 411 726.14 L 571 726.14" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+      <g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="12px">
+         <text x="490.5" y="723.5">code_master</text>
+      </g>
+      <rect x="411" y="731.14" width="160" height="16" fill="none" stroke="none" pointer-events="all"/>
+      <g fill="#000000" font-family="Helvetica" font-size="12px">
+         <text x="417.5" y="743.64">CODE : object</text>
+      </g>
+      <rect x="411" y="747.14" width="160" height="16" fill="none" stroke="none" pointer-events="all"/>
+      <g fill="#000000" font-family="Helvetica" font-size="12px">
+         <text x="417.5" y="759.64">DESCRIPTION : object</text>
+      </g>
+      <path d="M 257 238 L 277 238 Q 287 238 287.14 228 L 289.86 36 Q 290 26 300 26 L 320 26" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="5" pointer-events="stroke"/>
+      <ellipse cx="276.5" cy="238" rx="5.5" ry="5.5" fill="#ffffff" stroke="#000000" pointer-events="all"/>
+      <path d="M 257 244.5 L 270 238 L 257 231.5" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+      <ellipse cx="300.5" cy="26" rx="5.5" ry="5.5" fill="#ffffff" stroke="#000000" pointer-events="all"/>
+      <path d="M 320 19.5 L 307 26 L 320 32.5" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+      <path d="M 257 254 L 277 254 Q 287 254 295.57 259.14 L 533.43 401.86 Q 542 407 552 407 L 572 407" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="5" pointer-events="stroke"/>
+      <ellipse cx="276.5" cy="254" rx="5.5" ry="5.5" fill="#ffffff" stroke="#000000" pointer-events="all"/>
+      <path d="M 257 260.5 L 270 254 L 257 247.5" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+      <ellipse cx="552.5" cy="407" rx="5.5" ry="5.5" fill="#ffffff" stroke="#000000" pointer-events="all"/>
+      <path d="M 572 400.5 L 559 407 L 572 413.5" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+      <path d="M 257 414.5 L 277 414.5 Q 287 414.5 289.75 424.11 L 378.25 733.39 Q 381 743 391 743 L 411 743" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="5" pointer-events="stroke"/>
+      <ellipse cx="276.5" cy="414.5" rx="5.5" ry="5.5" fill="#ffffff" stroke="#000000" pointer-events="all"/>
+      <path d="M 257 421 L 270 414.5 L 257 408" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+      <ellipse cx="391.5" cy="743" rx="5.5" ry="5.5" fill="#ffffff" stroke="#000000" pointer-events="all"/>
+      <path d="M 411 736.5 L 398 743 L 411 749.5" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+   </g>
+</svg>
