@@ -181,9 +181,29 @@ conn_new.commit()
 print("Loaded research data")
 del(insert_tables)
 del(insert_table_names)
-cur_new.execute("SELECT name FROM sqlite_master WHERE type='table'")
-for row in cur_new.fetchall():
-  print(row)
+
+# calculate and display hash sum for each table
+from pandas.util import hash_pandas_object
+df_encounters = pd.read_sql_query("SELECT * FROM encounters", conn_new)
+encounterDFhashes = hash_pandas_object(df_encounters)
+del(df_encounters)
+print('encounters : ', encounterDFhashes.sum())
+del(encounterDFhashes)
+df_patients = pd.read_sql_query("SELECT * FROM patients", conn_new)
+patientsDFhashes = hash_pandas_object(df_patients)
+del(df_patients)
+print('patients : ', patientsDFhashes.sum())
+del(patientsDFhashes)
+df_payers = pd.read_sql_query("SELECT * FROM payers", conn_new)
+payersDFhashes = hash_pandas_object(df_payers)
+del(df_payers)
+print('payers : ', payersDFhashes.sum())
+del(payersDFhashes)
+df_code_master = pd.read_sql_query("SELECT * FROM code_master", conn_new)
+code_masterDFhashes = hash_pandas_object(df_code_master)
+del(df_code_master)
+print('code_master : ', code_masterDFhashes.sum())
+del(code_masterDFhashes)
 print("Successfully finished ETL process")
 print("""Research database ready for work
   
