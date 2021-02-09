@@ -39,7 +39,7 @@ SELECT
    tb_medications.BASE_COST AS BASE_MEDICATION_COST,
    tb_medications.PAYER_COVERAGE AS medication_PAYER_COVERAGE,
    tb_medications.DISPENSES AS medication_DISPENSES,
-   tb_medications.TOTALCOST AS medications_TOTALCOST 
+   tb_medications.TOTALCOST AS medication_TOTALCOST 
 FROM
    (
       SELECT
