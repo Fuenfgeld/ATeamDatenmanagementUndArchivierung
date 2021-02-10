@@ -130,7 +130,7 @@ SELECT
    BASE_MEDICATION_COST,
    medication_PAYER_COVERAGE,
    medication_DISPENSES,
-   medications_TOTALCOST 
+   medication_TOTALCOST 
 FROM
    v_encounters_plus
 """
