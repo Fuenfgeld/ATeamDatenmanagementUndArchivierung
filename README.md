@@ -5,5 +5,5 @@ Link zur [Projektseite](https://github.com/Fuenfgeld/ATeamDatenmanagementUndArch
 Link zum [Projektwiki](https://github.com/Fuenfgeld/ATeamDatenmanagementUndArchivierung/wiki) für technische Details und dem <b>Datenmanagementplan</b> des  Projektes.
 
 
-### Grafisches Quelldatenmodell
-![](https://github.com/Fuenfgeld/ATeamDatenmanagementUndArchivierung/blob/main/docs/ER_model_of_source_data.svg)
+### Visuelle Zusammenfassung des Projektes
+![](https://raw.githubusercontent.com/Fuenfgeld/ATeamDatenmanagementUndArchivierung/main/img/visual_project_abstract.svg)
