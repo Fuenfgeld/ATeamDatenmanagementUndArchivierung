@@ -95,7 +95,7 @@
             <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
                <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 121px; margin-left: 372px;">
                   <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
-                     <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; white-space: nowrap; "><a href="https://github.com/Fuenfgeld/ATeamDatenmanagementUndArchivierung/blob/main/tools/data_clearing_SQL_queries.py">data_clearing_</a><br /><a href="https://github.com/Fuenfgeld/ATeamDatenmanagementUndArchivierung/blob/main/tools/data_clearing_SQL_queries.py">SQL_queries.py</a></div>
+                     <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; white-space: nowrap; "><a href="https://github.com/Fuenfgeld/ATeamDatenmanagementUndArchivierung/blob/main/tools/data_clearing_SQL_queries.py">data_clearing_</a><br/><a href="https://github.com/Fuenfgeld/ATeamDatenmanagementUndArchivierung/blob/main/tools/data_clearing_SQL_queries.py">SQL_queries.py</a></div>
                   </div>
                </div>
             </foreignObject>
@@ -228,10 +228,10 @@
                   <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
                      <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; white-space: nowrap; ">
                         <blockquote style="margin: 0 0 0 40px ; border: none ; padding: 0px"></blockquote>
-                        <span>Datenqualität I</span><br />
+                        <span>Datenqualität I</span><br/>
                         <blockquote style="margin: 0 0 0 40px ; border: none ; padding: 0px"></blockquote>
                         <blockquote style="margin: 0 0 0 40px ; border: none ; padding: 0px"></blockquote>
-                        <span>Identifikation von Redundanzen</span><br /> und Unstimmigkeiten<span> </span>
+                        <span>Identifikation von Redundanzen</span><br/> und Unstimmigkeiten<span> </span>
                      </div>
                   </div>
                </div>
@@ -288,9 +288,9 @@
                   <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
                      <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; white-space: nowrap; ">
                         <blockquote style="margin: 0 0 0 40px ; border: none ; padding: 0px"></blockquote>
-                        ETL Prozess<br />
+                        ETL Prozess<br/>
                         <blockquote style="margin: 0 0 0 40px ; border: none ; padding: 0px"></blockquote>
-                        Identifikation der Datenbasis zur<br />Beantwortung der Forschungsfragen<br />Erkennen von Abhängigkeiten
+                        Identifikation der Datenbasis zur<br/>Beantwortung der Forschungsfragen<br/>Erkennen von Abhängigkeiten
                      </div>
                   </div>
                </div>
@@ -365,9 +365,9 @@
                   <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
                      <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; white-space: nowrap; ">
                         <blockquote style="margin: 0 0 0 40px ; border: none ; padding: 0px"></blockquote>
-                        ETL Prozess<br />
+                        ETL Prozess<br/>
                         <blockquote style="margin: 0 0 0 40px ; border: none ; padding: 0px"></blockquote>
-                        Design des <br />Date Warehouse
+                        Design des <br/>Date Warehouse
                      </div>
                   </div>
                </div>
@@ -422,7 +422,7 @@
                   <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
                      <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; white-space: nowrap; ">
                         <blockquote style="margin: 0 0 0 40px ; border: none ; padding: 0px"></blockquote>
-                        Data Accessability Struktur<br />System-Umgebung, Schnittstellen
+                        Data Accessability Struktur<br/>System-Umgebung, Schnittstellen
                         <hr id="null" />
                         Datenschutzfolgeabschätzung
                      </div>
@@ -475,7 +475,7 @@
                <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 419px; margin-left: 714px;">
                   <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
                      <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; white-space: nowrap; ">
-                        Design von<br />Datenabfragen
+                        Design von<br/>Datenabfragen
                         <blockquote style="margin: 0 0 0 40px ; border: none ; padding: 0px"></blockquote>
                      </div>
                   </div>
@@ -762,7 +762,7 @@
             <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
                <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 31px; height: 1px; padding-top: 658px; margin-left: 585px;">
                   <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
-                     <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: none; word-break: break-word; white-space: normal; word-wrap: normal; "><font style="font-size: 6px"><b>insert<br /> queue</b></font></div>
+                     <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: none; word-break: break-word; white-space: normal; word-wrap: normal; "><font style="font-size: 6px"><b>insert<br/> queue</b></font></div>
                   </div>
                </div>
             </foreignObject>
@@ -1242,7 +1242,7 @@
             <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
                <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 411px; height: 1px; padding-top: 31px; margin-left: 319px;">
                   <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
-                     <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: none; word-break: break-word; white-space: normal; word-wrap: normal; "><a href="https://github.com/Fuenfgeld/ATeamDatenmanagementUndArchivierung/wiki/Datenmanagementplan#33-datendokumentation-und-metadaten-erstellen">Datenmanagementplan<br /> Sektion 3.3</a></div>
+                     <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: none; word-break: break-word; white-space: normal; word-wrap: normal; "><a href="https://github.com/Fuenfgeld/ATeamDatenmanagementUndArchivierung/wiki/Datenmanagementplan#33-datendokumentation-und-metadaten-erstellen">Datenmanagementplan<br/> Sektion 3.3</a></div>
                   </div>
                </div>
             </foreignObject>
@@ -1308,7 +1308,7 @@
             <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
                <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 224px; height: 1px; padding-top: 77px; margin-left: 414px;">
                   <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
-                     <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: none; word-break: break-word; white-space: normal; word-wrap: normal; "><a href="https://github.com/Fuenfgeld/ATeamDatenmanagementUndArchivierung/wiki/Datenmanagementplan#32-datenspeicherung-und-datenzugriff">Datenmanagementplan <br />Sektion 3.2</a></div>
+                     <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: none; word-break: break-word; white-space: normal; word-wrap: normal; "><a href="https://github.com/Fuenfgeld/ATeamDatenmanagementUndArchivierung/wiki/Datenmanagementplan#32-datenspeicherung-und-datenzugriff">Datenmanagementplan <br/>Sektion 3.2</a></div>
                   </div>
                </div>
             </foreignObject>
@@ -1493,7 +1493,7 @@
             <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
                <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 134px; height: 1px; padding-top: 54px; margin-left: 737px;">
                   <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
-                     <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: none; word-break: break-word; white-space: normal; word-wrap: normal; "><a href="https://github.com/Fuenfgeld/ATeamDatenmanagementUndArchivierung/wiki/Datenmanagementplan#34-data-sharing">Datenmanagementplan<br />Sektion 3.4</a></div>
+                     <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: none; word-break: break-word; white-space: normal; word-wrap: normal; "><a href="https://github.com/Fuenfgeld/ATeamDatenmanagementUndArchivierung/wiki/Datenmanagementplan#34-data-sharing">Datenmanagementplan<br/>Sektion 3.4</a></div>
                   </div>
                </div>
             </foreignObject>
@@ -1640,10 +1640,4 @@
          <text text-anchor="middle" font-size="10px" x="50%" y="100%"></text>
       </a>
    </switch>
-   <g fill="#787878" font-family="Arial,Helvetica" font-size="12px">
-      <text pointer-events="none" x="6" y="15">Visual Paradigm Online Free Edition</text>
-   </g>
-   <g fill="#787878" font-family="Arial,Helvetica" text-anchor="end" font-size="12px">
-      <text pointer-events="none" x="1109" y="783">Visual Paradigm Online Free Edition</text>
-   </g>
 </svg>
