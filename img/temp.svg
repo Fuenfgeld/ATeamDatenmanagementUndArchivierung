@@ -1640,10 +1640,4 @@
          <text text-anchor="middle" font-size="10px" x="50%" y="100%"></text>
       </a>
    </switch>
-   <g fill="#787878" font-family="Arial,Helvetica" font-size="12px">
-      <text pointer-events="none" x="6" y="15">Visual Paradigm Online Free Edition</text>
-   </g>
-   <g fill="#787878" font-family="Arial,Helvetica" text-anchor="end" font-size="12px">
-      <text pointer-events="none" x="1110" y="784">Visual Paradigm Online Free Edition</text>
-   </g>
 </svg>
