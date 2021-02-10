@@ -762,7 +762,7 @@
             <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
                <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 31px; height: 1px; padding-top: 658px; margin-left: 585px;">
                   <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
-                     <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: none; word-break: break-word; white-space: normal; word-wrap: normal; "><font style="font-size: 6px"><b>insert<br/> queue</b></font></div>
+                     <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; word-break: break-word; white-space: normal; word-wrap: normal; "><font style="font-size: 6px"><b>insert<br/> queue</b></font></div>
                   </div>
                </div>
             </foreignObject>
@@ -793,7 +793,7 @@
             <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
                <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 38px; height: 1px; padding-top: 621px; margin-left: 561px;">
                   <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
-                     <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: none; word-break: break-word; white-space: normal; word-wrap: normal; ">E</div>
+                     <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; word-break: break-word; white-space: normal; word-wrap: normal; ">E</div>
                   </div>
                </div>
             </foreignObject>
@@ -814,7 +814,7 @@
             <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
                <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 37px; height: 1px; padding-top: 665px; margin-left: 562px;">
                   <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
-                     <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: none; word-break: break-word; white-space: normal; word-wrap: normal; ">T</div>
+                     <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; word-break: break-word; white-space: normal; word-wrap: normal; ">T</div>
                   </div>
                </div>
             </foreignObject>
@@ -859,7 +859,7 @@
             <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
                <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 64px; height: 1px; padding-top: 741px; margin-left: 23px;">
                   <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
-                     <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: none; word-break: break-word; white-space: normal; word-wrap: normal; ">Google Drive</div>
+                     <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; word-break: break-word; white-space: normal; word-wrap: normal; ">Google Drive</div>
                   </div>
                </div>
             </foreignObject>
@@ -882,7 +882,7 @@
             <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
                <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 667px; margin-left: 637px;">
                   <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
-                     <div style="display: inline-block; font-size: 8px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: none; background-color: #ffffff; white-space: nowrap; "><font style="font-size: 12px">L</font></div>
+                     <div style="display: inline-block; font-size: 8px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; background-color: #ffffff; white-space: nowrap; "><font style="font-size: 12px">L</font></div>
                   </div>
                </div>
             </foreignObject>
@@ -915,7 +915,7 @@
             <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
                <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 741px; margin-left: 30px;">
                   <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
-                     <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: none; font-weight: bold; white-space: nowrap; "><font style="font-size: 11px">.csv</font></div>
+                     <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; font-weight: bold; white-space: nowrap; "><font style="font-size: 11px">.csv</font></div>
                   </div>
                </div>
             </foreignObject>
@@ -937,7 +937,7 @@
             <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
                <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 45px; height: 1px; padding-top: 705px; margin-left: 90px;">
                   <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
-                     <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: none; word-break: break-word; white-space: normal; word-wrap: normal; "><font style="font-size: 10px"><a href="https://drive.google.com/drive/folders/18ORGCmcBb2KDfpRzGVuBupcFR3Sm6LWw">csv_data</a></font></div>
+                     <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; word-break: break-word; white-space: normal; word-wrap: normal; "><font style="font-size: 10px"><a href="https://drive.google.com/drive/folders/18ORGCmcBb2KDfpRzGVuBupcFR3Sm6LWw">csv_data</a></font></div>
                   </div>
                </div>
             </foreignObject>
@@ -959,7 +959,7 @@
             <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
                <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 49px; height: 1px; padding-top: 761px; margin-left: 122px;">
                   <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
-                     <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: none; word-break: break-word; white-space: normal; word-wrap: normal; "><font style="font-size: 8px">-     careplans</font></div>
+                     <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; word-break: break-word; white-space: normal; word-wrap: normal; "><font style="font-size: 8px">-     careplans</font></div>
                   </div>
                </div>
             </foreignObject>
@@ -981,7 +981,7 @@
             <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
                <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 52px; height: 1px; padding-top: 772px; margin-left: 121px;">
                   <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
-                     <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: none; word-break: break-word; white-space: normal; word-wrap: normal; "><font style="font-size: 8px">-     conditions</font></div>
+                     <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; word-break: break-word; white-space: normal; word-wrap: normal; "><font style="font-size: 8px">-     conditions</font></div>
                   </div>
                </div>
             </foreignObject>
@@ -1003,7 +1003,7 @@
             <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
                <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 46px; height: 1px; padding-top: 718px; margin-left: 105px;">
                   <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
-                     <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: none; word-break: break-word; white-space: normal; word-wrap: normal; "><font style="font-size: 8px">-     allergy</font></div>
+                     <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; word-break: break-word; white-space: normal; word-wrap: normal; "><font style="font-size: 8px">-     allergy</font></div>
                   </div>
                </div>
             </foreignObject>
@@ -1025,7 +1025,7 @@
             <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
                <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 52px; height: 1px; padding-top: 740px; margin-left: 120px;">
                   <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
-                     <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: none; word-break: break-word; white-space: normal; word-wrap: normal; "><font style="font-size: 8px">-     conditions</font></div>
+                     <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; word-break: break-word; white-space: normal; word-wrap: normal; "><font style="font-size: 8px">-     conditions</font></div>
                   </div>
                </div>
             </foreignObject>
@@ -1047,7 +1047,7 @@
             <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
                <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 49px; height: 1px; padding-top: 729px; margin-left: 121px;">
                   <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
-                     <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: none; word-break: break-word; white-space: normal; word-wrap: normal; "><font style="font-size: 8px">-     careplans</font></div>
+                     <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; word-break: break-word; white-space: normal; word-wrap: normal; "><font style="font-size: 8px">-     careplans</font></div>
                   </div>
                </div>
             </foreignObject>
@@ -1069,7 +1069,7 @@
             <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
                <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 46px; height: 1px; padding-top: 751px; margin-left: 107px;">
                   <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
-                     <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: none; word-break: break-word; white-space: normal; word-wrap: normal; "><font style="font-size: 8px">-     asthma</font></div>
+                     <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; word-break: break-word; white-space: normal; word-wrap: normal; "><font style="font-size: 8px">-     asthma</font></div>
                   </div>
                </div>
             </foreignObject>
@@ -1093,7 +1093,7 @@
             <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
                <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 587px; margin-left: 112px;">
                   <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
-                     <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: none; font-weight: bold; white-space: nowrap; "><font style="font-size: 11px">SQLite3</font></div>
+                     <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; font-weight: bold; white-space: nowrap; "><font style="font-size: 11px">SQLite3</font></div>
                   </div>
                </div>
             </foreignObject>
@@ -1119,7 +1119,7 @@
             <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
                <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 664px; margin-left: 187px;">
                   <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
-                     <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: none; font-weight: bold; white-space: nowrap; "><font style="font-size: 11px">Pandas Df</font></div>
+                     <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; font-weight: bold; white-space: nowrap; "><font style="font-size: 11px">Pandas Df</font></div>
                   </div>
                </div>
             </foreignObject>
@@ -1142,7 +1142,7 @@
             <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
                <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 138px; height: 1px; padding-top: 187px; margin-left: 30px;">
                   <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
-                     <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: none; word-break: break-word; white-space: normal; word-wrap: normal; ">
+                     <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; word-break: break-word; white-space: normal; word-wrap: normal; ">
                         <font style="font-size: 11px"><a href="https://github.com/Fuenfgeld/ATeamDatenmanagementUndArchivierung/wiki/Quelldatenmodell#architektur-der-synthea-csv-files">Wiki / Quelldatenmodell</a></font>
                         <hr id="null" />
                         <font style="font-size: 11px"><a href="https://github.com/Fuenfgeld/ATeamDatenmanagementUndArchivierung/wiki/Quelldatenmodell#architektur-der-synthea-csv-files">Architektur der 'Synthea' *.csv files</a></font>
@@ -1174,7 +1174,7 @@
             <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
                <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 1px; height: 1px; padding-top: 520px; margin-left: 57px;">
                   <div style="box-sizing: border-box; font-size: 0; text-align: left; ">
-                     <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: none; white-space: nowrap; "><a href="https://github.com/Fuenfgeld/ATeamDatenmanagementUndArchivierung/blob/main/tools/create_statements_source_db.sql">create_source_db.sql</a></div>
+                     <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; white-space: nowrap; "><a href="https://github.com/Fuenfgeld/ATeamDatenmanagementUndArchivierung/blob/main/tools/create_statements_source_db.sql">create_source_db.sql</a></div>
                   </div>
                </div>
             </foreignObject>
@@ -1196,7 +1196,7 @@
             <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
                <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 520px; margin-left: 230px;">
                   <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
-                     <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: none; white-space: nowrap; "><a href="https://github.com/Fuenfgeld/ATeamDatenmanagementUndArchivierung/blob/main/src/source_database_implementation.py">source_db.py</a></div>
+                     <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; white-space: nowrap; "><a href="https://github.com/Fuenfgeld/ATeamDatenmanagementUndArchivierung/blob/main/src/source_database_implementation.py">source_db.py</a></div>
                   </div>
                </div>
             </foreignObject>
@@ -1217,7 +1217,7 @@
             <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
                <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 52px; height: 1px; padding-top: 640px; margin-left: 199px;">
                   <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
-                     <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: none; word-break: break-word; white-space: normal; word-wrap: normal; "><font style="font-size: 6px"><b>actual_insert_df</b></font></div>
+                     <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; word-break: break-word; white-space: normal; word-wrap: normal; "><font style="font-size: 6px"><b>actual_insert_df</b></font></div>
                   </div>
                </div>
             </foreignObject>
@@ -1242,7 +1242,7 @@
             <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
                <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 411px; height: 1px; padding-top: 31px; margin-left: 319px;">
                   <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
-                     <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: none; word-break: break-word; white-space: normal; word-wrap: normal; "><a href="https://github.com/Fuenfgeld/ATeamDatenmanagementUndArchivierung/wiki/Datenmanagementplan#33-datendokumentation-und-metadaten-erstellen">Datenmanagementplan<br/> Sektion 3.3</a></div>
+                     <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; word-break: break-word; white-space: normal; word-wrap: normal; "><a href="https://github.com/Fuenfgeld/ATeamDatenmanagementUndArchivierung/wiki/Datenmanagementplan#33-datendokumentation-und-metadaten-erstellen">Datenmanagementplan<br/> Sektion 3.3</a></div>
                   </div>
                </div>
             </foreignObject>
@@ -1275,7 +1275,7 @@
             <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
                <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 103px; height: 1px; padding-top: 187px; margin-left: 320px;">
                   <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
-                     <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: none; word-break: break-word; white-space: normal; word-wrap: normal; ">
+                     <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; word-break: break-word; white-space: normal; word-wrap: normal; ">
                         <font style="font-size: 11px"><a href="https://github.com/Fuenfgeld/ATeamDatenmanagementUndArchivierung/wiki/Datenqualit%C3%A4t#identifikation-von-redundanzen-und-unstimmigkeiten---data-clearing">Wiki Datenqualität</a></font>
                         <hr id="null" />
                         <font style="font-size: 11px"><a href="https://github.com/Fuenfgeld/ATeamDatenmanagementUndArchivierung/wiki/Datenqualit%C3%A4t#identifikation-von-redundanzen-und-unstimmigkeiten---data-clearing">Data Clearing</a></font>
@@ -1308,7 +1308,7 @@
             <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
                <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 224px; height: 1px; padding-top: 77px; margin-left: 414px;">
                   <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
-                     <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: none; word-break: break-word; white-space: normal; word-wrap: normal; "><a href="https://github.com/Fuenfgeld/ATeamDatenmanagementUndArchivierung/wiki/Datenmanagementplan#32-datenspeicherung-und-datenzugriff">Datenmanagementplan <br/>Sektion 3.2</a></div>
+                     <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; word-break: break-word; white-space: normal; word-wrap: normal; "><a href="https://github.com/Fuenfgeld/ATeamDatenmanagementUndArchivierung/wiki/Datenmanagementplan#32-datenspeicherung-und-datenzugriff">Datenmanagementplan <br/>Sektion 3.2</a></div>
                   </div>
                </div>
             </foreignObject>
@@ -1341,7 +1341,7 @@
             <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
                <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 208px; height: 1px; padding-top: 168px; margin-left: 430px;">
                   <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
-                     <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: none; word-break: break-word; white-space: normal; word-wrap: normal; "><a href="https://github.com/Fuenfgeld/ATeamDatenmanagementUndArchivierung/wiki/Datenbereinigung-im-ETL-Prozess">Wiki / ETL-Prozess</a>, <a href="https://github.com/Fuenfgeld/ATeamDatenmanagementUndArchivierung/wiki/Mappingtabelle_Gesamt">Mapping-Tabellen</a></div>
+                     <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; word-break: break-word; white-space: normal; word-wrap: normal; "><a href="https://github.com/Fuenfgeld/ATeamDatenmanagementUndArchivierung/wiki/Datenbereinigung-im-ETL-Prozess">Wiki / ETL-Prozess</a>, <a href="https://github.com/Fuenfgeld/ATeamDatenmanagementUndArchivierung/wiki/Mappingtabelle_Gesamt">Mapping-Tabellen</a></div>
                   </div>
                </div>
             </foreignObject>
@@ -1381,7 +1381,7 @@
             <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
                <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 520px; margin-left: 481px;">
                   <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
-                     <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: none; white-space: nowrap; "><a href="https://github.com/Fuenfgeld/ATeamDatenmanagementUndArchivierung/blob/main/tools/ETL_create_view_central.sql">ETL_view.sql</a></div>
+                     <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; white-space: nowrap; "><a href="https://github.com/Fuenfgeld/ATeamDatenmanagementUndArchivierung/blob/main/tools/ETL_create_view_central.sql">ETL_view.sql</a></div>
                   </div>
                </div>
             </foreignObject>
@@ -1403,7 +1403,7 @@
             <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
                <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 520px; margin-left: 609px;">
                   <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
-                     <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: none; white-space: nowrap; "><a href="https://github.com/Fuenfgeld/ATeamDatenmanagementUndArchivierung/blob/main/tools/ETL_process.py">ETL_process.py</a></div>
+                     <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; white-space: nowrap; "><a href="https://github.com/Fuenfgeld/ATeamDatenmanagementUndArchivierung/blob/main/tools/ETL_process.py">ETL_process.py</a></div>
                   </div>
                </div>
             </foreignObject>
@@ -1426,7 +1426,7 @@
             <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
                <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 134px; height: 1px; padding-top: 54px; margin-left: 30px;">
                   <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
-                     <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: none; word-break: break-word; white-space: normal; word-wrap: normal; "><a href="https://github.com/Fuenfgeld/ATeamDatenmanagementUndArchivierung/wiki/Datenmanagementplan#1-administrative-daten">Datenmanagementplan Sektionen 1 und 2</a></div>
+                     <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; word-break: break-word; white-space: normal; word-wrap: normal; "><a href="https://github.com/Fuenfgeld/ATeamDatenmanagementUndArchivierung/wiki/Datenmanagementplan#1-administrative-daten">Datenmanagementplan Sektionen 1 und 2</a></div>
                   </div>
                </div>
             </foreignObject>
@@ -1448,7 +1448,7 @@
             <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
                <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 510px; margin-left: 766px;">
                   <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
-                     <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: none; white-space: nowrap; "><a href="https://github.com/Fuenfgeld/ATeamDatenmanagementUndArchivierung/blob/main/src/public_datawarehouse_connection.py">public_db_conn.py</a></div>
+                     <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; white-space: nowrap; "><a href="https://github.com/Fuenfgeld/ATeamDatenmanagementUndArchivierung/blob/main/src/public_datawarehouse_connection.py">public_db_conn.py</a></div>
                   </div>
                </div>
             </foreignObject>
@@ -1470,7 +1470,7 @@
             <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
                <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 531px; margin-left: 849px;">
                   <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
-                     <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: none; white-space: nowrap; "><a href="https://github.com/Fuenfgeld/ATeamDatenmanagementUndArchivierung/blob/main/IMECOS_master.ipynb">IMECOS_master.ipynb</a></div>
+                     <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; white-space: nowrap; "><a href="https://github.com/Fuenfgeld/ATeamDatenmanagementUndArchivierung/blob/main/IMECOS_master.ipynb">IMECOS_master.ipynb</a></div>
                   </div>
                </div>
             </foreignObject>
@@ -1493,7 +1493,7 @@
             <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
                <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 134px; height: 1px; padding-top: 54px; margin-left: 737px;">
                   <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
-                     <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: none; word-break: break-word; white-space: normal; word-wrap: normal; "><a href="https://github.com/Fuenfgeld/ATeamDatenmanagementUndArchivierung/wiki/Datenmanagementplan#34-data-sharing">Datenmanagementplan<br/>Sektion 3.4</a></div>
+                     <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; word-break: break-word; white-space: normal; word-wrap: normal; "><a href="https://github.com/Fuenfgeld/ATeamDatenmanagementUndArchivierung/wiki/Datenmanagementplan#34-data-sharing">Datenmanagementplan<br/>Sektion 3.4</a></div>
                   </div>
                </div>
             </foreignObject>
@@ -1526,7 +1526,7 @@
             <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
                <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 84px; height: 1px; padding-top: 77px; margin-left: 646px;">
                   <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
-                     <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: none; word-break: break-word; white-space: normal; word-wrap: normal; "><font style="font-size: 11px"><a href="https://github.com/Fuenfgeld/ATeamDatenmanagementUndArchivierung/wiki/Datenschutz-Folgeabsch%C3%A4tzung">Datenschutz-folge-abschätzung</a></font></div>
+                     <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; word-break: break-word; white-space: normal; word-wrap: normal; "><font style="font-size: 11px"><a href="https://github.com/Fuenfgeld/ATeamDatenmanagementUndArchivierung/wiki/Datenschutz-Folgeabsch%C3%A4tzung">Datenschutz-folge-abschätzung</a></font></div>
                   </div>
                </div>
             </foreignObject>
@@ -1549,7 +1549,7 @@
             <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
                <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 225px; height: 1px; padding-top: 168px; margin-left: 646px;">
                   <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
-                     <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: none; word-break: break-word; white-space: normal; word-wrap: normal; "><a href="https://github.com/Fuenfgeld/ATeamDatenmanagementUndArchivierung/wiki/System-Umgebung">Wiki / System-Umgebung</a></div>
+                     <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; word-break: break-word; white-space: normal; word-wrap: normal; "><a href="https://github.com/Fuenfgeld/ATeamDatenmanagementUndArchivierung/wiki/System-Umgebung">Wiki / System-Umgebung</a></div>
                   </div>
                </div>
             </foreignObject>
@@ -1572,7 +1572,7 @@
             <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
                <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 225px; height: 1px; padding-top: 167px; margin-left: 879px;">
                   <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
-                     <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: none; word-break: break-word; white-space: normal; word-wrap: normal; "><font style="font-size: 11px"><a href="https://github.com/Fuenfgeld/ATeamDatenmanagementUndArchivierung/wiki/Forschungsergebnisse">Wiki / Forschungsergebnisse</a></font><font style="font-size: 12px"></font></div>
+                     <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; word-break: break-word; white-space: normal; word-wrap: normal; "><font style="font-size: 11px"><a href="https://github.com/Fuenfgeld/ATeamDatenmanagementUndArchivierung/wiki/Forschungsergebnisse">Wiki / Forschungsergebnisse</a></font><font style="font-size: 12px"></font></div>
                   </div>
                </div>
             </foreignObject>
@@ -1611,7 +1611,7 @@
             <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
                <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 667px; margin-left: 637px;">
                   <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
-                     <div style="display: inline-block; font-size: 8px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: none; background-color: #ffffff; white-space: nowrap; "><font style="font-size: 12px">L</font></div>
+                     <div style="display: inline-block; font-size: 8px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; background-color: #ffffff; white-space: nowrap; "><font style="font-size: 12px">L</font></div>
                   </div>
                </div>
             </foreignObject>
@@ -1640,4 +1640,10 @@
          <text text-anchor="middle" font-size="10px" x="50%" y="100%"></text>
       </a>
    </switch>
+   <g fill="#787878" font-family="Arial,Helvetica" font-size="12px">
+      <text pointer-events="none" x="6" y="15">Visual Paradigm Online Free Edition</text>
+   </g>
+   <g fill="#787878" font-family="Arial,Helvetica" text-anchor="end" font-size="12px">
+      <text pointer-events="none" x="1110" y="784">Visual Paradigm Online Free Edition</text>
+   </g>
 </svg>
