@@ -135,7 +135,7 @@ FROM
    v_encounters_plus
 """
 )
-encounters_columns = ('Id', 'DATASET_ORIGIN', 'encounter_START', 'encounter_STOP', 'PATIENT_Id', 'PAYER_Id', 'payer_START_YEAR', 'payer_END_YEAR', 'payer_OWNERSHIP', 'ENCOUNTERCLASS', 'encounter_CODE', 'encounter_REASONCODE', 'condition_START', 'condition_STOP', 'condition_CODE', 'immunization_DATE', 'immunization_CODE', 'procedure_DATE', 'procedure_CODE', 'procedure_REASONCODE', 'medication_START', 'medication_STOP', 'medication_CODE', 'medication_REASONCODE', 'BASE_ENCOUNTER_COST', 'BASE_IMMUNIZATION_COST', 'BASE_PROCEDURE_COST', 'BASE_MEDICATION_COST', 'medication_PAYER_COVERAGE', 'medication_DISPENSES', 'medications_TOTALCOST')
+encounters_columns = ('Id', 'DATASET_ORIGIN', 'encounter_START', 'encounter_STOP', 'PATIENT_Id', 'PAYER_Id', 'payer_START_YEAR', 'payer_END_YEAR', 'payer_OWNERSHIP', 'ENCOUNTERCLASS', 'encounter_CODE', 'encounter_REASONCODE', 'condition_START', 'condition_STOP', 'condition_CODE', 'immunization_DATE', 'immunization_CODE', 'procedure_DATE', 'procedure_CODE', 'procedure_REASONCODE', 'medication_START', 'medication_STOP', 'medication_CODE', 'medication_REASONCODE', 'BASE_ENCOUNTER_COST', 'BASE_IMMUNIZATION_COST', 'BASE_PROCEDURE_COST', 'BASE_MEDICATION_COST', 'medication_PAYER_COVERAGE', 'medication_DISPENSES', 'medication_TOTALCOST')
 encounters = pd.DataFrame(cur.fetchall(), columns=encounters_columns)
 del(encounters_columns)
 print("Successfully Extracted Data")
