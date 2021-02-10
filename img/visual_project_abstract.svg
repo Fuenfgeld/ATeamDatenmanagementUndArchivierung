@@ -1,0 +1,1643 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1116px" viewBox="-0.5 -0.5 1116 790" style="max-width:100%;max-height:790px;">
+   <defs>
+      <style type="text/css">ul { margin-top: 0px; margin-bottom: 10px; }&#xa;ol { margin-top: 0px; margin-bottom: 10px; }&#xa;.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 { margin-bottom: .5rem; font-weight: 500; line-height: 1.2; }&#xa;h1, h2, h3, h4, h5, h6 { margin-top: 0; margin-bottom: .5rem; }&#xa;.h1, h1 { font-size: 2.5rem; }&#xa;h2 { font-size: 1.5em; font-weight: bold; }&#xa;h3 { font-size: 1.17em; font-weight: bold; }&#xa;.h4, h4 { font-size: 1.5rem; }&#xa;.h5, h5 { font-size: 1.25rem; }&#xa;.h6, h6 { font-size: 1rem; }&#xa;p { margin-top: 0; margin-bottom: 1rem; }&#xa;ul { margin-top: 0px; margin-bottom: 10px; }&#xa;ol { margin-top: 0px; margin-bottom: 10px; }&#xa;.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 { margin-bottom: .5rem; font-weight: 500; line-height: 1.2; }&#xa;h1, h2, h3, h4, h5, h6 { margin-top: 0; margin-bottom: .5rem; }&#xa;.h1, h1 { font-size: 2.5rem; }&#xa;h2 { font-size: 1.5em; font-weight: bold; }&#xa;h3 { font-size: 1.17em; font-weight: bold; }&#xa;.h4, h4 { font-size: 1.5rem; }&#xa;.h5, h5 { font-size: 1.25rem; }&#xa;.h6, h6 { font-size: 1rem; }&#xa;p { margin-top: 0; margin-bottom: 1rem; }&#xa;ul { margin-top: 0px; margin-bottom: 10px; }&#xa;ol { margin-top: 0px; margin-bottom: 10px; }&#xa;.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 { margin-bottom: .5rem; font-weight: 500; line-height: 1.2; }&#xa;h1, h2, h3, h4, h5, h6 { margin-top: 0; margin-bottom: .5rem; }&#xa;.h1, h1 { font-size: 2.5rem; }&#xa;h2 { font-size: 1.5em; font-weight: bold; }&#xa;h3 { font-size: 1.17em; font-weight: bold; }&#xa;.h4, h4 { font-size: 1.5rem; }&#xa;.h5, h5 { font-size: 1.25rem; }&#xa;.h6, h6 { font-size: 1rem; }&#xa;p { margin-top: 0; margin-bottom: 1rem; }&#xa;</style>
+      <linearGradient x1="0%" y1="0%" x2="0%" y2="100%" id="mx-gradient-ffffff-1-ffffff-1-s-0">
+         <stop offset="0%" style="stop-color:#FFFFFF"/>
+         <stop offset="100%" style="stop-color:#ffffff"/>
+      </linearGradient>
+      <style type="text/css">@import url(https://fonts.googleapis.com/css2?family=Actor:wght@400;700&amp;display=swap);&#xa;@import url(https://fonts.googleapis.com/css2?family=Archivo+Narrow:wght@400;700&amp;display=swap);&#xa;@import url(https://fonts.googleapis.com/css2?family=Actor:wght@400;700&amp;display=swap);&#xa;@import url(https://fonts.googleapis.com/css2?family=Archivo+Narrow:wght@400;700&amp;display=swap);&#xa;</style>
+   </defs>
+   <g>
+      <path d="M 20 0 L 0 0 L 0 241 L 20 241" fill="#000000" stroke="#000000" stroke-miterlimit="10" transform="translate(2,3)" opacity="0.25"/>
+      <path d="M 20 0 L 0 0 L 0 241 L 20 241" fill="#ffbf69" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+      <path d="M 20 0 L 1111 0 L 1111 241 L 20 241" fill="#000000" stroke="#000000" stroke-miterlimit="10" transform="translate(2,3)" opacity="0.25"/>
+      <path d="M 20 0 L 1111 0 L 1111 241 L 20 241" fill="#ffbf69" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+      <path d="M 20 0 L 20 241" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+      <g transform="translate(-0.5 -0.5)rotate(-90 9.999999999999886 120.49999999999977)">
+         <switch>
+            <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+               <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 120px; margin-left: 10px;">
+                  <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                     <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; font-weight: bold; white-space: nowrap; ">Dokumentation</div>
+                  </div>
+               </div>
+            </foreignObject>
+            <svg width="100%" height="100%">
+               <defs>
+                  <path id="ZNeeMe6EqBnUtwQT" d="M-33.171875,126.1 h87.34375"/>
+               </defs>
+               <text fill="rgb(0, 0, 0)" font-size="12px" font-family="Helvetica" font-weight="700">
+                  <textPath xlink:href="#ZNeeMe6EqBnUtwQT" startOffset="50%" text-anchor="middle">
+                     <tspan xml:space="preserve">Dokumentation</tspan>
+                  </textPath>
+               </text>
+            </svg>
+         </switch>
+      </g>
+      <rect x="123" y="118" width="95" height="19" fill="none" stroke="none" pointer-events="all"/>
+      <g transform="translate(-0.5 -0.5)">
+         <switch>
+            <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+               <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 93px; height: 1px; padding-top: 128px; margin-left: 124px;">
+                  <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                     <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; word-break: break-word; white-space: normal; word-wrap: normal; ">verlinkt auf</div>
+                  </div>
+               </div>
+            </foreignObject>
+            <svg width="100%" height="100%">
+               <defs>
+                  <path id="5NeeMe6EqBnUtwQU" d="M141.484375,134.1 h58.03125"/>
+               </defs>
+               <text fill="rgb(0, 0, 0)" font-size="12px" font-family="Helvetica" font-weight="400">
+                  <textPath xlink:href="#5NeeMe6EqBnUtwQU" startOffset="50%" text-anchor="middle">
+                     <tspan xml:space="preserve">verlinkt auf</tspan>
+                  </textPath>
+               </text>
+            </svg>
+         </switch>
+      </g>
+      <rect x="173" y="142" width="142" height="90" fill="#000000" stroke="#000000" transform="translate(2,3)" opacity="0.25"/>
+      <rect x="173" y="142" width="142" height="90" fill="#ffe4c2" stroke="#000000" pointer-events="all"/>
+      <g transform="translate(-0.5 -0.5)">
+         <switch>
+            <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+               <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 140px; height: 1px; padding-top: 187px; margin-left: 174px;">
+                  <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                     <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; word-break: break-word; white-space: normal; word-wrap: normal; ">
+                        <font style="font-size: 11px"><a href="https://github.com/Fuenfgeld/ATeamDatenmanagementUndArchivierung/wiki/Quelldatenmodell#datenbank-implementierung">Wiki / Quelldatenmodell</a></font>
+                        <hr id="null" />
+                        <font style="font-size: 11px"><a href="https://github.com/Fuenfgeld/ATeamDatenmanagementUndArchivierung/wiki/Quelldatenmodell#datenbank-implementierung">Datenbankimplementierung, ER-Modell</a></font><font style="font-size: 12px"></font>
+                     </div>
+                  </div>
+               </div>
+            </foreignObject>
+            <svg width="100%" height="100%">
+               <defs>
+                  <path id="lNeeMe6EqBnUtwQV" d="M186.21875,162.2 h115.5625"/>
+                  <path id="VNeeMe6EqBnUtwQW" d="M175.203125,209.2 h137.59375 M175.203125,222 h137.59375"/>
+               </defs>
+               <text fill="rgb(0, 123, 255)" font-size="11px" font-family="Helvetica" font-weight="400">
+                  <textPath xlink:href="#lNeeMe6EqBnUtwQV" startOffset="50%" text-anchor="middle">
+                     <tspan xml:space="preserve">Wiki / Quelldatenmodell</tspan>
+                  </textPath>
+               </text>
+               <text fill="rgb(0, 123, 255)" font-size="11px" font-family="Helvetica" font-weight="400">
+                  <textPath xlink:href="#VNeeMe6EqBnUtwQW">
+                     <tspan xml:space="preserve">Datenbankimplementierung, ER-Modell</tspan>
+                  </textPath>
+               </text>
+            </svg>
+         </switch>
+      </g>
+      <path d="M 319 103 L 424 103 L 424 103 L 424 121.25 L 424 139.5 L 424 139.5 L 319 139.5 L 319 121.25 Z" fill="#ff9f1c" stroke="#333333" stroke-miterlimit="10" pointer-events="all"/>
+      <g transform="translate(-0.5 -0.5)">
+         <switch>
+            <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+               <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 121px; margin-left: 372px;">
+                  <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                     <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; white-space: nowrap; "><a href="https://github.com/Fuenfgeld/ATeamDatenmanagementUndArchivierung/blob/main/tools/data_clearing_SQL_queries.py">data_clearing_</a><br/><a href="https://github.com/Fuenfgeld/ATeamDatenmanagementUndArchivierung/blob/main/tools/data_clearing_SQL_queries.py">SQL_queries.py</a></div>
+                  </div>
+               </div>
+            </foreignObject>
+            <svg width="100%" height="100%">
+               <defs>
+                  <path id="1NeeMe6EqBnUtwQX" d="M333.125,120.1 h78.734375"/>
+                  <path id="NNeeMe6EqBnUtwQY" d="M329.46875,134.1 h86.0625"/>
+               </defs>
+               <text fill="rgb(0, 123, 255)" font-size="12px" font-family="Helvetica" font-weight="400">
+                  <textPath xlink:href="#1NeeMe6EqBnUtwQX" startOffset="50%" text-anchor="middle">
+                     <tspan xml:space="preserve">data_clearing_</tspan>
+                  </textPath>
+               </text>
+               <text fill="rgb(0, 123, 255)" font-size="12px" font-family="Helvetica" font-weight="400">
+                  <textPath xlink:href="#NNeeMe6EqBnUtwQY" startOffset="50%" text-anchor="middle">
+                     <tspan xml:space="preserve">SQL_queries.py</tspan>
+                  </textPath>
+               </text>
+            </svg>
+         </switch>
+      </g>
+      <path d="M 243.86 99.1 L 243.9 120.52 L 98.62 120.52 L 98.62 135.58" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke"/>
+      <path d="M 98.62 140.83 L 95.12 133.83 L 98.62 135.58 L 102.12 133.83 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+      <rect x="176" y="9" width="136" height="90" fill="#000000" stroke="#000000" transform="translate(2,3)" opacity="0.25"/>
+      <rect x="176" y="9" width="136" height="90" fill="#ffe4c2" stroke="#000000" pointer-events="all"/>
+      <g transform="translate(-0.5 -0.5)">
+         <switch>
+            <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+               <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 134px; height: 1px; padding-top: 54px; margin-left: 177px;">
+                  <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                     <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; word-break: break-word; white-space: normal; word-wrap: normal; "><a href="https://github.com/Fuenfgeld/ATeamDatenmanagementUndArchivierung/wiki/Datenmanagementplan#31-datenerhebung-daten-generieren-und-bearbeiten">Datenmanagementplan Sektion 3.1</a></div>
+                  </div>
+               </div>
+            </foreignObject>
+            <svg width="100%" height="100%">
+               <defs>
+                  <path id="dNeeMe6EqBnUtwQZ" d="M181.609375,53.1 h124.765625 M181.609375,67.5 h124.765625"/>
+               </defs>
+               <text fill="rgb(0, 123, 255)" font-size="12px" font-family="Helvetica" font-weight="400">
+                  <textPath xlink:href="#dNeeMe6EqBnUtwQZ">
+                     <tspan xml:space="preserve">Datenmanagementplan Sektion 3.1</tspan>
+                  </textPath>
+               </text>
+            </svg>
+         </switch>
+      </g>
+      <path d="M 20 254 L 0 254 L 0 495 L 20 495" fill="#000000" stroke="#000000" stroke-miterlimit="10" transform="translate(2,3)" opacity="0.25"/>
+      <path d="M 20 254 L 0 254 L 0 495 L 20 495" fill="#7be0d6" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+      <path d="M 20 254 L 1112 254 L 1112 495 L 20 495" fill="#000000" stroke="#000000" stroke-miterlimit="10" transform="translate(2,3)" opacity="0.25"/>
+      <path d="M 20 254 L 1112 254 L 1112 495 L 20 495" fill="#feffff" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+      <path d="M 20 254 L 20 495" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+      <g transform="translate(-0.5 -0.5)rotate(-90 9.999999999999886 374.49999999999966)">
+         <switch>
+            <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+               <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 374px; margin-left: 10px;">
+                  <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                     <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; font-weight: bold; white-space: nowrap; ">Projektdesign</div>
+                  </div>
+               </div>
+            </foreignObject>
+            <svg width="100%" height="100%">
+               <defs>
+                  <path id="9NeeMe6EqBnUtwQa" d="M-29.171875,380.1 h79.359375"/>
+               </defs>
+               <text fill="rgb(0, 0, 0)" font-size="12px" font-family="Helvetica" font-weight="700">
+                  <textPath xlink:href="#9NeeMe6EqBnUtwQa" startOffset="50%" text-anchor="middle">
+                     <tspan xml:space="preserve">Projektdesign</tspan>
+                  </textPath>
+               </text>
+            </svg>
+         </switch>
+      </g>
+      <path d="M 31 274 L 212 274 L 212 274 L 250 374.5 L 212 475 L 212 475 L 31 475 L 47 374.5 Z" fill="#7be0d6" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+      <g transform="translate(-0.5 -0.5)">
+         <switch>
+            <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+               <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 374px; margin-left: 141px;">
+                  <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                     <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; white-space: nowrap; ">
+                        Grobe Datenexploration
+                        <hr id="null" />
+                        Entwickeln der Forschungsfragen
+                        <hr id="null" />
+                        Design einer Quelldatenbank
+                     </div>
+                  </div>
+               </div>
+            </foreignObject>
+            <svg width="100%" height="100%">
+               <defs>
+                  <path id="jNeeMe6EqBnUtwQb" d="M52.453125,333.1 h178.09375 M52.453125,347.5 h178.09375 M52.453125,361.9 h178.09375 M52.453125,376.29999999999995 h178.09375 M52.453125,390.69999999999993 h178.09375 M52.453125,405.0999999999999 h178.09375 M52.453125,419.4999999999999 h178.09375"/>
+                  <path id="jNeeMe6EqBnUtwQc" d="M52.453125,333.1 h178.09375 M52.453125,347.5 h178.09375 M52.453125,361.9 h178.09375 M52.453125,376.29999999999995 h178.09375 M52.453125,390.69999999999993 h178.09375 M52.453125,405.0999999999999 h178.09375 M52.453125,419.4999999999999 h178.09375"/>
+                  <path id="TNeeMe6EqBnUtwQd" d="M52.453125,333.1 h178.09375 M52.453125,347.5 h178.09375 M52.453125,361.9 h178.09375 M52.453125,376.29999999999995 h178.09375 M52.453125,390.69999999999993 h178.09375 M52.453125,405.0999999999999 h178.09375 M52.453125,419.4999999999999 h178.09375"/>
+               </defs>
+               <text fill="rgb(0, 0, 0)" font-size="12px" font-family="Helvetica" font-weight="400">
+                  <textPath xlink:href="#jNeeMe6EqBnUtwQb">
+                     <tspan xml:space="preserve">Grobe Datenexploration</tspan>
+                     <tspan xml:space="preserve"/>
+                     <tspan xml:space="preserve">Entwickeln der Forschungsfragen</tspan>
+                     <tspan xml:space="preserve"/>
+                     <tspan xml:space="preserve">Design einer Quelldatenbank</tspan>
+                  </textPath>
+               </text>
+               <text fill="rgb(0, 0, 0)" font-size="12px" font-family="Helvetica" font-weight="400">
+                  <textPath xlink:href="#jNeeMe6EqBnUtwQc">
+                     <tspan xml:space="preserve">Grobe Datenexploration</tspan>
+                     <tspan xml:space="preserve"/>
+                     <tspan xml:space="preserve">Entwickeln der Forschungsfragen</tspan>
+                     <tspan xml:space="preserve"/>
+                     <tspan xml:space="preserve">Design einer Quelldatenbank</tspan>
+                  </textPath>
+               </text>
+               <text fill="rgb(0, 0, 0)" font-size="12px" font-family="Helvetica" font-weight="400">
+                  <textPath xlink:href="#TNeeMe6EqBnUtwQd">
+                     <tspan xml:space="preserve">Grobe Datenexploration</tspan>
+                     <tspan xml:space="preserve"/>
+                     <tspan xml:space="preserve">Entwickeln der Forschungsfragen</tspan>
+                     <tspan xml:space="preserve"/>
+                     <tspan xml:space="preserve">Design einer Quelldatenbank</tspan>
+                  </textPath>
+               </text>
+            </svg>
+         </switch>
+      </g>
+      <path d="M 240 274 L 402.5 274 L 402.5 274 L 432 301 L 402.5 328 L 402.5 328 L 240 328 L 247.17 301 Z" fill="#7be0d6" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+      <g transform="translate(-0.5 -0.5)">
+         <switch>
+            <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+               <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 301px; margin-left: 336px;">
+                  <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                     <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; white-space: nowrap; ">
+                        <blockquote style="margin: 0 0 0 40px ; border: none ; padding: 0px"></blockquote>
+                        <span>Datenqualität I</span><br/>
+                        <blockquote style="margin: 0 0 0 40px ; border: none ; padding: 0px"></blockquote>
+                        <blockquote style="margin: 0 0 0 40px ; border: none ; padding: 0px"></blockquote>
+                        <span>Identifikation von Redundanzen</span><br/> und Unstimmigkeiten<span> </span>
+                     </div>
+                  </div>
+               </div>
+            </foreignObject>
+            <svg width="100%" height="100%">
+               <defs>
+                  <path id="LNeeMe6EqBnUtwQe" d="M297.796875,293.1 h77.390625"/>
+                  <path id="LNeeMe6EqBnUtwQf" d="M252.4375,307.1 h168.125"/>
+                  <path id="rNeeMe6EqBnUtwQg" d="M252.4375,293.1 h168.125 M252.4375,307.5 h168.125 M252.4375,321.9 h168.125"/>
+                  <path id="rNeeMe6EqBnUtwQh" d="M390.859375,321.1 h3.34375"/>
+               </defs>
+               <text fill="rgb(0, 0, 0)" font-size="12px" font-family="Helvetica" font-weight="400">
+                  <textPath xlink:href="#LNeeMe6EqBnUtwQe" startOffset="50%" text-anchor="middle">
+                     <tspan xml:space="preserve">Datenqualität I</tspan>
+                  </textPath>
+               </text>
+               <text fill="rgb(0, 0, 0)" font-size="12px" font-family="Helvetica" font-weight="400">
+                  <textPath xlink:href="#LNeeMe6EqBnUtwQf" startOffset="50%" text-anchor="middle">
+                     <tspan xml:space="preserve">Identifikation von Redundanzen</tspan>
+                  </textPath>
+               </text>
+               <text fill="rgb(0, 0, 0)" font-size="12px" font-family="Helvetica" font-weight="400">
+                  <textPath xlink:href="#rNeeMe6EqBnUtwQg">
+                     <tspan xml:space="preserve" style="margin: 0 0 0 40px ; border: none ; padding: 0px"/>
+                     <tspan xml:space="preserve">
+                        <tspan xml:space="preserve">Datenqualität I</tspan>
+                     </tspan>
+                     <tspan xml:space="preserve"/>
+                     <tspan xml:space="preserve" style="margin: 0 0 0 40px ; border: none ; padding: 0px"/>
+                     <tspan xml:space="preserve" style="margin: 0 0 0 40px ; border: none ; padding: 0px"/>
+                     <tspan xml:space="preserve">
+                        <tspan xml:space="preserve">Identifikation von Redundanzen</tspan>
+                     </tspan>
+                     <tspan xml:space="preserve"/>
+                     <tspan xml:space="preserve"> und Unstimmigkeiten</tspan>
+                     <tspan xml:space="preserve">
+                        <tspan xml:space="preserve"/>
+                     </tspan>
+                  </textPath>
+               </text>
+               <text fill="rgb(0, 0, 0)" font-size="12px" font-family="Helvetica" font-weight="400">
+                  <textPath xlink:href="#rNeeMe6EqBnUtwQh" startOffset="50%" text-anchor="middle">
+                     <tspan xml:space="preserve"/>
+                  </textPath>
+               </text>
+            </svg>
+         </switch>
+      </g>
+      <path d="M 281 332 L 460.67 332 L 460.67 332 L 493 367 L 460.67 402 L 460.67 402 L 281 402 L 288.17 367 Z" fill="#7be0d6" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+      <g transform="translate(-0.5 -0.5)">
+         <switch>
+            <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+               <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 367px; margin-left: 387px;">
+                  <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                     <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; white-space: nowrap; ">
+                        <blockquote style="margin: 0 0 0 40px ; border: none ; padding: 0px"></blockquote>
+                        ETL Prozess<br/>
+                        <blockquote style="margin: 0 0 0 40px ; border: none ; padding: 0px"></blockquote>
+                        Identifikation der Datenbasis zur<br/>Beantwortung der Forschungsfragen<br/>Erkennen von Abhängigkeiten
+                     </div>
+                  </div>
+               </div>
+            </foreignObject>
+            <svg width="100%" height="100%">
+               <defs>
+                  <path id="7NeeMe6EqBnUtwQi" d="M290.109375,352.1 h194.796875 M290.109375,366.5 h194.796875 M290.109375,380.9 h194.796875 M290.109375,395.29999999999995 h194.796875"/>
+                  <path id="HNeeMe6EqBnUtwQj" d="M290.109375,352.1 h194.796875 M290.109375,366.5 h194.796875 M290.109375,380.9 h194.796875 M290.109375,395.29999999999995 h194.796875"/>
+                  <path id="HNeeMe6EqBnUtwQk" d="M290.109375,352.1 h194.796875 M290.109375,366.5 h194.796875 M290.109375,380.9 h194.796875 M290.109375,395.29999999999995 h194.796875"/>
+                  <path id="nNeeMe6EqBnUtwQl" d="M290.109375,352.1 h194.796875 M290.109375,366.5 h194.796875 M290.109375,380.9 h194.796875 M290.109375,395.29999999999995 h194.796875"/>
+               </defs>
+               <text fill="rgb(0, 0, 0)" font-size="12px" font-family="Helvetica" font-weight="400">
+                  <textPath xlink:href="#7NeeMe6EqBnUtwQi">
+                     <tspan xml:space="preserve" style="margin: 0 0 0 40px ; border: none ; padding: 0px"/>
+                     <tspan xml:space="preserve">ETL Prozess</tspan>
+                     <tspan xml:space="preserve"/>
+                     <tspan xml:space="preserve" style="margin: 0 0 0 40px ; border: none ; padding: 0px"/>
+                     <tspan xml:space="preserve">Identifikation der Datenbasis zur</tspan>
+                     <tspan xml:space="preserve"/>
+                     <tspan xml:space="preserve">Beantwortung der Forschungsfragen</tspan>
+                     <tspan xml:space="preserve"/>
+                     <tspan xml:space="preserve">Erkennen von Abhängigkeiten</tspan>
+                  </textPath>
+               </text>
+               <text fill="rgb(0, 0, 0)" font-size="12px" font-family="Helvetica" font-weight="400">
+                  <textPath xlink:href="#HNeeMe6EqBnUtwQj">
+                     <tspan xml:space="preserve" style="margin: 0 0 0 40px ; border: none ; padding: 0px"/>
+                     <tspan xml:space="preserve">ETL Prozess</tspan>
+                     <tspan xml:space="preserve"/>
+                     <tspan xml:space="preserve" style="margin: 0 0 0 40px ; border: none ; padding: 0px"/>
+                     <tspan xml:space="preserve">Identifikation der Datenbasis zur</tspan>
+                     <tspan xml:space="preserve"/>
+                     <tspan xml:space="preserve">Beantwortung der Forschungsfragen</tspan>
+                     <tspan xml:space="preserve"/>
+                     <tspan xml:space="preserve">Erkennen von Abhängigkeiten</tspan>
+                  </textPath>
+               </text>
+               <text fill="rgb(0, 0, 0)" font-size="12px" font-family="Helvetica" font-weight="400">
+                  <textPath xlink:href="#HNeeMe6EqBnUtwQk">
+                     <tspan xml:space="preserve" style="margin: 0 0 0 40px ; border: none ; padding: 0px"/>
+                     <tspan xml:space="preserve">ETL Prozess</tspan>
+                     <tspan xml:space="preserve"/>
+                     <tspan xml:space="preserve" style="margin: 0 0 0 40px ; border: none ; padding: 0px"/>
+                     <tspan xml:space="preserve">Identifikation der Datenbasis zur</tspan>
+                     <tspan xml:space="preserve"/>
+                     <tspan xml:space="preserve">Beantwortung der Forschungsfragen</tspan>
+                     <tspan xml:space="preserve"/>
+                     <tspan xml:space="preserve">Erkennen von Abhängigkeiten</tspan>
+                  </textPath>
+               </text>
+               <text fill="rgb(0, 0, 0)" font-size="12px" font-family="Helvetica" font-weight="400">
+                  <textPath xlink:href="#nNeeMe6EqBnUtwQl">
+                     <tspan xml:space="preserve" style="margin: 0 0 0 40px ; border: none ; padding: 0px"/>
+                     <tspan xml:space="preserve">ETL Prozess</tspan>
+                     <tspan xml:space="preserve"/>
+                     <tspan xml:space="preserve" style="margin: 0 0 0 40px ; border: none ; padding: 0px"/>
+                     <tspan xml:space="preserve">Identifikation der Datenbasis zur</tspan>
+                     <tspan xml:space="preserve"/>
+                     <tspan xml:space="preserve">Beantwortung der Forschungsfragen</tspan>
+                     <tspan xml:space="preserve"/>
+                     <tspan xml:space="preserve">Erkennen von Abhängigkeiten</tspan>
+                  </textPath>
+               </text>
+            </svg>
+         </switch>
+      </g>
+      <path d="M 403 405 L 506 405 L 506 405 L 544 440 L 506 475 L 506 475 L 403 475 L 435.5 440 Z" fill="#7be0d6" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+      <g transform="translate(-0.5 -0.5)">
+         <switch>
+            <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+               <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 440px; margin-left: 474px;">
+                  <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                     <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; white-space: nowrap; ">
+                        <blockquote style="margin: 0 0 0 40px ; border: none ; padding: 0px"></blockquote>
+                        ETL Prozess<br/>
+                        <blockquote style="margin: 0 0 0 40px ; border: none ; padding: 0px"></blockquote>
+                        Design des <br/>Date Warehouse
+                     </div>
+                  </div>
+               </div>
+            </foreignObject>
+            <svg width="100%" height="100%">
+               <defs>
+                  <path id="3NeeMe6EqBnUtwQm" d="M429.703125,432.1 h89.609375 M429.703125,446.5 h89.609375 M429.703125,460.9 h89.609375"/>
+                  <path id="3NeeMe6EqBnUtwQn" d="M429.703125,432.1 h89.609375 M429.703125,446.5 h89.609375 M429.703125,460.9 h89.609375"/>
+                  <path id="PNeeMe6EqBnUtwQo" d="M429.703125,432.1 h89.609375 M429.703125,446.5 h89.609375 M429.703125,460.9 h89.609375"/>
+               </defs>
+               <text fill="rgb(0, 0, 0)" font-size="12px" font-family="Helvetica" font-weight="400">
+                  <textPath xlink:href="#3NeeMe6EqBnUtwQm">
+                     <tspan xml:space="preserve" style="margin: 0 0 0 40px ; border: none ; padding: 0px"/>
+                     <tspan xml:space="preserve">ETL Prozess</tspan>
+                     <tspan xml:space="preserve"/>
+                     <tspan xml:space="preserve" style="margin: 0 0 0 40px ; border: none ; padding: 0px"/>
+                     <tspan xml:space="preserve">Design des </tspan>
+                     <tspan xml:space="preserve"/>
+                     <tspan xml:space="preserve">Date Warehouse</tspan>
+                  </textPath>
+               </text>
+               <text fill="rgb(0, 0, 0)" font-size="12px" font-family="Helvetica" font-weight="400">
+                  <textPath xlink:href="#3NeeMe6EqBnUtwQn">
+                     <tspan xml:space="preserve" style="margin: 0 0 0 40px ; border: none ; padding: 0px"/>
+                     <tspan xml:space="preserve">ETL Prozess</tspan>
+                     <tspan xml:space="preserve"/>
+                     <tspan xml:space="preserve" style="margin: 0 0 0 40px ; border: none ; padding: 0px"/>
+                     <tspan xml:space="preserve">Design des </tspan>
+                     <tspan xml:space="preserve"/>
+                     <tspan xml:space="preserve">Date Warehouse</tspan>
+                  </textPath>
+               </text>
+               <text fill="rgb(0, 0, 0)" font-size="12px" font-family="Helvetica" font-weight="400">
+                  <textPath xlink:href="#PNeeMe6EqBnUtwQo">
+                     <tspan xml:space="preserve" style="margin: 0 0 0 40px ; border: none ; padding: 0px"/>
+                     <tspan xml:space="preserve">ETL Prozess</tspan>
+                     <tspan xml:space="preserve"/>
+                     <tspan xml:space="preserve" style="margin: 0 0 0 40px ; border: none ; padding: 0px"/>
+                     <tspan xml:space="preserve">Design des </tspan>
+                     <tspan xml:space="preserve"/>
+                     <tspan xml:space="preserve">Date Warehouse</tspan>
+                  </textPath>
+               </text>
+            </svg>
+         </switch>
+      </g>
+      <path d="M 583.29 274.63 L 876.83 274.63 L 876.83 274 L 908 336.5 L 876.83 399 L 876.83 398.38 L 583.29 398.38 L 627.71 336.5 Z" fill="#7be0d6" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+      <g transform="translate(-0.5 -0.5)">
+         <switch>
+            <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+               <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 337px; margin-left: 746px;">
+                  <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                     <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; white-space: nowrap; ">
+                        <blockquote style="margin: 0 0 0 40px ; border: none ; padding: 0px"></blockquote>
+                        Data Accessability Struktur<br/>System-Umgebung, Schnittstellen
+                        <hr id="null" />
+                        Datenschutzfolgeabschätzung
+                     </div>
+                  </div>
+               </div>
+            </foreignObject>
+            <svg width="100%" height="100%">
+               <defs>
+                  <path id="fNeeMe6EqBnUtwQp" d="M656.125,312.6 h180.75 M656.125,327 h180.75 M656.125,341.4 h180.75 M656.125,355.79999999999995 h180.75 M656.125,370.19999999999993 h180.75"/>
+                  <path id="fNeeMe6EqBnUtwQq" d="M656.125,312.6 h180.75 M656.125,327 h180.75 M656.125,341.4 h180.75 M656.125,355.79999999999995 h180.75 M656.125,370.19999999999993 h180.75"/>
+                  <path id="_NeeMe6EqBnUtwQr" d="M656.125,312.6 h180.75 M656.125,327 h180.75 M656.125,341.4 h180.75 M656.125,355.79999999999995 h180.75 M656.125,370.19999999999993 h180.75"/>
+               </defs>
+               <text fill="rgb(0, 0, 0)" font-size="12px" font-family="Helvetica" font-weight="400">
+                  <textPath xlink:href="#fNeeMe6EqBnUtwQp">
+                     <tspan xml:space="preserve" style="margin: 0 0 0 40px ; border: none ; padding: 0px"/>
+                     <tspan xml:space="preserve">Data Accessability Struktur</tspan>
+                     <tspan xml:space="preserve"/>
+                     <tspan xml:space="preserve">System-Umgebung, Schnittstellen</tspan>
+                     <tspan xml:space="preserve"/>
+                     <tspan xml:space="preserve">Datenschutzfolgeabschätzung</tspan>
+                  </textPath>
+               </text>
+               <text fill="rgb(0, 0, 0)" font-size="12px" font-family="Helvetica" font-weight="400">
+                  <textPath xlink:href="#fNeeMe6EqBnUtwQq">
+                     <tspan xml:space="preserve" style="margin: 0 0 0 40px ; border: none ; padding: 0px"/>
+                     <tspan xml:space="preserve">Data Accessability Struktur</tspan>
+                     <tspan xml:space="preserve"/>
+                     <tspan xml:space="preserve">System-Umgebung, Schnittstellen</tspan>
+                     <tspan xml:space="preserve"/>
+                     <tspan xml:space="preserve">Datenschutzfolgeabschätzung</tspan>
+                  </textPath>
+               </text>
+               <text fill="rgb(0, 0, 0)" font-size="12px" font-family="Helvetica" font-weight="400">
+                  <textPath xlink:href="#_NeeMe6EqBnUtwQr">
+                     <tspan xml:space="preserve" style="margin: 0 0 0 40px ; border: none ; padding: 0px"/>
+                     <tspan xml:space="preserve">Data Accessability Struktur</tspan>
+                     <tspan xml:space="preserve"/>
+                     <tspan xml:space="preserve">System-Umgebung, Schnittstellen</tspan>
+                     <tspan xml:space="preserve"/>
+                     <tspan xml:space="preserve">Datenschutzfolgeabschätzung</tspan>
+                  </textPath>
+               </text>
+            </svg>
+         </switch>
+      </g>
+      <path d="M 626 402 L 785.76 402 L 785.76 402 L 801 418.5 L 785.76 435 L 785.76 435 L 626 435 L 644.43 418.5 Z" fill="#7be0d6" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+      <g transform="translate(-0.5 -0.5)">
+         <switch>
+            <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+               <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 419px; margin-left: 714px;">
+                  <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                     <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; white-space: nowrap; ">
+                        Design von<br/>Datenabfragen
+                        <blockquote style="margin: 0 0 0 40px ; border: none ; padding: 0px"></blockquote>
+                     </div>
+                  </div>
+               </div>
+            </foreignObject>
+            <svg width="100%" height="100%">
+               <defs>
+                  <path id="QteeMe6EqBnUtwQs" d="M674.796875,418.1 h79.40625 M674.796875,432.5 h79.40625"/>
+                  <path id="wteeMe6EqBnUtwQt" d="M674.796875,418.1 h79.40625 M674.796875,432.5 h79.40625"/>
+               </defs>
+               <text fill="rgb(0, 0, 0)" font-size="12px" font-family="Helvetica" font-weight="400">
+                  <textPath xlink:href="#QteeMe6EqBnUtwQs">
+                     <tspan xml:space="preserve">Design von</tspan>
+                     <tspan xml:space="preserve"/>
+                     <tspan xml:space="preserve">Datenabfragen</tspan>
+                     <tspan xml:space="preserve" style="margin: 0 0 0 40px ; border: none ; padding: 0px"/>
+                  </textPath>
+               </text>
+               <text fill="rgb(0, 0, 0)" font-size="12px" font-family="Helvetica" font-weight="400">
+                  <textPath xlink:href="#wteeMe6EqBnUtwQt">
+                     <tspan xml:space="preserve">Design von</tspan>
+                     <tspan xml:space="preserve"/>
+                     <tspan xml:space="preserve">Datenabfragen</tspan>
+                     <tspan xml:space="preserve" style="margin: 0 0 0 40px ; border: none ; padding: 0px"/>
+                  </textPath>
+               </text>
+            </svg>
+         </switch>
+      </g>
+      <path d="M 795 402 L 906 402 L 906 402 L 937 438.5 L 906 475 L 906 475 L 795 475 L 825 438.5 Z" fill="#7be0d6" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+      <g transform="translate(-0.5 -0.5)">
+         <switch>
+            <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+               <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 439px; margin-left: 866px;">
+                  <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                     <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; white-space: nowrap; ">
+                        Auswertungen
+                        <blockquote style="margin: 0 0 0 40px ; border: none ; padding: 0px"></blockquote>
+                     </div>
+                  </div>
+               </div>
+            </foreignObject>
+            <svg width="100%" height="100%">
+               <defs>
+                  <path id="4teeMe6EqBnUtwQu" d="M828.140625,445.1 h76.71875"/>
+               </defs>
+               <text fill="rgb(0, 0, 0)" font-size="12px" font-family="Helvetica" font-weight="400">
+                  <textPath xlink:href="#4teeMe6EqBnUtwQu" startOffset="50%" text-anchor="middle">
+                     <tspan xml:space="preserve">Auswertungen</tspan>
+                     <tspan xml:space="preserve" style="margin: 0 0 0 40px ; border: none ; padding: 0px"/>
+                  </textPath>
+               </text>
+            </svg>
+         </switch>
+      </g>
+      <path d="M 911 402 L 998 402 L 998 402 L 1036 438.5 L 998 475 L 998 475 L 911 475 L 942.57 438.5 Z" fill="#7be0d6" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+      <g transform="translate(-0.5 -0.5)">
+         <switch>
+            <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+               <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 439px; margin-left: 974px;">
+                  <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                     <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; white-space: nowrap; ">
+                        Plotting
+                        <blockquote style="margin: 0 0 0 40px ; border: none ; padding: 0px"></blockquote>
+                     </div>
+                  </div>
+               </div>
+            </foreignObject>
+            <svg width="100%" height="100%">
+               <defs>
+                  <path id="kteeMe6EqBnUtwQv" d="M954.484375,445.1 h40.03125"/>
+               </defs>
+               <text fill="rgb(0, 0, 0)" font-size="12px" font-family="Helvetica" font-weight="400">
+                  <textPath xlink:href="#kteeMe6EqBnUtwQv" startOffset="50%" text-anchor="middle">
+                     <tspan xml:space="preserve">Plotting</tspan>
+                     <tspan xml:space="preserve" style="margin: 0 0 0 40px ; border: none ; padding: 0px"/>
+                  </textPath>
+               </text>
+            </svg>
+         </switch>
+      </g>
+      <path d="M 989 274 L 1106 274 L 1106 274 L 1106 336.5 L 1106 399 L 1106 399 L 989 399 L 1004 336.5 Z" fill="#7acff5" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+      <g transform="translate(-0.5 -0.5)">
+         <switch>
+            <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+               <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 337px; margin-left: 1048px;">
+                  <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                     <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; white-space: nowrap; ">
+                        Präsentation
+                        <blockquote style="margin: 0 0 0 40px ; border: none ; padding: 0px"></blockquote>
+                     </div>
+                  </div>
+               </div>
+            </foreignObject>
+            <svg width="100%" height="100%">
+               <defs>
+                  <path id="MteeMe6EqBnUtwQw" d="M1014.8125,343.1 h67.390625"/>
+               </defs>
+               <text fill="rgb(0, 0, 0)" font-size="12px" font-family="Helvetica" font-weight="400">
+                  <textPath xlink:href="#MteeMe6EqBnUtwQw" startOffset="50%" text-anchor="middle">
+                     <tspan xml:space="preserve">Präsentation</tspan>
+                     <tspan xml:space="preserve" style="margin: 0 0 0 40px ; border: none ; padding: 0px"/>
+                  </textPath>
+               </text>
+            </svg>
+         </switch>
+      </g>
+      <path d="M 1027.71 419 L 1077.96 419 L 1077.96 419 L 1106 438 L 1077.96 457 L 1077.96 457 L 1027.71 457 L 1044.83 438 Z" fill="#7be0d6" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+      <g transform="translate(-0.5 -0.5)">
+         <switch>
+            <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+               <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 438px; margin-left: 1067px;">
+                  <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                     <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; white-space: nowrap; ">
+                        ...
+                        <blockquote style="margin: 0 0 0 40px ; border: none ; padding: 0px"></blockquote>
+                     </div>
+                  </div>
+               </div>
+            </foreignObject>
+            <svg width="100%" height="100%">
+               <defs>
+                  <path id="steeMe6EqBnUtwQx" d="M1047.5,444.1 h40"/>
+               </defs>
+               <text fill="rgb(0, 0, 0)" font-size="12px" font-family="Helvetica" font-weight="400">
+                  <textPath xlink:href="#steeMe6EqBnUtwQx" startOffset="50%" text-anchor="middle">
+                     <tspan xml:space="preserve">...</tspan>
+                     <tspan xml:space="preserve" style="margin: 0 0 0 40px ; border: none ; padding: 0px"/>
+                  </textPath>
+               </text>
+            </svg>
+         </switch>
+      </g>
+      <path d="M 666 441 L 771.12 441 L 771.12 441 L 786 457.5 L 771.12 474 L 771.12 474 L 666 474 L 675.82 457.5 Z" fill="#7be0d6" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+      <g transform="translate(-0.5 -0.5)">
+         <switch>
+            <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+               <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 458px; margin-left: 726px;">
+                  <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                     <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; white-space: nowrap; ">
+                        Datenqualität II
+                        <blockquote style="margin: 0 0 0 40px ; border: none ; padding: 0px"></blockquote>
+                     </div>
+                  </div>
+               </div>
+            </foreignObject>
+            <svg width="100%" height="100%">
+               <defs>
+                  <path id="8teeMe6EqBnUtwQy" d="M686.140625,464.1 h80.71875"/>
+               </defs>
+               <text fill="rgb(0, 0, 0)" font-size="12px" font-family="Helvetica" font-weight="400">
+                  <textPath xlink:href="#8teeMe6EqBnUtwQy" startOffset="50%" text-anchor="middle">
+                     <tspan xml:space="preserve">Datenqualität II</tspan>
+                     <tspan xml:space="preserve" style="margin: 0 0 0 40px ; border: none ; padding: 0px"/>
+                  </textPath>
+               </text>
+            </svg>
+         </switch>
+      </g>
+      <path d="M 20 543 L 0 543 L 0 785 L 20 785" fill="#000000" stroke="#000000" stroke-miterlimit="10" transform="translate(2,3)" opacity="0.25"/>
+      <path d="M 20 543 L 0 543 L 0 785 L 20 785" fill="#cbf3f0" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+      <path d="M 20 543 L 1111 543 L 1111 785 L 20 785" fill="#000000" stroke="#000000" stroke-miterlimit="10" transform="translate(2,3)" opacity="0.25"/>
+      <path d="M 20 543 L 1111 543 L 1111 785 L 20 785" fill="#cbf3f0" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+      <path d="M 20 543 L 20 785" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+      <g transform="translate(-0.5 -0.5)rotate(-90 9.999999999999773 664)">
+         <switch>
+            <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+               <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 664px; margin-left: 10px;">
+                  <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                     <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; font-weight: bold; white-space: nowrap; ">Daten</div>
+                  </div>
+               </div>
+            </foreignObject>
+            <svg width="100%" height="100%">
+               <defs>
+                  <path id="CteeMe6EqBnUtwQz" d="M-6.171875,670.1 h33.34375"/>
+               </defs>
+               <text fill="rgb(0, 0, 0)" font-size="12px" font-family="Helvetica" font-weight="700">
+                  <textPath xlink:href="#CteeMe6EqBnUtwQz" startOffset="50%" text-anchor="middle">
+                     <tspan xml:space="preserve">Daten</tspan>
+                  </textPath>
+               </text>
+            </svg>
+         </switch>
+      </g>
+      <rect x="201" y="653" width="48" height="39.48" fill="none" stroke="none" pointer-events="all"/>
+      <ellipse cx="225" cy="665.34" rx="9.599999999999998" ry="12.337499999999999" fill="#ffffff" stroke="#000000" stroke-dasharray="2.3999999999999995 0.9599999999999999" pointer-events="all"/>
+      <ellipse cx="225" cy="685.08" rx="5.759999999999999" ry="7.4025" fill="#ffffff" stroke="#000000" stroke-dasharray="2.3999999999999995 0.9599999999999999" pointer-events="all"/>
+      <path d="M 201 685.08 L 219.24 685.08 M 234.6 665.34 L 249 665.34" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="2.3999999999999995 0.9599999999999999" pointer-events="all"/>
+      <rect x="196.5" y="668" width="23" height="11.04" fill="none" stroke="none" pointer-events="all"/>
+      <g transform="translate(-0.5 -0.5)">
+         <switch>
+            <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+               <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 21px; height: 1px; padding-top: 674px; margin-left: 198px;">
+                  <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                     <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; word-break: break-word; white-space: normal; word-wrap: normal; "><font style="font-size: 6px">disease</font></div>
+                  </div>
+               </div>
+            </foreignObject>
+            <svg width="100%" height="100%">
+               <defs>
+                  <path id="SteeMe6EqBnUtwQ0" d="M0 0"/>
+               </defs>
+               <text fill="rgb(0, 0, 0)" font-size="6px" font-family="Helvetica" font-weight="400">
+                  <textPath xlink:href="#SteeMe6EqBnUtwQ0" startOffset="50%" text-anchor="middle">
+                     <tspan xml:space="preserve">disease</tspan>
+                  </textPath>
+               </text>
+            </svg>
+         </switch>
+      </g>
+      <rect x="197.57" y="651.84" width="20.43" height="9.81" fill="none" stroke="none" pointer-events="all"/>
+      <g transform="translate(-0.5 -0.5)">
+         <switch>
+            <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+               <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 18px; height: 1px; padding-top: 657px; margin-left: 199px;">
+                  <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                     <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; word-break: break-word; white-space: normal; word-wrap: normal; "><font style="font-size: 6px">table</font></div>
+                  </div>
+               </div>
+            </foreignObject>
+            <svg width="100%" height="100%">
+               <defs>
+                  <path id="KteeMe6EqBnUtwQ1" d="M0 0"/>
+               </defs>
+               <text fill="rgb(0, 0, 0)" font-size="6px" font-family="Helvetica" font-weight="400">
+                  <textPath xlink:href="#KteeMe6EqBnUtwQ1" startOffset="50%" text-anchor="middle">
+                     <tspan xml:space="preserve">table</tspan>
+                  </textPath>
+               </text>
+            </svg>
+         </switch>
+      </g>
+      <rect x="198" y="639.58" width="51" height="14.42" fill="none" stroke="none" pointer-events="all"/>
+      <g transform="translate(-0.5 -0.5)">
+         <switch>
+            <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+               <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 49px; height: 1px; padding-top: 647px; margin-left: 199px;">
+                  <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                     <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; word-break: break-word; white-space: normal; word-wrap: normal; "><font style="font-size: 6px">+ dataset_origin</font></div>
+                  </div>
+               </div>
+            </foreignObject>
+            <svg width="100%" height="100%">
+               <defs>
+                  <path id="qteeMe6EqBnUtwQ2" d="M0 0"/>
+               </defs>
+               <text fill="rgb(0, 0, 0)" font-size="6px" font-family="Helvetica" font-weight="400">
+                  <textPath xlink:href="#qteeMe6EqBnUtwQ2" startOffset="50%" text-anchor="middle">
+                     <tspan xml:space="preserve">+ dataset_origin</tspan>
+                  </textPath>
+               </text>
+            </svg>
+         </switch>
+      </g>
+      <path d="M 446 566.38 L 375.52 566.38 L 375.52 587.19 L 311.18 587.19" fill="none" stroke="#333333" stroke-miterlimit="10" pointer-events="stroke"/>
+      <path d="M 305.93 587.19 L 312.93 583.69 L 311.18 587.19 L 312.93 590.69 Z" fill="#333333" stroke="#333333" stroke-miterlimit="10" pointer-events="all"/>
+      <path d="M 538.64 562.19 L 538.64 552.19 L 604.1 552.19 L 604.1 611.5 L 614.6 611.5 L 599.1 630.5 L 583.6 611.5 L 594.1 611.5 L 594.1 562.19 Z" fill-opacity="0.8" fill="#ff9f1c" stroke="#333333" stroke-opacity="0.8" stroke-miterlimit="1.42" pointer-events="all"/>
+      <path d="M 604.1 611.5 L 614.6 611.5 L 599.1 630.5 L 583.6 611.5 L 594.1 611.5" fill="none" stroke="#333333" stroke-opacity="0.8" stroke-miterlimit="4" pointer-events="all"/>
+      <rect x="446" y="548" width="92" height="36.77" rx="10" ry="10" fill="#f5b67a" stroke="#000000" pointer-events="all"/>
+      <rect x="446" y="548" width="92" height="36.77" rx="10" ry="10" fill="none" stroke="#000000" pointer-events="all"/>
+      <path d="M 446 575.38 L 538 575.38" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+      <path d="M 520 557 C 520 556 521 555 522 555 L 532 555 C 533 555 534 556 534 557 L 534 563 C 534 565 532 565 532 565 L 532 559 C 532 556.2 531 557 520 556.8" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+      <rect x="517" y="557" width="15" height="10" rx="2" ry="2" fill="none" stroke="#000000" pointer-events="all"/>
+      <path d="M 517 561 L 532 561" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+      <path d="M 532 559 L 534 559" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+      <g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="12px">
+         <text x="491.5" y="558.5">&lt;&lt;View&gt;&gt;</text>
+         <text x="491.5" y="572.5">   v_</text>
+      </g>
+      <path d="M 305.31 604.57 L 305.31 594.57 L 566 594.62 L 566 611.5 L 576.5 611.5 L 561 630.5 L 545.5 611.5 L 556 611.5 L 556 604.62 Z" fill-opacity="0.8" fill="#ff9f1c" stroke="#333333" stroke-opacity="0.8" stroke-miterlimit="1.42" pointer-events="all"/>
+      <path d="M 566 611.5 L 576.5 611.5 L 561 630.5 L 545.5 611.5 L 556 611.5" fill="none" stroke="#333333" stroke-opacity="0.8" stroke-miterlimit="4" pointer-events="all"/>
+      <path d="M 235 572.23 C 235 558.9 305 558.9 305 572.23 L 305 602.23 C 305 615.56 235 615.56 235 602.23 Z" fill="#ffffd9" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+      <path d="M 235 572.23 C 235 582.23 305 582.23 305 572.23 M 235 577.23 C 235 587.23 305 587.23 305 577.23 M 235 582.23 C 235 592.23 305 592.23 305 582.23" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+      <g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="12px">
+         <text x="269.5" y="602.23">:Memory:</text>
+      </g>
+      <path d="M 542 631 L 542 631 L 542 697 L 542 697" fill="#ffffff" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+      <path d="M 542 631 L 618 631 L 618 697 L 542 697" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+      <path d="M 542 631 L 542 697" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+      <path d="M 563.33 635.73 L 582 635.73 M 563.33 635 L 582 635 M 563.33 634.27 L 582 634.27 M 563.33 646 L 563.33 640.87 C 563.4 639.51 564.13 638.35 565.16 637.95 C 566.2 637.54 567.32 637.97 568 639.03 C 568.52 639.86 568.73 640.93 568.58 641.97 C 568.58 642.37 568.32 642.7 568 642.7 C 567.67 642.7 567.41 642.37 567.41 641.97 C 567.26 640.93 567.47 639.86 568 639.03 C 568.6 638.15 569.45 637.65 570.33 637.65 C 571.21 637.65 572.06 638.15 572.66 639.03 C 573.18 639.86 573.4 640.93 573.25 641.97 C 573.25 642.37 572.99 642.7 572.66 642.7 C 572.34 642.7 572.08 642.37 572.08 641.97 C 571.93 640.93 572.14 639.86 572.66 639.03 C 573.27 638.15 574.11 637.65 575 637.65 C 575.88 637.65 576.72 638.15 577.33 639.03 C 577.85 639.86 578.06 640.93 577.91 641.97 C 577.91 642.37 577.65 642.7 577.33 642.7 C 577.01 642.7 576.75 642.37 576.75 641.97 C 576.6 640.93 576.81 639.86 577.33 639.03 C 578.01 637.97 579.13 637.54 580.16 637.95 C 581.19 638.35 581.92 639.51 582 640.87 L 582 646 M 563.33 624 L 563.33 629.13 C 563.4 630.49 564.13 631.65 565.16 632.05 C 566.2 632.46 567.32 632.03 568 630.97 C 568.52 630.14 568.73 629.07 568.58 628.03 C 568.58 627.63 568.32 627.3 568 627.3 C 567.67 627.3 567.41 627.63 567.41 628.03 C 567.26 629.07 567.47 630.14 568 630.97 C 568.6 631.85 569.45 632.35 570.33 632.35 C 571.21 632.35 572.06 631.85 572.66 630.97 C 573.18 630.14 573.4 629.07 573.25 628.03 C 573.25 627.63 572.99 627.3 572.66 627.3 C 572.34 627.3 572.08 627.63 572.08 628.03 C 571.93 629.07 572.14 630.14 572.66 630.97 C 573.27 631.85 574.11 632.35 575 632.35 C 575.88 632.35 576.72 631.85 577.33 630.97 C 577.85 630.14 578.06 629.07 577.91 628.03 C 577.91 627.63 577.65 627.3 577.33 627.3 C 577.01 627.3 576.75 627.63 576.75 628.03 C 576.6 629.07 576.81 630.14 577.33 630.97 C 578.01 632.03 579.13 632.46 580.16 632.05 C 581.19 631.65 581.92 630.49 582 629.13 L 582 624" fill="none" stroke="#000000" stroke-miterlimit="10" transform="rotate(-90,572.66,646)" pointer-events="none"/>
+      <g transform="translate(-0.5 -0.5)">
+         <switch>
+            <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+               <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 31px; height: 1px; padding-top: 658px; margin-left: 585px;">
+                  <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                     <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; word-break: break-word; white-space: normal; word-wrap: normal; "><font style="font-size: 6px"><b>insert<br/> queue</b></font></div>
+                  </div>
+               </div>
+            </foreignObject>
+            <svg width="100%" height="100%">
+               <defs>
+                  <path id="2teeMe6EqBnUtwQ3" d="M591.65625,656.8 h17.671875 M591.65625,664 h17.671875"/>
+                  <path id="OteeMe6EqBnUtwQ4" d="M591.65625,656.8 h17.671875 M591.65625,664 h17.671875"/>
+               </defs>
+               <text fill="rgb(0, 0, 0)" font-size="6px" font-family="Helvetica" font-weight="700">
+                  <textPath xlink:href="#2teeMe6EqBnUtwQ3">
+                     <tspan xml:space="preserve">insert</tspan>
+                     <tspan xml:space="preserve"/>
+                     <tspan xml:space="preserve"> queue</tspan>
+                  </textPath>
+               </text>
+               <text fill="rgb(0, 0, 0)" font-size="6px" font-family="Helvetica" font-weight="700">
+                  <textPath xlink:href="#OteeMe6EqBnUtwQ4">
+                     <tspan xml:space="preserve">insert</tspan>
+                     <tspan xml:space="preserve"/>
+                     <tspan xml:space="preserve"> queue</tspan>
+                  </textPath>
+               </text>
+            </svg>
+         </switch>
+      </g>
+      <g transform="translate(-0.5 -0.5)">
+         <switch>
+            <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+               <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 38px; height: 1px; padding-top: 621px; margin-left: 561px;">
+                  <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                     <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; word-break: break-word; white-space: normal; word-wrap: normal; ">E</div>
+                  </div>
+               </div>
+            </foreignObject>
+            <svg width="100%" height="100%">
+               <defs>
+                  <path id="uteeMe6EqBnUtwQ5" d="M575.984375,627.1 h8.015625"/>
+               </defs>
+               <text fill="rgb(0, 0, 0)" font-size="12px" font-family="Helvetica" font-weight="400">
+                  <textPath xlink:href="#uteeMe6EqBnUtwQ5" startOffset="50%" text-anchor="middle">
+                     <tspan xml:space="preserve">E</tspan>
+                  </textPath>
+               </text>
+            </svg>
+         </switch>
+      </g>
+      <g transform="translate(-0.5 -0.5)">
+         <switch>
+            <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+               <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 37px; height: 1px; padding-top: 665px; margin-left: 562px;">
+                  <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                     <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; word-break: break-word; white-space: normal; word-wrap: normal; ">T</div>
+                  </div>
+               </div>
+            </foreignObject>
+            <svg width="100%" height="100%">
+               <defs>
+                  <path id=".teeMe6EqBnUtwQ6" d="M576.828125,671.1 h7.34375"/>
+               </defs>
+               <text fill="rgb(0, 0, 0)" font-size="12px" font-family="Helvetica" font-weight="400">
+                  <textPath xlink:href="#.teeMe6EqBnUtwQ6" startOffset="50%" text-anchor="middle">
+                     <tspan xml:space="preserve">T</tspan>
+                  </textPath>
+               </text>
+            </svg>
+         </switch>
+      </g>
+      <path d="M 618 543 L 618 543 L 618 631 L 618 631" fill="#ffffff" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+      <path d="M 618 543 L 1111 543 L 1111 631 L 618 631" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+      <path d="M 618 543 L 618 631" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+      <path d="M 698.14 609.1 L 743.52 609.1 L 743.52 599.62 L 782.73 599.58" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+      <path d="M 787.98 599.57 L 780.98 603.08 L 782.73 599.58 L 780.97 596.08 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+      <path d="M 638 586.95 C 638 573.62 698 573.62 698 586.95 L 698 609.81 C 698 623.14 638 623.14 638 609.81 Z" fill="#ffffd9" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+      <path d="M 638 586.95 C 638 596.95 698 596.95 698 586.95 M 638 591.95 C 638 601.95 698 601.95 698 591.95 M 638 596.95 C 638 606.95 698 606.95 698 596.95" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+      <g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="8px">
+         <text pointer-events="none" x="667.5" y="611.38">Google Drive</text>
+      </g>
+      <path d="M 698 573.67 L 743.52 573.67 L 743.52 584.52 L 782.63 584.52" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+      <path d="M 787.88 584.52 L 780.88 588.02 L 782.63 584.52 L 780.88 581.02 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+      <path d="M 638 562.23 C 638 548.9 698 548.9 698 562.23 L 698 585.09 C 698 598.43 638 598.43 638 585.09 Z" fill="#ffffd9" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+      <path d="M 638 562.23 C 638 572.23 698 572.23 698 562.23 M 638 567.23 C 638 577.23 698 577.23 698 567.23 M 638 572.23 C 638 582.23 698 582.23 698 572.23" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+      <g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="8px">
+         <text pointer-events="none" x="667.5" y="586.66">IMECOS_public</text>
+      </g>
+      <path d="M 849.1 584.33 L 868.52 584.29 L 868.52 584 L 881.63 584" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+      <path d="M 886.88 584 L 879.88 587.5 L 881.63 584 L 879.88 580.5 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+      <image x="788.5" y="554" width="60" height="60" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAYAAADDPmHLAAAQqklEQVR4Xu2dBdQ2RRXH/9hd2C1iomJii4mF3RgY2C32MbAVGxO7uxBFFMXA7u5AsbEDO87vZZZv3/12d+ZO7D7zvHvPec934NmZnbnz34l7//fODlpkS2tgh8p6v4ukK0s6yUi7/yPpa5I+Kul/lfVv8ubWAoATSHqxpLsYNPQZSTeW9EtDmS33aC0AeJykx0SMDrPAVSPKbZkiNQDg+JJ+I+k0kaNySUlfiiy79sVqAMBF3JoeOxj3kHRgbOF1L1cDAG4n6bUJA8He4Z4J5de6aA0AeIakfRNG4dOSLp9Qfq2L1gCAD0q6RsIo/FXSqST9N6GOtS1aAwCOlnT6xBG4oKTvJNaxlsVXHQBnl3RUBs3fWtKbM9SzdlXkBsAlJO0k6SeSPpdBW3tKOjhDPU+V9IgM9ews6WKSfivpk5L+laHOWavIBYBzuC+svdni7H1nSV9O6OGjJD0hoXxT9FBJ102o54ySni/pFq06mJluK+mIhHpnL5oDAOeU9GH35Xc7xBeCFY8vEBu9Vd4n6TrWQj3P88WeTdI/IurCnPwSSWfoKXuMpBtIOjyi3pUokgqAscFvd5Cj2N6Svmvo9YUlfV1SahubV95N0ksN7z+1pAMk3cFTpmoQpCg3dPAb/aGoh0l6QYCXjsF/g6RdDQPme5RZ4E6BewqOna+UxNIWItWCIBYA1sFvK/Ewtzf4aY9mGXisdvt4XL4hgzL0zEFuPf9QDxBPKml/SfeOmHmqBEEMAFIGvxmUP0jaT9Lb3bp8NUn3krR7ysgay2IXeJGkd0pi8Hj3kyWd31hP+/HqQGAFwCklfUHS+RKUtO5FAcEVE08/k+nICoCHSnraZK2r90XvlYQNY+XFCgCMMlV0bGbN/0USs+XKixUArJecixcZ18DvJO1Yg5KsAIBcwcZpkXENvFHSXjUoyQqAE0qCbInNf5F+DfzZ+QuOrEFBVgDQJyhan5d04ho6OEMb7yrpZTO8N+qVMQDgRctpoF/dh0i6ftRIzFQoFgDHk/Qxd96dqekr91o2fsyOv1i5lo00KBYAVHleSV+RdPKaOlywrVWSTlIAgC6x27+woFJrqRq2EQCoTlIBQIffL2mP6nqer8GEnhGzyBJQneQAALy9b0k6RXW9z9PgG0l6d56qpq8lBwBoNYwZjj9bTSC4XKDmTucCwFY9FlZ37OuCNRcAiL2DcjWlEPsPy4e4AehbZ5JEIOmUAqeAmINqJQcAOAb+zA1CSUVAKv24pHdJwt2KqbVNy8Y2AQigc+GwuvZE+5LLOfN4yb4XqzsHAKBvWciW1s7wpb9JEhTxHxoKEw4GB/EBkk5mKGd99DWO8GottxLP5wAADCFi8EsIUyzce94RK2d1AL1ebAWecn+XxEmI5ag6SQUA0y3BmyUE+wLGFfiDqcLyAJPpwakVDZQneCUmg0mh5oRXmwIAMnZ81UCdDm+V9FZJt4kMJhl7z4MkPdPSkMBn2YtcwXlJA4usxmNWAPAlQQi9iVtb2XTlFqZ7MoH9LXfFrj72K+xbcgvtJZaAP7KUxUQh5W6Tt74xAMCRJxDy4q2/ixZ2/jDd846+mAFvZwIfgNTyCUmXCXw+5rF/S/q2YwYTG8kfsZIrZy7uAuDmkm7qGD986VOfq4ngJY6wtEDb5kg5tQBsgEBQCtbTUrNccL8aADC1v35mjxbKIShjKqXMTXAl7pGAGDKgzSYNALDjg8g5hXP+kyZswJVWILSb5Fe+4NOiKmkAQHj33AkVYdN8o2hvN1fOrAd7h9j/uYSNIvEDsyWaaACAO3dOm/b3Zwo3g7xpST9bAihnlvSrEhWH1NkAgB3rnG7Nt0i6VUiDMz9DQCrh6nPKWebMZ7wqAHiOpAfOMAo4jdgMzikLABzN/OkzjMJuK+DJWwAg6SGSyAg6tVw6UzazlHYvAJD0bEnY6acW+HzwC+aUBQAuxdwctOpVoLWvBADmPgbORa0ik/jd5/z8Ja3EMZAwLzxwc8qFnANlqjZwAoLKxhdYQqCwfUDSF51zCwdRV7j7CD7l7IYgsmKRCXNOefjE6WcuK4n8hSWE5Fcca3PkOS7RvuPqbOwAeP04D5P1ci75sTNGTeVHJ5zrlgU6S/YzsqNWIW13MLZxHBOQPUgAEZokMWdHOQlwIigtcAFIdGElxPjaVV2M4JgCTtchgwAK/AVc4VZKIFYSZ1fSNs5sx21icAJyyj9dvmT2FdWI9QsgKwheO0gj2NFjb/IaUxBp2PGTo9AS8lxJ9ytQ8SsGHEtkGL/mALmGtPq0548F2hNUpRUA7UrJnk1+gBK76Fe7vL65b/7kyMfRL7dwHQ2nmG4ybCjtr/O8DHYQAJlFUgBAg+HaE6VTQtiU3l4Sd/6kCv2Etv1Yw7pP2DeXXlCWwSUhxpCw64dO1xWsjFgbfcKVOLPEFaQCgI5BDYfIWUKoGwshhqpYQbmktusboL46YfWyEYXZ25arO59F3/0FbCpJnNUVTjbkVvYJMwAzweSSAwClzakYVBgUvt6fGzQEq5mzOOFhhIn55PduDfe5h5n1IJI0S9/QFM4mOvSrJmClRLyCr89ZjkFQmhiY0gkisA+g7CY4tA8MKJ0v9YYuWxf/HSIMPl8hVrsQoV5S40BiudZAdBTtCP2q2Sew3E0uOWYAGj0HtQpAsE7/WtJp3RcZk7DKOvjtQSIl3NAeyBKFxHJDDMbkkgsATLNT8PlzK2hs8LEXQJRlExpjMobxy7W3IYIvgJnUagXlHiQCczFq8SGYJRcA2GSRR7gmYWCvMjDts5zxZfM78h6XAocZJ0Swqv5A0rlDHnbPsGTAzg4R6md/80R3s8qf3JJnDnbJAQDiA3HnkqWjJhm6VZzB57Yy4gbaQlgXxq+QCyg5cRDgapHQOwbOI+lVLXA27yBFPVfjmUCQAwBkyJrTiWRRcvMsIe1s3royNPjt52AwA4S+HT76hGbOMTJmUwy48MwOnR4I4HnWSN1mEKQCgFu4MIHWJlxoydGyLSGD3zzPUgCP8W2SSBDBJhRdYGlMuXOI+lmauDENujqWVuRSkh7vDG8+XZtAkAKAczkjUMgZ29foqX/H09mNQA612rXbig3/R85JBrkjtxAwwxiNWSH73gkI8NlgiBqVWABQjjMuTpvahODTbs6gE7kvOVYfq6gDZiNvvGdsh/Gm4cWqUXDc8LV2aVhz8yJz65J7nL3H1xgAEEJGjDum1lqFHT5JItoCJ/Ijkjhi1S7sb9jneMUKAIwjKA4+Xc3C5q19E3jTF4JT9q25Y27dxznH1TVesQKAI04116GM9B4HEy7e73WegfCCP4ArbGsU+BMYlJjJgsQKAPzesIHWQaCFsYntkk4wrbJ2kkuoNmFfRmLMYLECAGtVqYSLwY3O+OAQCRXySDXMXqcPQvzhbWKXCBYrAB45cRqX4I5EPoiyUBrKawvHQrKHhLqTI1+ftRgUd6v52cwHgARKyjOMQOsi0L5I8tiN3Ml1BwJLDKcm+IJwGLBDQCYhvSzvjTEZd3WP9RDmk+nrpxLrDECZnZ3Xig7ECg1+iqR3OBcobleYRYRrTyW4Xgnd4qvhr6s87Pmm9bTTcCyNpKelj0NMJjadpNvF/p+ytJJfEXO0WWIAkAoCjpF7O3dpt8Fw63C0wKYtsQnjazxcEqzjgyThRu0T9MIXC9itgoGJ6CCcNpYvkt07bvVYXwKu6yOsjY0FQAwI4PmzuSITCNa4MWEnTt7CXImrIH7gQoUS3qVu97WDuwYOtSrT5fy7mbtTMaL4RpwFqfF5v1Wi7itOAYAFBHi14Lx1mbZjnYQi1XjDrMpoPw93D9KlJQFljIsbxxCXR3Q3lNa2Y2zj/dYlgQ+MvVkoaWWjXakA8IEAg8v+bkqMifTBb88aGSu4UGETWwRCKcuDRZjR4AfGzBp978HD+qkIgxQeTWI7gyUHAHgZ7kqMRLu23gxLCHs0oV6xknIeJ+cBhh7fctO0bUfnz8fPbw1548SQO9FEbPg648AGO+iSjVwAQIk4UQi43EkSMW8MADNAisR8jc37huja/A6ZkvM/mdCbf6FaxegD3zuJtU1Tb6BS8Fmwp4gR9j0soRxBm2zleDw3HXdjOhzTmNgyRNV4SQ09lTMYXBXTNfNyrCMjec70sNw/UOrGtNxZzTn6chPLHSUBkCjExw5mbDn4cVaLHMehhtHbvJfliS8ht+xZMD6yVD7j43wGqz4DMFic263Mo75gTaZSptScwv6CYBTLed/6fviBXJ+TU9iswiCuYgbAoGJNI9sHgBiqtk/pLDUlwuPb7yXghsCbnMIysBHkWsMMQNoaLHcWmQoAbLBKXZnX9Pf+ksilnFOqAkCMQWgqAHDrR6nQ+GbAYSjlTqNbFQDIScRG0EI/nwoAtAsvXEkhbDx3Gt2qAIBy8apxQ3mo9AEAJhP/P7fghctxueVQu0rcbUTo24apuYY9AO2EoMEdvaGXShBkiXetLRh6sNNTV07ZSxKOmBKCu5hLpXJwBtrte7QLLK0GAE3jMY9C3x6LwsHShRn0sJ4R2cOFdLFxs9oWhgYYLkGJhJO8L2cOJtzU35R0sKO7bVgEa5kBSnxdhIe1L8Uk/i6G6YS5mzCsVC9gXx+J9I3JZ4h5mpxFzaWV/Mvgb5eTeCsDoE/hGEcOiCCC8FXht8gpMXcZYPpmeifvc1DuwQUA2w9ZLC38PhkvoGImgqtILkaLmC/eWADQr96YnEesqcwC7LBThFMFMQtW+wJfPF5OU17FBQD9Q8V+oC/vn29gWWPv6+4A8D3b9zt8QNLR4F62yvNiUuAuABhW82cTbhiH10cMBbkDQoSjKWRY2EtWMkpTf9TNqwsAhocHKhvsoFiBAkemMGjh5FLoywDGoLHZI+YSO0WsHB3LcVgAMKxyvuJQw5Nv4I5xLCmijZrAENbrXMQUlh6SdW2QPCyyAKBfW0zDBHPUlANhKOvZKB4WAPSrhwQL0KZqEhJFsqSwHATLAoDtVZVCRA1WfKEHZ6OFF+rP5NXi2sXHz3paqzBzBRNolhlg8zCn0LBXBTAYhCDRQM33ygKAbSoKud7Fq9AVeQAiLenvvVfuLAA4dsTQAwTPXMeyVcABoWqH+BqyAOBYDRGKjg29REi6bwxK/d6XDne7dy0A2KaSmIQQ5OmHB0BSxti4/iEAkOatIbVA4e5mNx0DzpGOrew1DC0A2KZGonDwApL02SckuSAcDJJFIwSvkOUE7iEh3rHCKYRE0VwjA7ED4TIJQtrgRfrqJpSOjCuAwCsLADaryAeCkCQXzAYkt7Da9nEnQ+bABzEU0UzdcCOHMpeYBp+uLwDY/hsZAgGRtgSpcJWdT3a3JGt0lYWmdyUUjSwrzDZtMQ/+AoDhYQQEUMNw0fJlEphB3h9LkgsAY7kIijB1S/AqBFcik4mgJuwbAmnQtN/u9jIDjH/LULIY9CB+XaeqAw1h43gIWeet+RQImsGreJQhEcamZi4A8E3m8b9bLtSE/7db/KviSy4AiNedryQbttD0OCWTTIy2cwGAbxjjf2ezRh7CkPsHSBRJNrPJZQFAWZVjJOKCDZ8Q/BE6W/jqMv2+AMCkLvPDxAxy+/mYcObnzsXG6GN+SUqBBQAp2vOXxSKHOZfd+pC8XNI+/qrKPLEAoIxe27Xu4nIcdUGAq5ZzO2FlobkMs7d2AUB2ldZV4QKAusYre2v/D8DJ4J9J8dqEAAAAAElFTkSuQmCC" preserveAspectRatio="none" pointer-events="none"/>
+      <image x="985.5" y="549.73" width="67" height="67" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAYAAADDPmHLAAALkUlEQVR4Xu2dBcw1RxWGn1KKW3EKJGhw1+JO0FLcgpMUd5egoUBwLQEKLbRQrDjBCS1S3K24u7vm+ZlJNtu939293+zu3d1zkpv//+6dHTnz7pmZM0f2ImjRHNhr0aOPwRMAWDgIAgABgIVzYOHDDwkQAFg4B6Y//DsCpwe+BnwE+EeXIYUE6MKt7St7BuBXlW79Bng68Bzgn226GwBow6XtLnND4PrA5YD9U1c/BBwA/HFd1wMA6zg0rd+vDRwKnBM4Grg58N+dhhAAmNYEt+nt2YGvAKdNAHhLnwC4NPAAwH/P1KZ3UaYYB/4FfBX4QFrzq5u/uyRJ8FHgan0B4L6p4RMXG1JUtCkHvgRcF/h5quCUwB9gj6b3NMCfVlW86RJwKeA4ICZ/0ykr/5xr/oGVar8IXAy4IPCN0gB4FXDn8mOIGnfJgfMDx6c63g+4KfRl/XxpAChyLpoqdS26Stp47LL/8XgHDija35EmOD92e+DIIQDwM+AsqaHvA+dK681JOwwgim7OAV86Py8E7lOp5kHAc8cCwGWBT20+pniyAweeCDwhANCBYzMrGgCY2YR2HU4AoCvHZlY+ADCzCe06nABAV47NrHwAYGYT2nU4AYAVHPNi5NO13zyeqhHrkzTKeA3w90ojp0raUv8tTQGABo6qGDk18LfabydLhhF93ls8Cji4oU91RU0pIAQAGjjp2+dkew/+uPT7k4HfJ1D0qaW8X1LK3CGpZj+c1LSC4hGlZr1STxsAqBX0vubKwJ9X9WHT28AmVfDYmsAMgHMAP0wD1jLmRwMC4HXAbYBnAQ9NUmEsALTCXQBgZzZ52aKB5X8qxTR8OQTYt/JdlgABgFaw66dQHxJAY8v3NnT3zbW79wAAMMclQCsb79VfD1wAeArwxvS5RUiA/3MgXwfPGQAaVFwCuBfw0gAALGUTmCVAAKC2Dg4NAHf1P6j1wTeyqmTpYw/QBwC0ptJgM9NJgMsAJ+qwNWpzDGxV3RROAWrZ9mtwddIMTbPnTFMAwJuAWzbMzGMBdRZtaVEA0MlB+8MzJttDNX4ezzRD++7EAPA84IHAhdKmUkn6CSDb8QcAGjiQAXANQJ83tVqK/ikDwNPEY4B3AjcOAOyM+wDACfmzyCWgpATQdPqoGl/PCzwzWTfnn0pvAvMSEBKg7WKX/A3cA5QEwPmAbzf0wSALetIEANZMUIljoBs4d/K/qLTlUeip6SIlf93HEnBu4HtJzXsKQFXu54AvAxcJAKx/PUsAIB+JvKf3GvffwF+B6wDvq3ShTwDoNKkj5TUBr3ADAOvnfk+JkgA4CHgJ8AXgkgGAVjMwi01glgABgIXqAQIAC9cDBAACAHv04rEExBIQm8AU06fVDhCITeAu7wKyHiCOgW0hVysXx0DYxCQsVMEVIMUmMDaBsQlc8nVwlgAnT948Bjf+9Q6aQE2njIqtjb73B6vsAbxPOHOSNJazvO5iVc+gvAewnOUNsmygxVWqYIMy75O8jFRXaxnctAToleR4tFkwTm/dMygvAdoz+LFfv1uqPcC3UnBjJz2Tk/GkZCyRv5OZ3gZ6eVOluwKvrH2nG9THat9dCTi29t3dGnbdAkoAeDeQyYupx9ccQwTDxwFDsmXSIUQ3rGq0Ti+ZtFzyniGTfdPXoBq4UWBpaWyf2tIsTgEO1kDGVa8bv9t7BRe8LKrSWOUEaZMtpeOoBma2TJOhZ33Mq8rtBIZJAeA7gIElW8Wvb/sKLKSc0uN6DWOdFACaxO1C5m/Xw3SPkuP/ViubFABuB7hGGlVca9igdhwwGHeObVB/YpIAyLFr2w0/Snma0FimKevH5AGgp8+7gbunTd9fgFcnp4mcd+DwlIcgm2hpEu4+Iq+JRsB2V+1pQPptkjQmUTJSiJuyV6Rjpcc+6e2Au3hPBpJmYJ5Gbp3+/inw1rQj99jpMc39y82As6YySjMlmZ5Jks4pevrcKP3tnueDaWxu8PzttYCS8HSpjKeXq1ZOEvLCU8PVK7ifNQCMb/vixCg3OlrpGujYI6DRPWSiVrrmw9F2XjI2sRNixA/Jc7hu2iZNcEL0438w8DLgnumo5kTfKYFLzyEDLHvcy+HTPTZ6pPtlAobBHJ4BvA24CWC2DdOuPDwlY/oJYEYOkzCYoUuyn37vcdVdv8fBw1I4ffP4aO10b+DZgFE7dA27eAKdXseSR08dX3S0zTRrAPjW+mZ5TvbN8U29B/BI4GkNlsAyJcf/yaeJGwDvSUGh9K3zzK6LlcGS3W8YMEr7Qq+c31BxKKlGEMmh1I0i4sTW/fx9c5UorscvSJbEWhRXPaHPlkzk9FjyaHqrpCjSxtA3OkcLyabgnwSumDSASiRJSSEABGIAIACwBwOzkwCue3ntNaqW4lXx6BLgG6roV3Q/BPgmcFPg8kmcyhDzEinGtRKWlBjHpLdNTaF1qWq1bsWw+wOPoO4Znp8kgJLCpSSLb9f2ryeLYNd4HTR9631rlUwuBYp/gz/ZP0W0mjz3JaqyJU3bdWBVi+im7f7J3NxlwP47bpcVpZLxBXQ1v23yc1ADKOmL4P5AP8FMLhPuQya/CawmMaiML/7bggMue1VX8vzIpE4B7ohd/0IT2GLGa0V0HG2KMjYpAHQfdjyxjgMBgHUcmvnvAYCZT/C64W0lAPI5el3n4/fdc0C1up+dkka1aqVEjCCPQB6t6vf6rToQhXbFAdXnajozVbOGtaq4BABs6F2AvvVBw3FA8zO1lN4Yjg6A4YYdLe3EgdEkQEzLdnAgALAd8zBaLwIAo7F+OxoOAGzHPIzWiwDAaKzfjoYDANsxD6P1IgAwGuu3o+EAwHbMw2i9CACMxvrtaHgwAPw4xfDfjmFHLzIHslFra45sehegxe21WrcSBYfigClytcBqTZsCoGuGi9YdioIbc0DjUU3em2wIV1a6KQC8gdK61VRqQdvBAS2qX961K5sCwHZMy6rJs84XQeNxwGATD0tBJjr3YjcAyI3pI6e9fQ7L0rkT8cBGHNATSbc4PY2qUVY6VVYCAJ0ajMLbxYG5AkD/wKqlTCmu64zalEu4VP2D1zNHAFy44j5WmqECoBodrHT9g9c3RwCoDNEXsA8yBoFevLMxgJ0jAI4GDuhj9lOduoZ/psf6B616bgDQP98dsRazfVEOItFX/YPWOzcAXKHmYt0HM01o1RS6rY+2eq9zbgB4dIoU0ifjDBW7b4pV0Gc7g9Q9NwAMdUmV08wNMkl9NjInAHjud5fex/m/PgfGOzBiyORpTgCoJ5zsc3IM5bJ/nw0MVfecAGB0MaOMDUEGrjZ0faer1yE61rWNOQHgOMC4fEORQaxymLeh2izezlwAYIQtz/9N4dmLMy1VqLbRyF+TprkA4MAUNXTIychJrYdss3hbcwFAPVJGcUatqDBHCR2qveLtzAUABqcw2OLQZADJI4ZutGR7cwCAsYmM9TsGHdox188YfdyxzTkAwOtZgy+PQSqe6gmpxujHxm3OAQAbDz4ebM5+NQZfXEsNpLw0MtD0qLQtEiDnCRiVGSM0Pjr/R+9AYrpvf1NQ5BHmZNAmzV4yKm0LAEZlwpIbDwAsefZXpEBdOEuWNfyQAMua7xOMtgsA9gNelOzhFs62xuHrK+ANoWbpk6EuADBXnqnQujwzGUYU6ughwEGF6hqkmq6T6e1Xnzb3gwy6p0aUAMdPzWuoKwB64l1UOxYH1gHA382Dl3Pv9tFP8/ea+KAUKaXMB6iX0JTJfMrmU8x5A/dJWUm1RayTNormODR4VydaB4BV+es7NbKmsAN1WTHgQQkyJ/Fc7hVyjmX5YlAu/R5W0UZX0+sAYGNeWPSpsjTKxWdLzHyq4zwp0+ccJIA5lXP0D/0djANk9vMmCWBWczOhd6I2AOhUYRSeFgcCANOar+K9DQAUZ+m0KgwATGu+ivc2AFCcpdOqMAAwrfkq3tv/AXZ5HsynswFWAAAAAElFTkSuQmCC" preserveAspectRatio="none" pointer-events="none"/>
+      <path d="M 942.9 583.86 L 964.52 583.9 L 964.52 583.71 L 979.63 583.71" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+      <path d="M 984.88 583.71 L 977.88 587.21 L 979.63 583.71 L 977.88 580.21 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+      <image x="887.5" y="556" width="55" height="55" xlink:href="data:image/png;base64,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" preserveAspectRatio="none" pointer-events="none"/>
+      <g transform="translate(-0.5 -0.5)rotate(-90 55 741)">
+         <switch>
+            <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+               <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 64px; height: 1px; padding-top: 741px; margin-left: 23px;">
+                  <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                     <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; word-break: break-word; white-space: normal; word-wrap: normal; ">Google Drive</div>
+                  </div>
+               </div>
+            </foreignObject>
+            <svg width="100%" height="100%">
+               <defs>
+                  <path id="xteeMe6EqBnUtwQ7" d="M23,740.1 h64 M23,754.5 h64"/>
+               </defs>
+               <text fill="rgb(0, 0, 0)" font-size="12px" font-family="Helvetica" font-weight="400">
+                  <textPath xlink:href="#xteeMe6EqBnUtwQ7">
+                     <tspan xml:space="preserve">Google Drive</tspan>
+                  </textPath>
+               </text>
+            </svg>
+         </switch>
+      </g>
+      <path d="M 617.22 673.14 L 617.21 663.14 L 677.9 663.1 L 677.9 639.55 L 667.4 639.55 L 682.9 620.55 L 698.4 639.55 L 687.9 639.55 L 687.9 673.09 Z" fill="#ff9f1c" stroke="#333333" stroke-miterlimit="1.42" pointer-events="none"/>
+      <path d="M 677.9 639.55 L 667.4 639.55 L 682.9 620.55 L 698.4 639.55 L 687.9 639.55" fill="none" stroke="#333333" stroke-miterlimit="4" pointer-events="none"/>
+      <g transform="translate(-0.5 -0.5)">
+         <switch>
+            <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+               <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 666px; margin-left: 637px;">
+                  <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                     <div style="display: inline-block; font-size: 8px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; background-color: #ffffff; white-space: nowrap; "><font style="font-size: 12px">L</font></div>
+                  </div>
+               </div>
+            </foreignObject>
+            <svg width="100%" height="100%">
+               <defs>
+                  <path id="pteeMe6EqBnUtwQ8" d="M634.15625,672.1 h6.6875"/>
+               </defs>
+               <text fill="rgb(0, 0, 0)" font-size="12px" font-family="Helvetica" font-weight="400">
+                  <textPath xlink:href="#pteeMe6EqBnUtwQ8" startOffset="50%" text-anchor="middle">
+                     <tspan xml:space="preserve">L</tspan>
+                  </textPath>
+               </text>
+            </svg>
+         </switch>
+      </g>
+      <path d="M 103.93 724.1 L 101.99 727.43 C 101.68 727.96 101.12 728.28 100.5 728.28 L 89.78 728.28 C 89.28 728.28 88.97 727.75 89.22 727.32 L 91.16 723.99 C 91.47 723.46 92.04 723.14 92.65 723.13 L 103.37 723.13 C 103.87 723.13 104.18 723.67 103.93 724.1 Z M 92.65 722.28 L 101.44 722.28 L 101.44 720.99 C 101.44 720.28 100.87 719.7 100.16 719.7 L 95.87 719.7 L 94.15 717.99 L 89.86 717.99 C 89.15 717.99 88.57 718.56 88.57 719.27 L 88.57 726.73 L 90.42 723.55 C 90.88 722.77 91.73 722.28 92.65 722.28 Z" fill="#000000" stroke="none" pointer-events="none"/>
+      <path d="M 114.18 728.7 L 110.04 728.7 L 108.66 727.32 L 105.21 727.32 C 104.64 727.32 104.18 727.79 104.18 728.36 L 104.18 734.56 C 104.18 735.13 104.64 735.6 105.21 735.6 L 114.18 735.6 C 114.75 735.6 115.21 735.13 115.21 734.56 L 115.21 729.74 C 115.21 729.17 114.75 728.7 114.18 728.7 Z" fill="#000000" stroke="none" pointer-events="none"/>
+      <path d="M 88.27 707.2 L 85.96 711.16 C 85.6 711.79 84.92 712.17 84.2 712.17 L 71.43 712.17 C 70.84 712.17 70.47 711.53 70.77 711.02 L 73.08 707.06 C 73.45 706.43 74.12 706.05 74.85 706.05 L 87.61 706.05 C 88.2 706.05 88.57 706.69 88.27 707.2 Z M 74.85 705.03 L 85.32 705.03 L 85.32 703.49 C 85.32 702.65 84.63 701.96 83.78 701.96 L 78.68 701.96 L 76.63 699.92 L 71.53 699.92 C 70.68 699.92 70 700.61 70 701.45 L 70 710.32 L 72.2 706.55 C 72.75 705.61 73.76 705.03 74.85 705.03 Z" fill="#000000" stroke="none" pointer-events="none"/>
+      <path d="M 90.18 739.74 L 86.04 739.74 L 84.66 738.36 L 81.22 738.36 C 80.64 738.36 80.18 738.82 80.18 739.4 L 80.18 745.6 C 80.18 746.17 80.64 746.63 81.22 746.63 L 90.18 746.63 C 90.75 746.63 91.21 746.17 91.21 745.6 L 91.21 740.77 C 91.21 740.2 90.75 739.74 90.18 739.74 Z" fill="#000000" stroke="none" pointer-events="none"/>
+      <path d="M 103.93 755.75 L 101.99 759.08 C 101.68 759.6 101.12 759.93 100.51 759.93 L 89.78 759.93 C 89.28 759.93 88.97 759.39 89.22 758.96 L 91.17 755.63 C 91.47 755.1 92.04 754.78 92.65 754.78 L 103.38 754.78 C 103.87 754.78 104.18 755.32 103.93 755.75 Z M 92.65 753.92 L 101.45 753.92 L 101.45 752.63 C 101.45 751.92 100.87 751.35 100.16 751.35 L 95.87 751.35 L 94.15 749.63 L 89.86 749.63 C 89.15 749.63 88.57 750.21 88.57 750.92 L 88.57 758.37 L 90.43 755.2 C 90.89 754.41 91.74 753.92 92.65 753.92 Z" fill="#000000" stroke="none" pointer-events="none"/>
+      <path d="M 114.18 760.35 L 110.04 760.35 L 108.66 758.97 L 105.22 758.97 C 104.65 758.97 104.18 759.43 104.18 760 L 104.18 766.21 C 104.18 766.78 104.65 767.24 105.22 767.24 L 114.18 767.24 C 114.75 767.24 115.21 766.78 115.21 766.21 L 115.21 761.38 C 115.21 760.81 114.75 760.35 114.18 760.35 Z" fill="#000000" stroke="none" pointer-events="none"/>
+      <path d="M 114.18 771.38 L 110.04 771.38 L 108.67 770.01 L 105.22 770.01 C 104.65 770.01 104.18 770.47 104.18 771.04 L 104.18 777.24 C 104.18 777.82 104.65 778.28 105.22 778.28 L 114.18 778.28 C 114.75 778.28 115.21 777.82 115.21 777.24 L 115.21 772.42 C 115.21 771.85 114.75 771.38 114.18 771.38 Z" fill="#000000" stroke="none" pointer-events="none"/>
+      <path d="M 177.69 746 L 177.69 736 L 209.81 736 L 209.81 716.69 L 199.31 716.69 L 214.81 697.69 L 230.31 716.69 L 219.81 716.69 L 219.81 746 Z" fill="#ff9f1c" stroke="#333333" stroke-miterlimit="1.42" pointer-events="none"/>
+      <path d="M 209.81 716.69 L 199.31 716.69 L 214.81 697.69 L 230.31 716.69 L 219.81 716.69" fill="none" stroke="#333333" stroke-miterlimit="4" pointer-events="none"/>
+      <path d="M 40 697 L 20 697 L 20 784.54 L 40 784.54" fill="#feffff" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+      <path d="M 40 697 L 177 697 L 177 784.54 L 40 784.54" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+      <path d="M 40 697 L 40 784.54" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+      <g transform="translate(-0.5 -0.5)rotate(-90 30 740.77)">
+         <switch>
+            <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+               <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 741px; margin-left: 30px;">
+                  <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                     <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; font-weight: bold; white-space: nowrap; "><font style="font-size: 11px">.csv</font></div>
+                  </div>
+               </div>
+            </foreignObject>
+            <svg width="100%" height="100%">
+               <defs>
+                  <path id="VteeMe6EqBnUtwQ9" d="M19.796875,746.7 h21.421875"/>
+               </defs>
+               <text fill="rgb(0, 0, 0)" font-size="11px" font-family="Helvetica" font-weight="700">
+                  <textPath xlink:href="#VteeMe6EqBnUtwQ9" startOffset="50%" text-anchor="middle">
+                     <tspan xml:space="preserve">.csv</tspan>
+                  </textPath>
+               </text>
+            </svg>
+         </switch>
+      </g>
+      <rect x="88.57" y="698" width="47" height="14.76" fill="none" stroke="none" transform="translate(2,3)" opacity="0.25"/>
+      <g transform="translate(-0.5 -0.5)">
+         <switch>
+            <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+               <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 45px; height: 1px; padding-top: 705px; margin-left: 90px;">
+                  <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                     <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; word-break: break-word; white-space: normal; word-wrap: normal; "><font style="font-size: 10px"><a href="https://drive.google.com/drive/folders/18ORGCmcBb2KDfpRzGVuBupcFR3Sm6LWw">csv_data</a></font></div>
+                  </div>
+               </div>
+            </foreignObject>
+            <svg width="100%" height="100%">
+               <defs>
+                  <path id="1teeMe6EqBnUtwQ." d="M92.484375,711 h40.03125"/>
+               </defs>
+               <text fill="rgb(0, 123, 255)" font-size="10px" font-family="Helvetica" font-weight="400">
+                  <textPath xlink:href="#1teeMe6EqBnUtwQ." startOffset="50%" text-anchor="middle">
+                     <tspan xml:space="preserve">csv_data</tspan>
+                  </textPath>
+               </text>
+            </svg>
+         </switch>
+      </g>
+      <rect x="121" y="750.66" width="51" height="20" fill="none" stroke="none" transform="translate(2,3)" opacity="0.25"/>
+      <g transform="translate(-0.5 -0.5)">
+         <switch>
+            <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+               <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 49px; height: 1px; padding-top: 761px; margin-left: 122px;">
+                  <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                     <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; word-break: break-word; white-space: normal; word-wrap: normal; "><font style="font-size: 8px">-     careplans</font></div>
+                  </div>
+               </div>
+            </foreignObject>
+            <svg width="100%" height="100%">
+               <defs>
+                  <path id="tteeMe6EqBnUtwQ_" d="M122.265625,766.9 h48.46875"/>
+               </defs>
+               <text fill="rgb(0, 0, 0)" font-size="8px" font-family="Helvetica" font-weight="400">
+                  <textPath xlink:href="#tteeMe6EqBnUtwQ_" startOffset="50%" text-anchor="middle">
+                     <tspan xml:space="preserve">-     careplans</tspan>
+                  </textPath>
+               </text>
+            </svg>
+         </switch>
+      </g>
+      <rect x="120" y="761.66" width="54" height="20" fill="none" stroke="none" transform="translate(2,3)" opacity="0.25"/>
+      <g transform="translate(-0.5 -0.5)">
+         <switch>
+            <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+               <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 52px; height: 1px; padding-top: 772px; margin-left: 121px;">
+                  <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                     <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; word-break: break-word; white-space: normal; word-wrap: normal; "><font style="font-size: 8px">-     conditions</font></div>
+                  </div>
+               </div>
+            </foreignObject>
+            <svg width="100%" height="100%">
+               <defs>
+                  <path id="9teeMe6EqBnUtwRA" d="M122.09375,777.9 h49.8125"/>
+               </defs>
+               <text fill="rgb(0, 0, 0)" font-size="8px" font-family="Helvetica" font-weight="400">
+                  <textPath xlink:href="#9teeMe6EqBnUtwRA" startOffset="50%" text-anchor="middle">
+                     <tspan xml:space="preserve">-     conditions</tspan>
+                  </textPath>
+               </text>
+            </svg>
+         </switch>
+      </g>
+      <rect x="103.57" y="707.76" width="48" height="20" fill="none" stroke="none" transform="translate(2,3)" opacity="0.25"/>
+      <g transform="translate(-0.5 -0.5)">
+         <switch>
+            <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+               <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 46px; height: 1px; padding-top: 718px; margin-left: 105px;">
+                  <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                     <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; word-break: break-word; white-space: normal; word-wrap: normal; "><font style="font-size: 8px">-     allergy</font></div>
+                  </div>
+               </div>
+            </foreignObject>
+            <svg width="100%" height="100%">
+               <defs>
+                  <path id="DteeMe6EqBnUtwRB" d="M109.328125,723.9 h37.34375"/>
+               </defs>
+               <text fill="rgb(0, 0, 0)" font-size="8px" font-family="Helvetica" font-weight="400">
+                  <textPath xlink:href="#DteeMe6EqBnUtwRB" startOffset="50%" text-anchor="middle">
+                     <tspan xml:space="preserve">-     allergy</tspan>
+                  </textPath>
+               </text>
+            </svg>
+         </switch>
+      </g>
+      <rect x="119" y="729.76" width="54" height="20" fill="none" stroke="none" transform="translate(2,3)" opacity="0.25"/>
+      <g transform="translate(-0.5 -0.5)">
+         <switch>
+            <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+               <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 52px; height: 1px; padding-top: 740px; margin-left: 120px;">
+                  <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                     <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; word-break: break-word; white-space: normal; word-wrap: normal; "><font style="font-size: 8px">-     conditions</font></div>
+                  </div>
+               </div>
+            </foreignObject>
+            <svg width="100%" height="100%">
+               <defs>
+                  <path id="TteeMe6EqBnUtwRC" d="M121.09375,745.9 h49.8125"/>
+               </defs>
+               <text fill="rgb(0, 0, 0)" font-size="8px" font-family="Helvetica" font-weight="400">
+                  <textPath xlink:href="#TteeMe6EqBnUtwRC" startOffset="50%" text-anchor="middle">
+                     <tspan xml:space="preserve">-     conditions</tspan>
+                  </textPath>
+               </text>
+            </svg>
+         </switch>
+      </g>
+      <rect x="120" y="718.76" width="51" height="20" fill="none" stroke="none" transform="translate(2,3)" opacity="0.25"/>
+      <g transform="translate(-0.5 -0.5)">
+         <switch>
+            <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+               <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 49px; height: 1px; padding-top: 729px; margin-left: 121px;">
+                  <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                     <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; word-break: break-word; white-space: normal; word-wrap: normal; "><font style="font-size: 8px">-     careplans</font></div>
+                  </div>
+               </div>
+            </foreignObject>
+            <svg width="100%" height="100%">
+               <defs>
+                  <path id="zteeMe6EqBnUtwRD" d="M121.265625,734.9 h48.46875"/>
+               </defs>
+               <text fill="rgb(0, 0, 0)" font-size="8px" font-family="Helvetica" font-weight="400">
+                  <textPath xlink:href="#zteeMe6EqBnUtwRD" startOffset="50%" text-anchor="middle">
+                     <tspan xml:space="preserve">-     careplans</tspan>
+                  </textPath>
+               </text>
+            </svg>
+         </switch>
+      </g>
+      <rect x="106" y="740.76" width="48" height="20" fill="none" stroke="none" transform="translate(2,3)" opacity="0.25"/>
+      <g transform="translate(-0.5 -0.5)">
+         <switch>
+            <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+               <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 46px; height: 1px; padding-top: 751px; margin-left: 107px;">
+                  <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                     <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; word-break: break-word; white-space: normal; word-wrap: normal; "><font style="font-size: 8px">-     asthma</font></div>
+                  </div>
+               </div>
+            </foreignObject>
+            <svg width="100%" height="100%">
+               <defs>
+                  <path id="LteeMe6EqBnUtwRE" d="M109.984375,756.9 h40.015625"/>
+               </defs>
+               <text fill="rgb(0, 0, 0)" font-size="8px" font-family="Helvetica" font-weight="400">
+                  <textPath xlink:href="#LteeMe6EqBnUtwRE" startOffset="50%" text-anchor="middle">
+                     <tspan xml:space="preserve">-     asthma</tspan>
+                  </textPath>
+               </text>
+            </svg>
+         </switch>
+      </g>
+      <path d="M 122 543.46 L 102 543.46 L 102 631 L 122 631" fill="url(#mx-gradient-ffffff-1-ffffff-1-s-0)" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+      <path d="M 122 543.46 L 542 543.46 L 542 631 L 122 631" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+      <path d="M 122 543.46 L 122 631" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+      <g transform="translate(-0.5 -0.5)rotate(-90 112 587.23)">
+         <switch>
+            <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+               <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 587px; margin-left: 112px;">
+                  <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                     <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; font-weight: bold; white-space: nowrap; "><font style="font-size: 11px">SQLite3</font></div>
+                  </div>
+               </div>
+            </foreignObject>
+            <svg width="100%" height="100%">
+               <defs>
+                  <path id="bteeMe6EqBnUtwRF" d="M91.71875,592.7 h41.578125"/>
+               </defs>
+               <text fill="rgb(0, 0, 0)" font-size="11px" font-family="Helvetica" font-weight="700">
+                  <textPath xlink:href="#bteeMe6EqBnUtwRF" startOffset="50%" text-anchor="middle">
+                     <tspan xml:space="preserve">SQLite3</tspan>
+                  </textPath>
+               </text>
+            </svg>
+         </switch>
+      </g>
+      <path d="M 253.4 668.86 L 253.41 658.86 L 282.71 658.9 L 282.68 631.93 L 272.18 631.94 L 287.67 612.93 L 303.18 631.91 L 292.68 631.92 L 292.72 668.91 Z" fill="#ff9f1c" stroke="#333333" stroke-miterlimit="1.42" pointer-events="none"/>
+      <path d="M 282.68 631.93 L 272.18 631.94 L 287.67 612.93 L 303.18 631.91 L 292.68 631.92" fill="none" stroke="#333333" stroke-miterlimit="4" pointer-events="none"/>
+      <path d="M 197 631 L 177 631 L 177 697 L 197 697" fill="#ffffff" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+      <path d="M 197 631 L 253 631 L 253 697 L 197 697" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+      <path d="M 197 631 L 197 697" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+      <g transform="translate(-0.5 -0.5)rotate(-90 186.9999999999999 664)">
+         <switch>
+            <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+               <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 664px; margin-left: 187px;">
+                  <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                     <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; font-weight: bold; white-space: nowrap; "><font style="font-size: 11px">Pandas Df</font></div>
+                  </div>
+               </div>
+            </foreignObject>
+            <svg width="100%" height="100%">
+               <defs>
+                  <path id="HteeMe6EqBnUtwRG" d="M160.609375,669.7 h53.796875"/>
+               </defs>
+               <text fill="rgb(0, 0, 0)" font-size="11px" font-family="Helvetica" font-weight="700">
+                  <textPath xlink:href="#HteeMe6EqBnUtwRG" startOffset="50%" text-anchor="middle">
+                     <tspan xml:space="preserve">Pandas Df</tspan>
+                  </textPath>
+               </text>
+            </svg>
+         </switch>
+      </g>
+      <rect x="28.5" y="142" width="140" height="90" fill="#000000" stroke="#000000" transform="translate(2,3)" opacity="0.25"/>
+      <rect x="28.5" y="142" width="140" height="90" fill="#ffe4c2" stroke="#000000" pointer-events="none"/>
+      <g transform="translate(-0.5 -0.5)">
+         <switch>
+            <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+               <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 138px; height: 1px; padding-top: 187px; margin-left: 30px;">
+                  <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                     <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; word-break: break-word; white-space: normal; word-wrap: normal; ">
+                        <font style="font-size: 11px"><a href="https://github.com/Fuenfgeld/ATeamDatenmanagementUndArchivierung/wiki/Quelldatenmodell#architektur-der-synthea-csv-files">Wiki / Quelldatenmodell</a></font>
+                        <hr id="null" />
+                        <font style="font-size: 11px"><a href="https://github.com/Fuenfgeld/ATeamDatenmanagementUndArchivierung/wiki/Quelldatenmodell#architektur-der-synthea-csv-files">Architektur der 'Synthea' *.csv files</a></font>
+                     </div>
+                  </div>
+               </div>
+            </foreignObject>
+            <svg width="100%" height="100%">
+               <defs>
+                  <path id="XteeMe6EqBnUtwRH" d="M41.21875,162.2 h115.5625"/>
+                  <path id="XteeMe6EqBnUtwRI" d="M39.421875,209.2 h119.15625 M39.421875,222 h119.15625"/>
+               </defs>
+               <text fill="rgb(0, 123, 255)" font-size="11px" font-family="Helvetica" font-weight="400">
+                  <textPath xlink:href="#XteeMe6EqBnUtwRH" startOffset="50%" text-anchor="middle">
+                     <tspan xml:space="preserve">Wiki / Quelldatenmodell</tspan>
+                  </textPath>
+               </text>
+               <text fill="rgb(0, 123, 255)" font-size="11px" font-family="Helvetica" font-weight="400">
+                  <textPath xlink:href="#XteeMe6EqBnUtwRI">
+                     <tspan xml:space="preserve">Architektur der 'Synthea' *.csv files</tspan>
+                  </textPath>
+               </text>
+            </svg>
+         </switch>
+      </g>
+      <path d="M 55 501 L 161 501 L 161 501 L 186 520 L 161 539 L 161 539 L 55 539 L 55 520 Z" fill="#e3e27d" stroke="#333333" stroke-miterlimit="10" pointer-events="none"/>
+      <g transform="translate(-0.5 -0.5)">
+         <switch>
+            <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+               <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 1px; height: 1px; padding-top: 520px; margin-left: 57px;">
+                  <div style="box-sizing: border-box; font-size: 0; text-align: left; ">
+                     <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; white-space: nowrap; "><a href="https://github.com/Fuenfgeld/ATeamDatenmanagementUndArchivierung/blob/main/tools/create_statements_source_db.sql">create_source_db.sql</a></div>
+                  </div>
+               </div>
+            </foreignObject>
+            <svg width="100%" height="100%">
+               <defs>
+                  <path id="PteeMe6EqBnUtwRJ" d="M57,526.1 h114.75"/>
+               </defs>
+               <text fill="rgb(0, 123, 255)" font-size="12px" font-family="Helvetica" font-weight="400">
+                  <textPath xlink:href="#PteeMe6EqBnUtwRJ">
+                     <tspan xml:space="preserve">create_source_db.sql</tspan>
+                  </textPath>
+               </text>
+            </svg>
+         </switch>
+      </g>
+      <path d="M 169 501 L 261.83 501 L 261.83 501 L 290 520 L 261.83 539 L 261.83 539 L 169 539 L 193.5 520 Z" fill="#ff9f1c" stroke="#333333" stroke-miterlimit="10" pointer-events="none"/>
+      <g transform="translate(-0.5 -0.5)">
+         <switch>
+            <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+               <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 520px; margin-left: 230px;">
+                  <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                     <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; white-space: nowrap; "><a href="https://github.com/Fuenfgeld/ATeamDatenmanagementUndArchivierung/blob/main/src/source_database_implementation.py">source_db.py</a></div>
+                  </div>
+               </div>
+            </foreignObject>
+            <svg width="100%" height="100%">
+               <defs>
+                  <path id="fteeMe6EqBnUtwRK" d="M194.484375,526.1 h72.046875"/>
+               </defs>
+               <text fill="rgb(0, 123, 255)" font-size="12px" font-family="Helvetica" font-weight="400">
+                  <textPath xlink:href="#fteeMe6EqBnUtwRK" startOffset="50%" text-anchor="middle">
+                     <tspan xml:space="preserve">source_db.py</tspan>
+                  </textPath>
+               </text>
+            </svg>
+         </switch>
+      </g>
+      <g transform="translate(-0.5 -0.5)">
+         <switch>
+            <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+               <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 52px; height: 1px; padding-top: 640px; margin-left: 199px;">
+                  <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                     <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; word-break: break-word; white-space: normal; word-wrap: normal; "><font style="font-size: 6px"><b>actual_insert_df</b></font></div>
+                  </div>
+               </div>
+            </foreignObject>
+            <svg width="100%" height="100%">
+               <defs>
+                  <path id="_teeMe6EqBnUtwRL" d="M0 0"/>
+               </defs>
+               <text fill="rgb(0, 0, 0)" font-size="6px" font-family="Helvetica" font-weight="700">
+                  <textPath xlink:href="#_teeMe6EqBnUtwRL" startOffset="50%" text-anchor="middle">
+                     <tspan xml:space="preserve">actual_insert_df</tspan>
+                  </textPath>
+               </text>
+            </svg>
+         </switch>
+      </g>
+      <path d="M 243.86 99.1 L 243.86 135.58" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+      <path d="M 243.86 140.83 L 240.36 133.83 L 243.86 135.58 L 247.36 133.83 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+      <rect x="318" y="9" width="413" height="44" fill="#000000" stroke="#000000" transform="translate(2,3)" opacity="0.25"/>
+      <rect x="318" y="9" width="413" height="44" fill="#ffe4c2" stroke="#000000" pointer-events="none"/>
+      <g transform="translate(-0.5 -0.5)">
+         <switch>
+            <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+               <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 411px; height: 1px; padding-top: 31px; margin-left: 319px;">
+                  <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                     <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; word-break: break-word; white-space: normal; word-wrap: normal; "><a href="https://github.com/Fuenfgeld/ATeamDatenmanagementUndArchivierung/wiki/Datenmanagementplan#33-datendokumentation-und-metadaten-erstellen">Datenmanagementplan<br/> Sektion 3.3</a></div>
+                  </div>
+               </div>
+            </foreignObject>
+            <svg width="100%" height="100%">
+               <defs>
+                  <path id="gdeeMe6EqBnUtwRM" d="M462.109375,30.1 h124.765625 M462.109375,44.5 h124.765625"/>
+                  <path id="gdeeMe6EqBnUtwRN" d="M462.109375,30.1 h124.765625 M462.109375,44.5 h124.765625"/>
+               </defs>
+               <text fill="rgb(0, 123, 255)" font-size="12px" font-family="Helvetica" font-weight="400">
+                  <textPath xlink:href="#gdeeMe6EqBnUtwRM">
+                     <tspan xml:space="preserve">Datenmanagementplan</tspan>
+                     <tspan xml:space="preserve"/>
+                     <tspan xml:space="preserve"> Sektion 3.3</tspan>
+                  </textPath>
+               </text>
+               <text fill="rgb(0, 123, 255)" font-size="12px" font-family="Helvetica" font-weight="400">
+                  <textPath xlink:href="#gdeeMe6EqBnUtwRN">
+                     <tspan xml:space="preserve">Datenmanagementplan</tspan>
+                     <tspan xml:space="preserve"/>
+                     <tspan xml:space="preserve"> Sektion 3.3</tspan>
+                  </textPath>
+               </text>
+            </svg>
+         </switch>
+      </g>
+      <rect x="319" y="142" width="105" height="90" fill="#000000" stroke="#000000" transform="translate(2,3)" opacity="0.25"/>
+      <rect x="319" y="142" width="105" height="90" fill="#ffe4c2" stroke="#000000" pointer-events="none"/>
+      <g transform="translate(-0.5 -0.5)">
+         <switch>
+            <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+               <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 103px; height: 1px; padding-top: 187px; margin-left: 320px;">
+                  <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                     <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; word-break: break-word; white-space: normal; word-wrap: normal; ">
+                        <font style="font-size: 11px"><a href="https://github.com/Fuenfgeld/ATeamDatenmanagementUndArchivierung/wiki/Datenqualit%C3%A4t#identifikation-von-redundanzen-und-unstimmigkeiten---data-clearing">Wiki Datenqualität</a></font>
+                        <hr id="null" />
+                        <font style="font-size: 11px"><a href="https://github.com/Fuenfgeld/ATeamDatenmanagementUndArchivierung/wiki/Datenqualit%C3%A4t#identifikation-von-redundanzen-und-unstimmigkeiten---data-clearing">Data Clearing</a></font>
+                     </div>
+                  </div>
+               </div>
+            </foreignObject>
+            <svg width="100%" height="100%">
+               <defs>
+                  <path id="wdeeMe6EqBnUtwRO" d="M327.171875,169.2 h88.65625"/>
+                  <path id="wdeeMe6EqBnUtwRP" d="M337.859375,216.2 h67.265625"/>
+               </defs>
+               <text fill="rgb(0, 123, 255)" font-size="11px" font-family="Helvetica" font-weight="400">
+                  <textPath xlink:href="#wdeeMe6EqBnUtwRO" startOffset="50%" text-anchor="middle">
+                     <tspan xml:space="preserve">Wiki Datenqualität</tspan>
+                  </textPath>
+               </text>
+               <text fill="rgb(0, 123, 255)" font-size="11px" font-family="Helvetica" font-weight="400">
+                  <textPath xlink:href="#wdeeMe6EqBnUtwRP" startOffset="50%" text-anchor="middle">
+                     <tspan xml:space="preserve">Data Clearing</tspan>
+                  </textPath>
+               </text>
+            </svg>
+         </switch>
+      </g>
+      <rect x="412.5" y="55" width="226.28" height="44" fill="#000000" stroke="#000000" transform="translate(2,3)" opacity="0.25"/>
+      <rect x="412.5" y="55" width="226.28" height="44" fill="#ffe4c2" stroke="#000000" pointer-events="none"/>
+      <g transform="translate(-0.5 -0.5)">
+         <switch>
+            <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+               <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 224px; height: 1px; padding-top: 77px; margin-left: 414px;">
+                  <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                     <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; word-break: break-word; white-space: normal; word-wrap: normal; "><a href="https://github.com/Fuenfgeld/ATeamDatenmanagementUndArchivierung/wiki/Datenmanagementplan#32-datenspeicherung-und-datenzugriff">Datenmanagementplan <br/>Sektion 3.2</a></div>
+                  </div>
+               </div>
+            </foreignObject>
+            <svg width="100%" height="100%">
+               <defs>
+                  <path id="odeeMe6EqBnUtwRQ" d="M461.953125,76.1 h128.09375 M461.953125,90.5 h128.09375"/>
+                  <path id="odeeMe6EqBnUtwRR" d="M461.953125,76.1 h128.09375 M461.953125,90.5 h128.09375"/>
+               </defs>
+               <text fill="rgb(0, 123, 255)" font-size="12px" font-family="Helvetica" font-weight="400">
+                  <textPath xlink:href="#odeeMe6EqBnUtwRQ">
+                     <tspan xml:space="preserve">Datenmanagementplan </tspan>
+                     <tspan xml:space="preserve"/>
+                     <tspan xml:space="preserve">Sektion 3.2</tspan>
+                  </textPath>
+               </text>
+               <text fill="rgb(0, 123, 255)" font-size="12px" font-family="Helvetica" font-weight="400">
+                  <textPath xlink:href="#odeeMe6EqBnUtwRR">
+                     <tspan xml:space="preserve">Datenmanagementplan </tspan>
+                     <tspan xml:space="preserve"/>
+                     <tspan xml:space="preserve">Sektion 3.2</tspan>
+                  </textPath>
+               </text>
+            </svg>
+         </switch>
+      </g>
+      <rect x="429" y="103" width="210" height="129" fill="#000000" stroke="#000000" transform="translate(2,3)" opacity="0.25"/>
+      <rect x="429" y="103" width="210" height="129" fill="#ffe4c2" stroke="#000000" pointer-events="none"/>
+      <g transform="translate(-0.5 -0.5)">
+         <switch>
+            <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+               <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 208px; height: 1px; padding-top: 168px; margin-left: 430px;">
+                  <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                     <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; word-break: break-word; white-space: normal; word-wrap: normal; "><a href="https://github.com/Fuenfgeld/ATeamDatenmanagementUndArchivierung/wiki/Datenbereinigung-im-ETL-Prozess">Wiki / ETL-Prozess</a>, <a href="https://github.com/Fuenfgeld/ATeamDatenmanagementUndArchivierung/wiki/Mappingtabelle_Gesamt">Mapping-Tabellen</a></div>
+                  </div>
+               </div>
+            </foreignObject>
+            <svg width="100%" height="100%">
+               <defs>
+                  <path id="4deeMe6EqBnUtwRS" d="M432.28125,174.1 h102.015625"/>
+                  <path id="EdeeMe6EqBnUtwRT" d="M432.28125,174.1 h203.421875"/>
+                  <path id="EdeeMe6EqBnUtwRU" d="M540.96875,174.1 h94.734375"/>
+               </defs>
+               <text fill="rgb(0, 123, 255)" font-size="12px" font-family="Helvetica" font-weight="400">
+                  <textPath xlink:href="#4deeMe6EqBnUtwRS" startOffset="50%" text-anchor="middle">
+                     <tspan xml:space="preserve">Wiki / ETL-Prozess</tspan>
+                  </textPath>
+               </text>
+               <text fill="rgb(0, 0, 0)" font-size="12px" font-family="Helvetica" font-weight="400">
+                  <textPath xlink:href="#EdeeMe6EqBnUtwRT" startOffset="50%" text-anchor="middle">
+                     <tspan xml:space="preserve">
+                        <tspan xml:space="preserve">Wiki / ETL-Prozess</tspan>
+                     </tspan>
+                     <tspan xml:space="preserve">, </tspan>
+                     <tspan xml:space="preserve">
+                        <tspan xml:space="preserve">Mapping-Tabellen</tspan>
+                     </tspan>
+                  </textPath>
+               </text>
+               <text fill="rgb(0, 123, 255)" font-size="12px" font-family="Helvetica" font-weight="400">
+                  <textPath xlink:href="#EdeeMe6EqBnUtwRU" startOffset="50%" text-anchor="middle">
+                     <tspan xml:space="preserve">Mapping-Tabellen</tspan>
+                  </textPath>
+               </text>
+            </svg>
+         </switch>
+      </g>
+      <path d="M 436 501 L 510.57 501 L 510.57 501 L 525.5 520 L 510.57 539 L 510.57 539 L 436 539 L 444.5 520 Z" fill="#e3e27d" stroke="#333333" stroke-miterlimit="10" pointer-events="none"/>
+      <g transform="translate(-0.5 -0.5)">
+         <switch>
+            <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+               <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 520px; margin-left: 481px;">
+                  <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                     <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; white-space: nowrap; "><a href="https://github.com/Fuenfgeld/ATeamDatenmanagementUndArchivierung/blob/main/tools/ETL_create_view_central.sql">ETL_view.sql</a></div>
+                  </div>
+               </div>
+            </foreignObject>
+            <svg width="100%" height="100%">
+               <defs>
+                  <path id="UdeeMe6EqBnUtwRV" d="M446.15625,526.1 h70.703125"/>
+               </defs>
+               <text fill="rgb(0, 123, 255)" font-size="12px" font-family="Helvetica" font-weight="400">
+                  <textPath xlink:href="#UdeeMe6EqBnUtwRV" startOffset="50%" text-anchor="middle">
+                     <tspan xml:space="preserve">ETL_view.sql</tspan>
+                  </textPath>
+               </text>
+            </svg>
+         </switch>
+      </g>
+      <path d="M 547 501 L 656.07 501 L 656.07 501 L 671 520 L 656.07 539 L 656.07 539 L 547 539 L 559.29 520 Z" fill="#ff9f1c" stroke="#333333" stroke-miterlimit="10" pointer-events="none"/>
+      <g transform="translate(-0.5 -0.5)">
+         <switch>
+            <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+               <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 520px; margin-left: 609px;">
+                  <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                     <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; white-space: nowrap; "><a href="https://github.com/Fuenfgeld/ATeamDatenmanagementUndArchivierung/blob/main/tools/ETL_process.py">ETL_process.py</a></div>
+                  </div>
+               </div>
+            </foreignObject>
+            <svg width="100%" height="100%">
+               <defs>
+                  <path id="0deeMe6EqBnUtwRW" d="M566.140625,526.1 h86.71875"/>
+               </defs>
+               <text fill="rgb(0, 123, 255)" font-size="12px" font-family="Helvetica" font-weight="400">
+                  <textPath xlink:href="#0deeMe6EqBnUtwRW" startOffset="50%" text-anchor="middle">
+                     <tspan xml:space="preserve">ETL_process.py</tspan>
+                  </textPath>
+               </text>
+            </svg>
+         </switch>
+      </g>
+      <rect x="28.5" y="9" width="136" height="90" fill="#000000" stroke="#000000" transform="translate(2,3)" opacity="0.25"/>
+      <rect x="28.5" y="9" width="136" height="90" fill="#ffe4c2" stroke="#000000" pointer-events="none"/>
+      <g transform="translate(-0.5 -0.5)">
+         <switch>
+            <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+               <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 134px; height: 1px; padding-top: 54px; margin-left: 29px;">
+                  <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                     <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; word-break: break-word; white-space: normal; word-wrap: normal; "><a href="https://github.com/Fuenfgeld/ATeamDatenmanagementUndArchivierung/wiki/Datenmanagementplan#1-administrative-daten">Datenmanagementplan Sektionen 1 und 2</a></div>
+                  </div>
+               </div>
+            </foreignObject>
+            <svg width="100%" height="100%">
+               <defs>
+                  <path id="MdeeMe6EqBnUtwRX" d="M33.609375,53.1 h124.765625 M33.609375,67.5 h124.765625"/>
+               </defs>
+               <text fill="rgb(0, 123, 255)" font-size="12px" font-family="Helvetica" font-weight="400">
+                  <textPath xlink:href="#MdeeMe6EqBnUtwRX">
+                     <tspan xml:space="preserve">Datenmanagementplan Sektionen 1 und 2</tspan>
+                  </textPath>
+               </text>
+            </svg>
+         </switch>
+      </g>
+      <path d="M 709 501 L 823 501 L 823 501 L 823 510 L 823 519 L 823 519 L 709 519 L 709 510 Z" fill="#ff9f1c" stroke="#333333" stroke-miterlimit="10" pointer-events="none"/>
+      <g transform="translate(-0.5 -0.5)">
+         <switch>
+            <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+               <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 510px; margin-left: 766px;">
+                  <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                     <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; white-space: nowrap; "><a href="https://github.com/Fuenfgeld/ATeamDatenmanagementUndArchivierung/blob/main/src/public_datawarehouse_connection.py">public_db_conn.py</a></div>
+                  </div>
+               </div>
+            </foreignObject>
+            <svg width="100%" height="100%">
+               <defs>
+                  <path id="cdeeMe6EqBnUtwRY" d="M716.46875,516.1 h100.078125"/>
+               </defs>
+               <text fill="rgb(0, 123, 255)" font-size="12px" font-family="Helvetica" font-weight="400">
+                  <textPath xlink:href="#cdeeMe6EqBnUtwRY" startOffset="50%" text-anchor="middle">
+                     <tspan xml:space="preserve">public_db_conn.py</tspan>
+                  </textPath>
+               </text>
+            </svg>
+         </switch>
+      </g>
+      <path d="M 674 521.66 L 1009.07 521.66 L 1009.07 521.66 L 1024 530.66 L 1009.07 539.66 L 1009.07 539.66 L 674 539.66 L 682.5 530.66 Z" fill="#ffbf69" stroke="#333333" stroke-miterlimit="10" pointer-events="none"/>
+      <g transform="translate(-0.5 -0.5)">
+         <switch>
+            <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+               <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 531px; margin-left: 849px;">
+                  <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                     <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; white-space: nowrap; "><a href="https://github.com/Fuenfgeld/ATeamDatenmanagementUndArchivierung/blob/main/IMECOS_master.ipynb">IMECOS_master.ipynb</a></div>
+                  </div>
+               </div>
+            </foreignObject>
+            <svg width="100%" height="100%">
+               <defs>
+                  <path id="CdeeMe6EqBnUtwRZ" d="M788.484375,537.1 h122.046875"/>
+               </defs>
+               <text fill="rgb(0, 123, 255)" font-size="12px" font-family="Helvetica" font-weight="400">
+                  <textPath xlink:href="#CdeeMe6EqBnUtwRZ" startOffset="50%" text-anchor="middle">
+                     <tspan xml:space="preserve">IMECOS_master.ipynb</tspan>
+                  </textPath>
+               </text>
+            </svg>
+         </switch>
+      </g>
+      <rect x="736" y="9" width="136" height="90" fill="#000000" stroke="#000000" transform="translate(2,3)" opacity="0.25"/>
+      <rect x="736" y="9" width="136" height="90" fill="#ffe4c2" stroke="#000000" pointer-events="none"/>
+      <g transform="translate(-0.5 -0.5)">
+         <switch>
+            <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+               <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 134px; height: 1px; padding-top: 54px; margin-left: 737px;">
+                  <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                     <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; word-break: break-word; white-space: normal; word-wrap: normal; "><a href="https://github.com/Fuenfgeld/ATeamDatenmanagementUndArchivierung/wiki/Datenmanagementplan#34-data-sharing">Datenmanagementplan<br/>Sektion 3.4</a></div>
+                  </div>
+               </div>
+            </foreignObject>
+            <svg width="100%" height="100%">
+               <defs>
+                  <path id="ideeMe6EqBnUtwRa" d="M741.609375,53.1 h124.765625 M741.609375,67.5 h124.765625"/>
+                  <path id="SdeeMe6EqBnUtwRb" d="M741.609375,53.1 h124.765625 M741.609375,67.5 h124.765625"/>
+               </defs>
+               <text fill="rgb(0, 123, 255)" font-size="12px" font-family="Helvetica" font-weight="400">
+                  <textPath xlink:href="#ideeMe6EqBnUtwRa">
+                     <tspan xml:space="preserve">Datenmanagementplan</tspan>
+                     <tspan xml:space="preserve"/>
+                     <tspan xml:space="preserve">Sektion 3.4</tspan>
+                  </textPath>
+               </text>
+               <text fill="rgb(0, 123, 255)" font-size="12px" font-family="Helvetica" font-weight="400">
+                  <textPath xlink:href="#SdeeMe6EqBnUtwRb">
+                     <tspan xml:space="preserve">Datenmanagementplan</tspan>
+                     <tspan xml:space="preserve"/>
+                     <tspan xml:space="preserve">Sektion 3.4</tspan>
+                  </textPath>
+               </text>
+            </svg>
+         </switch>
+      </g>
+      <rect x="645" y="55" width="86" height="44" fill="#000000" stroke="#000000" transform="translate(2,3)" opacity="0.25"/>
+      <rect x="645" y="55" width="86" height="44" fill="#ffe4c2" stroke="#000000" pointer-events="none"/>
+      <g transform="translate(-0.5 -0.5)">
+         <switch>
+            <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+               <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 84px; height: 1px; padding-top: 77px; margin-left: 646px;">
+                  <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                     <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; word-break: break-word; white-space: normal; word-wrap: normal; "><font style="font-size: 11px"><a href="https://github.com/Fuenfgeld/ATeamDatenmanagementUndArchivierung/wiki/Datenschutz-Folgeabsch%C3%A4tzung">Datenschutz-folge-abschätzung</a></font></div>
+                  </div>
+               </div>
+            </foreignObject>
+            <svg width="100%" height="100%">
+               <defs>
+                  <path id="ydeeMe6EqBnUtwRc" d="M655.59375,68.7 h64.8125 M655.59375,81.5 h64.8125 M655.59375,94.3 h64.8125"/>
+               </defs>
+               <text fill="rgb(0, 123, 255)" font-size="11px" font-family="Helvetica" font-weight="400">
+                  <textPath xlink:href="#ydeeMe6EqBnUtwRc">
+                     <tspan xml:space="preserve">Datenschutz-folge-abschätzung</tspan>
+                  </textPath>
+               </text>
+            </svg>
+         </switch>
+      </g>
+      <rect x="645" y="103" width="227" height="129" fill="#000000" stroke="#000000" transform="translate(2,3)" opacity="0.25"/>
+      <rect x="645" y="103" width="227" height="129" fill="#ffe4c2" stroke="#000000" pointer-events="none"/>
+      <g transform="translate(-0.5 -0.5)">
+         <switch>
+            <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+               <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 225px; height: 1px; padding-top: 168px; margin-left: 646px;">
+                  <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                     <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; word-break: break-word; white-space: normal; word-wrap: normal; "><a href="https://github.com/Fuenfgeld/ATeamDatenmanagementUndArchivierung/wiki/System-Umgebung">Wiki / System-Umgebung</a></div>
+                  </div>
+               </div>
+            </foreignObject>
+            <svg width="100%" height="100%">
+               <defs>
+                  <path id="qdeeMe6EqBnUtwRd" d="M690.8125,174.1 h135.375"/>
+               </defs>
+               <text fill="rgb(0, 123, 255)" font-size="12px" font-family="Helvetica" font-weight="400">
+                  <textPath xlink:href="#qdeeMe6EqBnUtwRd" startOffset="50%" text-anchor="middle">
+                     <tspan xml:space="preserve">Wiki / System-Umgebung</tspan>
+                  </textPath>
+               </text>
+            </svg>
+         </switch>
+      </g>
+      <rect x="878" y="103" width="227" height="129" fill="#000000" stroke="#000000" transform="translate(2,3)" opacity="0.25"/>
+      <rect x="878" y="103" width="227" height="129" fill="#ffe4c2" stroke="#000000" pointer-events="none"/>
+      <g transform="translate(-0.5 -0.5)">
+         <switch>
+            <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+               <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 225px; height: 1px; padding-top: 167px; margin-left: 879px;">
+                  <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                     <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; word-break: break-word; white-space: normal; word-wrap: normal; "><font style="font-size: 11px"><a href="https://github.com/Fuenfgeld/ATeamDatenmanagementUndArchivierung/wiki/Forschungsergebnisse">Wiki / Forschungsergebnisse</a></font><font style="font-size: 12px"></font></div>
+                  </div>
+               </div>
+            </foreignObject>
+            <svg width="100%" height="100%">
+               <defs>
+                  <path id="adeeMe6EqBnUtwRe" d="M920.875,172.7 h141.234375"/>
+               </defs>
+               <text fill="rgb(0, 123, 255)" font-size="11px" font-family="Helvetica" font-weight="400">
+                  <textPath xlink:href="#adeeMe6EqBnUtwRe" startOffset="50%" text-anchor="middle">
+                     <tspan xml:space="preserve">Wiki / Forschungsergebnisse</tspan>
+                  </textPath>
+               </text>
+            </svg>
+         </switch>
+      </g>
+      <path d="M 243.86 99.1 L 243.9 120.52 L 98.62 120.52 L 98.62 135.58" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+      <path d="M 98.62 140.83 L 95.12 133.83 L 98.62 135.58 L 102.12 133.83 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+      <path d="M 446 566.38 L 375.52 566.38 L 375.52 587.19 L 311.18 587.19" fill="none" stroke="#333333" stroke-miterlimit="10" pointer-events="none"/>
+      <path d="M 305.93 587.19 L 312.93 583.69 L 311.18 587.19 L 312.93 590.69 Z" fill="#333333" stroke="#333333" stroke-miterlimit="10" pointer-events="none"/>
+      <path d="M 538.64 562.19 L 538.64 552.19 L 604.1 552.19 L 604.1 611.5 L 614.6 611.5 L 599.1 630.5 L 583.6 611.5 L 594.1 611.5 L 594.1 562.19 Z" fill-opacity="0.8" fill="#ff9f1c" stroke="#333333" stroke-opacity="0.8" stroke-miterlimit="1.42" pointer-events="none"/>
+      <path d="M 604.1 611.5 L 614.6 611.5 L 599.1 630.5 L 583.6 611.5 L 594.1 611.5" fill="none" stroke="#333333" stroke-opacity="0.8" stroke-miterlimit="4" pointer-events="none"/>
+      <path d="M 305.31 604.57 L 305.31 594.57 L 566 594.62 L 566 611.5 L 576.5 611.5 L 561 630.5 L 545.5 611.5 L 556 611.5 L 556 604.62 Z" fill-opacity="0.8" fill="#ff9f1c" stroke="#333333" stroke-opacity="0.8" stroke-miterlimit="1.42" pointer-events="none"/>
+      <path d="M 566 611.5 L 576.5 611.5 L 561 630.5 L 545.5 611.5 L 556 611.5" fill="none" stroke="#333333" stroke-opacity="0.8" stroke-miterlimit="4" pointer-events="none"/>
+      <path d="M 698.14 609.1 L 743.52 609.1 L 743.52 599.62 L 782.73 599.58" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+      <path d="M 787.98 599.57 L 780.98 603.08 L 782.73 599.58 L 780.97 596.08 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+      <path d="M 698 573.67 L 743.52 573.67 L 743.52 584.52 L 782.63 584.52" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+      <path d="M 787.88 584.52 L 780.88 588.02 L 782.63 584.52 L 780.88 581.02 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+      <path d="M 849.1 584.33 L 868.52 584.29 L 868.52 584 L 881.63 584" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+      <path d="M 886.88 584 L 879.88 587.5 L 881.63 584 L 879.88 580.5 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+      <path d="M 942.9 583.86 L 964.52 583.9 L 964.52 583.71 L 979.63 583.71" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+      <path d="M 984.88 583.71 L 977.88 587.21 L 979.63 583.71 L 977.88 580.21 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+      <path d="M 617.22 673.14 L 617.21 663.14 L 677.9 663.1 L 677.9 639.55 L 667.4 639.55 L 682.9 620.55 L 698.4 639.55 L 687.9 639.55 L 687.9 673.09 Z" fill="#ff9f1c" stroke="#333333" stroke-miterlimit="1.42" pointer-events="none"/>
+      <path d="M 677.9 639.55 L 667.4 639.55 L 682.9 620.55 L 698.4 639.55 L 687.9 639.55" fill="none" stroke="#333333" stroke-miterlimit="4" pointer-events="none"/>
+      <g transform="translate(-0.5 -0.5)">
+         <switch>
+            <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+               <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 666px; margin-left: 637px;">
+                  <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                     <div style="display: inline-block; font-size: 8px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; background-color: #ffffff; white-space: nowrap; "><font style="font-size: 12px">L</font></div>
+                  </div>
+               </div>
+            </foreignObject>
+            <svg width="100%" height="100%">
+               <defs>
+                  <path id="WdeeMe6EqBnUtwRf" d="M634.15625,672.1 h6.6875"/>
+               </defs>
+               <text fill="rgb(0, 0, 0)" font-size="12px" font-family="Helvetica" font-weight="400">
+                  <textPath xlink:href="#WdeeMe6EqBnUtwRf" startOffset="50%" text-anchor="middle">
+                     <tspan xml:space="preserve">L</tspan>
+                  </textPath>
+               </text>
+            </svg>
+         </switch>
+      </g>
+      <path d="M 177.69 746 L 177.69 736 L 209.81 736 L 209.81 716.69 L 199.31 716.69 L 214.81 697.69 L 230.31 716.69 L 219.81 716.69 L 219.81 746 Z" fill="#ff9f1c" stroke="#333333" stroke-miterlimit="1.42" pointer-events="none"/>
+      <path d="M 209.81 716.69 L 199.31 716.69 L 214.81 697.69 L 230.31 716.69 L 219.81 716.69" fill="none" stroke="#333333" stroke-miterlimit="4" pointer-events="none"/>
+      <path d="M 253.4 668.86 L 253.41 658.86 L 282.71 658.9 L 282.68 631.93 L 272.18 631.94 L 287.67 612.93 L 303.18 631.91 L 292.68 631.92 L 292.72 668.91 Z" fill="#ff9f1c" stroke="#333333" stroke-miterlimit="1.42" pointer-events="none"/>
+      <path d="M 282.68 631.93 L 272.18 631.94 L 287.67 612.93 L 303.18 631.91 L 292.68 631.92" fill="none" stroke="#333333" stroke-miterlimit="4" pointer-events="none"/>
+      <path d="M 243.86 99.1 L 243.86 135.58" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+      <path d="M 243.86 140.83 L 240.36 133.83 L 243.86 135.58 L 247.36 133.83 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+   </g>
+   <switch>
+      <g requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"/>
+      <a transform="translate(0,-5)">
+         <text text-anchor="middle" font-size="10px" x="50%" y="100%"></text>
+      </a>
+   </switch>
+</svg>
