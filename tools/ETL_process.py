@@ -137,10 +137,36 @@ FROM
 )
 encounters_columns = ('Id', 'DATASET_ORIGIN', 'encounter_START', 'encounter_STOP', 'PATIENT_Id', 'PAYER_Id', 'payer_START_YEAR', 'payer_END_YEAR', 'payer_OWNERSHIP', 'ENCOUNTERCLASS', 'encounter_CODE', 'encounter_REASONCODE', 'condition_START', 'condition_STOP', 'condition_CODE', 'immunization_DATE', 'immunization_CODE', 'procedure_DATE', 'procedure_CODE', 'procedure_REASONCODE', 'medication_START', 'medication_STOP', 'medication_CODE', 'medication_REASONCODE', 'BASE_ENCOUNTER_COST', 'BASE_IMMUNIZATION_COST', 'BASE_PROCEDURE_COST', 'BASE_MEDICATION_COST', 'medication_PAYER_COVERAGE', 'medication_DISPENSES', 'medication_TOTALCOST')
 encounters = pd.DataFrame(cur.fetchall(), columns=encounters_columns)
-del(encounters_columns)
+# not del encounters_columns because needed later
 print("Successfully Extracted Data")
 #TRANSFORMATION
+# patients table
+# pseudonymize patient_Id
+# save patient_Id to temporary df
+patient_encoder = pd.DataFrame()
+patient_encoder["PATIENT_Id"] = patients["Id"]
+# tokenize patient_Id in patients df
+from cape_privacy.pandas import transformations as tfms
+tokenize_Id = tfms.Tokenizer(max_token_len=16, key='IMECOS_patients')
+patients['Id'] = tokenize_Id(patients['Id'])
+# save encoded Id to temporary df
+patient_encoder['enc_Id'] = patients['Id']
+
+# Calculate Ratio
+patients['COV_EXP_RATIO'] = patients['HEALTHCARE_COVERAGE']/patients['HEALTHCARE_EXPENSES']
+# delete columns
+patients = patients.drop(['HEALTHCARE_COVERAGE', 'HEALTHCARE_EXPENSES'], axis=1)
+insert_tables.append(patients)
+insert_table_names.append('patients')
+del(patients)
 # encounters table
+# apply encoded Id
+encounters = encounters.join(patient_encoder.set_index('PATIENT_Id'), on='PATIENT_Id', how='left')
+encounters = encounters.drop(['PATIENT_Id'], axis=1)
+encounters = encounters.rename(columns={'enc_Id': 'PATIENT_Id'})
+encounters = encounters[list(encounters_columns)]
+del(encounters_columns)
+del(patient_encoder)
 # Change all date columns to year
 encounters_date_columns = ['encounter_START', 'encounter_STOP', 'condition_START', 'condition_STOP', 'immunization_DATE', 'procedure_DATE', 'medication_START', 'medication_STOP']
 for date_column in encounters_date_columns:
@@ -157,14 +183,6 @@ del(row_counter)
 insert_tables.append(encounters)
 insert_table_names.append('encounters')
 del(encounters)
-# patients table
-# Calculate Ratio
-patients['COV_EXP_RATIO'] = patients['HEALTHCARE_COVERAGE']/patients['HEALTHCARE_EXPENSES']
-# delete columns
-patients = patients.drop(['HEALTHCARE_COVERAGE', 'HEALTHCARE_EXPENSES'], axis=1)
-insert_tables.append(patients)
-insert_table_names.append('patients')
-del(patients)
 print("Successfully Transformed Data")
 # LOADING
 # create new database locally in public location
