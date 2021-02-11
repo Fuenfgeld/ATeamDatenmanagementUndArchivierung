@@ -144,7 +144,7 @@ print("Successfully Extracted Data")
 # pseudonymize patient_Id
 # save patient_Id to temporary df
 patient_encoder = pd.DataFrame()
-patient_encoder["Id"] = patients["Id"]
+patient_encoder["PATIENT_Id"] = patients["Id"]
 # tokenize patient_Id in patients df
 from cape_privacy.pandas import transformations as tfms
 tokenize_Id = tfms.Tokenizer(max_token_len=16, key='IMECOS_patients')
